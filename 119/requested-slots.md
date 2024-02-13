@@ -9,7 +9,7 @@
    - Slot: 15 mn
 
 * Common vocabulary for incident management (draft-davis-nmop-incident-terminology)
-   - Presenter: Adrian Farell
+   - Presenter: Adrian Farrel
    - Slot: 15 min
 
 * Rule-based Service Anomaly Detection in Internet Services
