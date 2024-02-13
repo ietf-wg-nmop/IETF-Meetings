@@ -31,11 +31,9 @@
    - Presenter: Alex Huang Feng (remote)
    - Slot: 15 min
 
-# Issues related to deployment/usage of YANG topology modules (e.g., to
-model a Digital Map)
+# Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
 
-# Consider/plan an approach for updating RFC 3535-bis (collecting
-updated operator requirements for IETF network management solutions)
+# Consider/plan an approach for updating RFC 3535-bis (collecting updated operator requirements for IETF network management solutions)
 
 * An Update of Operators Requirements on Network Management Protocols and Modelling
    - I-D: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
