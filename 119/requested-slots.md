@@ -24,3 +24,8 @@
    - I-D: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
    - Presenter: Luis Miguel CONTRERAS MURILLO
    - Slot: 15 min
+
+* Incident Management for Network Services (Suggested by Rob)
+   - I-D: [draft-feng-opsawg-incident-management](https://datatracker.ietf.org/doc/draft-feng-opsawg-incident-management/)
+   - Presenter: ??
+   - Slot: 15 min
