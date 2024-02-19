@@ -24,11 +24,16 @@ This page records received slot requests. The agenda will be published [here](ht
 * Semantic Metadata Annotation for Network Anomaly Detection
    - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
    - Presenter: Thomas Graf (onsite)
-   - Slot: 10 mn
+   - Slot: 10 min
 
 * Rule-based Service Anomaly Detection in Internet Services
    - I-D: N/A
    - Presenter: Alex Huang Feng (remote)
+   - Slot: 15 min
+
+* Network Anomaly Detection – Real Time Streaming
+   - I-D: N/A   
+   - Presenter: Wanting Du (remote)
    - Slot: 15 min
 
 ## Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
