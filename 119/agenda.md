@@ -9,6 +9,11 @@
    
 # NETCONF/YANG Push Integration (15 min)
 
+Goals: 
+* Provide an overview of the functional perimeter of each involved component
+* Highlight main integration concerns/void
+* Agree on a set of next steps
+
 ## An Architecture for YANG Push to Apache Kafka Integration (10 min)
 
    - I-D: draft-netana-nmop-yang-kafka-integration
@@ -17,6 +22,11 @@
 ## Q&A (5 min)
 
 # Indident Management (30 min)
+
+Goals: 
+* Clarify the intended scope for this work (network, service, etc.)
+* Clarify how this effort fits within the overall ecosystem
+* Agree on required actions to ensure a coordination is in place early in the process
 
 ## Common vocabulary for incident management (10 min)
 
@@ -31,6 +41,9 @@
 ## Q&A (10 min)
 
 # Anomaly Detection (40 min)
+
+Goals: 
+* Clarify the problem to be solved
 
 ## Semantic Metadata Annotation for Network Anomaly Detection (10 min)
 
@@ -51,6 +64,10 @@
 
 # Collecting Updated Operator Requirements for IETF Network Management Solutions (15 min)
 
+Goals: 
+* Explain the rationale for this work
+* Identify interested contributors
+  
 ## An Update of Operators Requirements on Network Management Protocols and Modelling (10 min)
 
    - I-D: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
