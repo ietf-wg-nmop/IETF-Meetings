@@ -35,7 +35,7 @@ Goals:
 
 ## Incident Management for Network Services (10 min)
 
-   - I-D: [draft-feng-opsawg-incident-management](https://datatracker.ietf.org/doc/draft-feng-opsawg-incident-management/)
+   - I-D: [draft-feng-nmop-incident-management](https://datatracker.ietf.org/doc/draft-feng-nmop-incident-management/)
    - Presenter: Qin Wu
 
 ## Q&A (10 min)
