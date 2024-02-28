@@ -10,8 +10,8 @@
 # NETCONF/YANG Push Integration (15 min)
 
 Goals: 
-* Provide an overview of the functional perimeter of each involved component
-* Highlight main integration concerns/void
+* Problem space overview (Provide an overview of the functional perimeter of each involved component)
+* Highlight main integration concerns/missing pieces
 * Agree on a set of next steps
 
 ## An Architecture for YANG Push to Apache Kafka Integration (10 min)
@@ -27,16 +27,16 @@ Goals:
 * Clarify the intended scope for this work (network, service, etc.)
 * Clarify how this effort fits within the overall ecosystem
 * Agree on required actions to ensure a coordination is in place early in the process
-
-## Common vocabulary for incident management (10 min)
-
-   - I-D: [draft-davis-nmop-incident-terminology](https://datatracker.ietf.org/doc/draft-davis-nmop-incident-terminology/)
-   - Presenter: Nigel Davis (onsite)/Adrian Farrel (remote)
-
+  
 ## Incident Management for Network Services (10 min)
 
    - I-D: [draft-feng-nmop-incident-management](https://datatracker.ietf.org/doc/draft-feng-nmop-incident-management/)
    - Presenter: Qin Wu
+     
+## Common vocabulary for incident management (10 min)
+
+   - I-D: [draft-davis-nmop-incident-terminology](https://datatracker.ietf.org/doc/draft-davis-nmop-incident-terminology/)
+   - Presenter: Nigel Davis (onsite)/Adrian Farrel (remote)
 
 ## Q&A (10 min)
 
@@ -45,20 +45,21 @@ Goals:
 Goals: 
 * Clarify the problem to be solved
 
+## Network Anomaly Detection – Real Time Streaming (10 min)
+
+   - I-D: N/A   
+   - Presenter: Wanting Du (remote)
+
 ## Semantic Metadata Annotation for Network Anomaly Detection (10 min)
 
    - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
    - Presenter: Thomas Graf (onsite)
 
-## Rule-based Service Anomaly Detection in Internet Services (10 min)
+## Rule-based Service Anomaly Detection in Internet Services (10 min), depending on the available time
 
    - I-D: N/A
    - Presenter: Alex Huang Feng (remote)
 
-## Network Anomaly Detection – Real Time Streaming (10 min)
-
-   - I-D: N/A   
-   - Presenter: Wanting Du (remote)
 
 ## Q&A (10 min)
 
