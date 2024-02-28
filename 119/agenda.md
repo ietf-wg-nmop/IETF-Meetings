@@ -26,7 +26,7 @@ Goals:
 Goals: 
 * Clarify the intended scope for this work (network, service, etc.)
 * Clarify how this effort fits within the overall ecosystem
-* Agree on required actions to ensure a coordination is in place early in the process
+* Agree on required actions to ensure this effort is useful for operators + a coordination is in place early in the process
   
 ## Incident Management for Network Services (10 min)
 
