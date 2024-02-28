@@ -5,9 +5,9 @@ This page records received slot requests. The agenda will be published [here](ht
 ## NETCONF/YANG Push integration with Apache Kafka & time series databases
 
 * An Architecture for YANG Push to Apache Kafka Integration
-   - I-D: draft-netana-nmop-yang-kafka-integration
+   - I-D: [draft-netana-nmop-yang-kafka-integration](https://datatracker.ietf.org/doc/draft-netana-nmop-yang-kafka-integration/)
    - Presenter: Thomas Graf (onsite)
-   - Slot: 15 mn
+   - Slot: 15 min
 
 ## Anomaly detection and incident management
 
@@ -35,8 +35,18 @@ This page records received slot requests. The agenda will be published [here](ht
    - I-D: N/A   
    - Presenter: Wanting Du (remote)
    - Slot: 15 min
+     
+* Experiment: Network Anomaly Postmortem Lifecycle
+   - I-D: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)  
+   - Presenter: Vincenzo Riccobene (remote)
+   - Slot: 15 min
 
 ## Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
+
+* Experiment: Modelling the Digital Map based on RFC 8345: Sharing Experience and Perspectives
+   - I-D: [draft-havel-opsawg-digital-map/](https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/)  
+   - Presenter: Olga Havel (remote)
+   - Slot: 15 min
 
 ## Consider/plan an approach for updating RFC 3535-bis (collecting updated operator requirements for IETF network management solutions)
 
