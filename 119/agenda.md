@@ -10,7 +10,7 @@
 # NETCONF/YANG Push Integration (15 min)
 
 Goals: 
-* Problem space overview (Provide an overview of the functional perimeter of each involved component)
+* Problem space overview (functional perimeter of each involved component)
 * Highlight main integration concerns/missing pieces
 * Agree on a set of next steps
 
