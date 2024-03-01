@@ -18,7 +18,7 @@ This page records received slot requests. The agenda will be published [here](ht
 
 * Incident Management for Network Services (Suggested by Rob)
    - I-D: [draft-feng-opsawg-incident-management](https://datatracker.ietf.org/doc/draft-feng-opsawg-incident-management/)
-   - Presenter: ??
+   - Presenter: Wenqin
    - Slot: 15 min
 
 * Semantic Metadata Annotation for Network Anomaly Detection
@@ -42,6 +42,11 @@ This page records received slot requests. The agenda will be published [here](ht
    - Slot: 15 min
 
 ## Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
+
+* Modeling of Intermediate System to intermediate System (IS-IS) and OSPF Topologies
+  - Draft names: draft-ogondio-nmop-isis-topology-00 and : draft-ogondio-ospf-isis-topology-00 (to be submitted by end of week)
+  - Speaker Oscar Gonzalez de Dios (remote)
+  - Slot: 10 min
 
 * Experiment: Modelling the Digital Map based on RFC 8345: Sharing Experience and Perspectives
    - I-D: [draft-havel-opsawg-digital-map/](https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/)  
