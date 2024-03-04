@@ -4,6 +4,20 @@
                      Monday, March 18, 2024
          Co-Chairs: Benoît Claise & Mohamed Boucadair
 
+
+
+| Slot          | Topic              | Presenter      |
+|:-------------:|:-----------------:|:----------------|
+| 13:00 - 13:05 | Agenda Bashing & Introduction| Chairs    |
+| 13:05 - 13:10 | A Word from the AD | Rob    |
+| 13:10 - 13:25  | NETCONF/YANG Push Integration | Thomas    |
+| 13:25 - 13:55 | Indident Management | Qin/Nigel    |
+| 13:55 - 14:25 |  Anomaly Detection | Wanting/Thomas/Alex   |
+| 14:25 - 14:40 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar    |
+| 14:40 - 14:55 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
+| 14:55 - 15:00 | Wrap-up | AD & Chairs    |
+
+
 # Agenda Bashing & Introduction (Chairs) (5 min)
 # A Word from the AD (Rob) (5 min)
    
@@ -40,7 +54,7 @@ Goals:
 
 ## Q&A (10 min)
 
-# Anomaly Detection (40 min)
+# Anomaly Detection (30 min)
 
 Goals: 
 * Clarify the problem to be solved
@@ -50,18 +64,31 @@ Goals:
    - I-D: N/A   
    - Presenter: Wanting Du (remote)
 
-## Semantic Metadata Annotation for Network Anomaly Detection (10 min)
+## Semantic Metadata Annotation for Network Anomaly Detection (5 min)
 
    - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
    - Presenter: Thomas Graf (onsite)
 
-## Rule-based Service Anomaly Detection in Internet Services (10 min), depending on the available time
+## Rule-based Service Anomaly Detection in Internet Services (5 min), depending on the available time
 
    - I-D: N/A
    - Presenter: Alex Huang Feng (remote)
 
-
 ## Q&A (10 min)
+
+# Issues Related to Deployment/Usage of YANG Topology Modules (15 min)
+
+Goals: 
+* Assess whether there is an issue to be solved.
+* If so, is NMOP the right place for this work?
+
+## Modeling of Intermediate System to intermediate System (IS-IS) and OSPF Topologies
+
+  - I-Ds: draft-ogondio-nmop-isis-topology and draft-ogondio-ospf-isis-topology
+  - Speaker Oscar Gonzalez de Dios (remote)
+  - Slot: 10 min
+
+## Q&A (5 min)
 
 # Collecting Updated Operator Requirements for IETF Network Management Solutions (15 min)
 
