@@ -97,6 +97,12 @@ Goals:
   - Speaker Oscar Gonzalez de Dios (remote)
   - Slot: 10 min
 
+## Modeling the Digital Map based on RFC 8345: Sharing Experience and Perspectives
+
+  - I-Ds: [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
+  - Speaker Olga Havel (remote)
+  - Slot: 10 min
+  - 
 ## Q&A (5 min)
 
 # Collecting Updated Operator Requirements for IETF Network Management Solutions (15 min)
