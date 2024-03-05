@@ -25,7 +25,7 @@
 
 Goals: 
 * Problem space overview (functional perimeter of each involved component)
-* Highlight main integration concerns/missing pieces
+* Clarify the problem to be solvedHighlight main integration concerns/missing pieces
 * Agree on a set of next steps
 
 ## An Architecture for YANG Push to Apache Kafka Integration (10 min)
@@ -38,6 +38,7 @@ Goals:
 # Anomaly Detection (30 min)
 
 Goals: 
+* Problem space overview
 * Clarify the problem to be solved
 
 ## Network Anomaly Detection – Real Time Streaming (10 min)
@@ -64,7 +65,7 @@ Goals:
 
 ## Q&A (10 min)
 
-# Indident Management (30 min)
+# Incident Management (30 min)
 
 Goals: 
 * Clarify the intended scope for this work (network, service, etc.)
