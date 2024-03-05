@@ -36,7 +36,6 @@ Goals:
 # Anomaly Detection (30 min)
 
 Goals: 
-* Problem space overview
 * Clarify the problem to be solved
 
 ## Network Anomaly Detection – Real Time Streaming (10 min)
@@ -55,9 +54,9 @@ Goals:
 # Incident Management (25 min)
 
 Goals: 
-* Clarify the intended scope for this work (network, service, etc.)
-* Clarify how this effort fits within the overall ecosystem
-* Agree on required actions to ensure this effort is useful for operators + a coordination is in place early in the process
+* Clarify the problem to be solved (network, service, etc.)
+* Clarify how this effort fits with the overall SDO ecosystem
+* Agree on required actions to ensure this effort is useful for operators + a SDO coordination is in place early in the process
   
 ## Incident Management for Network Services (10 min)
 
@@ -75,8 +74,8 @@ Goals:
 # Issues Related to Deployment/Usage of YANG Topology Modules (25 min)
 
 Goals: 
-* Assess whether there is an issue to be solved.
-* If so, is NMOP the right place for this work?
+* Clarify the problem to be solved
+* Next step: how to structure this work?
 
 ## Problem Space and Modeling Issue of the Digital Space (15 min)
   
@@ -100,4 +99,4 @@ Goals:
 
 ## Q&A (5 min)
     
-# Misc (All)
+# Misc (All), if time allows
