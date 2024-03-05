@@ -60,4 +60,10 @@ This page records received slot requests. The agenda will be published [here](ht
    - Presenter: Luis Miguel CONTRERAS MURILLO
    - Slot: 15 min
 
+## Misc
+
+* Extended YANG Data Model for DOTS
+  - I-D: [draft-cui-dots-extended-yang](https://datatracker.ietf.org/doc/draft-cui-dots-extended-yang/)
+  - Presenter: Linzhe Li
+  - Slot: 10 min
 
