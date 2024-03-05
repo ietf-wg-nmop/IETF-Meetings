@@ -11,7 +11,7 @@
 | 13:00 - 13:05 | Agenda Bashing & Introduction| Chairs    |
 | 13:05 - 13:10 | A Word from the AD | Rob    |
 | 13:10 - 13:25 | NETCONF/YANG Push Integration | Thomas    |
-| 13:25 - 13:55 | Anomaly Detection | Wanting/Thomas/Vincnezo   |
+| 13:25 - 13:55 | Anomaly Detection | Wanting/Thomas/Vincenzo   |
 | 13:55 - 14:20 | Incident Management | Qin/Nigel    |
 | 14:20 - 14:45 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar/Olga    |
 | 14:45 - 15:00 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
