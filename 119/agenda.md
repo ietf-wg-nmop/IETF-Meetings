@@ -35,6 +35,35 @@ Goals:
 
 ## Q&A (5 min)
 
+# Anomaly Detection (30 min)
+
+Goals: 
+* Clarify the problem to be solved
+
+## Network Anomaly Detection – Real Time Streaming (10 min)
+
+   - I-D: N/A   
+   - Presenter: Wanting Du (remote)
+
+## Semantic Metadata Annotation for Network Anomaly Detection (5 min)
+
+   - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
+   - Presenter: Thomas Graf (onsite)
+
+
+## Experiment: Network Anomaly Postmortem Lifecycle
+
+   - I-D: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
+   - Presenter: Vincenzo Riccobene (remote)
+
+
+## Rule-based Service Anomaly Detection in Internet Services (5 min), depending on the available time
+
+   - I-D: N/A
+   - Presenter: Alex Huang Feng (remote)
+
+## Q&A (10 min)
+
 # Indident Management (30 min)
 
 Goals: 
@@ -54,27 +83,6 @@ Goals:
 
 ## Q&A (10 min)
 
-# Anomaly Detection (30 min)
-
-Goals: 
-* Clarify the problem to be solved
-
-## Network Anomaly Detection – Real Time Streaming (10 min)
-
-   - I-D: N/A   
-   - Presenter: Wanting Du (remote)
-
-## Semantic Metadata Annotation for Network Anomaly Detection (5 min)
-
-   - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
-   - Presenter: Thomas Graf (onsite)
-
-## Rule-based Service Anomaly Detection in Internet Services (5 min), depending on the available time
-
-   - I-D: N/A
-   - Presenter: Alex Huang Feng (remote)
-
-## Q&A (10 min)
 
 # Issues Related to Deployment/Usage of YANG Topology Modules (15 min)
 
