@@ -11,8 +11,8 @@
 | 13:00 - 13:05 | Agenda Bashing & Introduction| Chairs    |
 | 13:05 - 13:10 | A Word from the AD | Rob    |
 | 13:10 - 13:25  | NETCONF/YANG Push Integration | Thomas    |
-| 13:25 - 13:55 | Indident Management | Qin/Nigel    |
 | 13:55 - 14:25 |  Anomaly Detection | Wanting/Thomas/Alex   |
+| 13:25 - 13:55 | Incident Management | Qin/Nigel    |
 | 14:25 - 14:40 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar    |
 | 14:40 - 14:55 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
 | 14:55 - 15:00 | Wrap-up | AD & Chairs    |
@@ -24,9 +24,8 @@
 # NETCONF/YANG Push Integration (15 min)
 
 Goals: 
-* Problem space overview (functional perimeter of each involved component)
-* Clarify the problem to be solvedHighlight main integration concerns/missing pieces
-* Agree on a set of next steps
+* Clarify the problem to be solved (Highlight main integration concerns/missing pieces)
+* Describe the dependencies, status, and next steps
 
 ## An Architecture for YANG Push to Apache Kafka Integration (10 min)
 
@@ -51,21 +50,14 @@ Goals:
    - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
    - Presenter: Thomas Graf (onsite)
 
-
-## Experiment: Network Anomaly Postmortem Lifecycle
+## Experiment: Network Anomaly Postmortem Lifecycle 
 
    - I-D: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
    - Presenter: Vincenzo Riccobene (remote)
 
-
-## Rule-based Service Anomaly Detection in Internet Services (5 min), depending on the available time
-
-   - I-D: N/A
-   - Presenter: Alex Huang Feng (remote)
-
 ## Q&A (10 min)
 
-# Incident Management (30 min)
+# Incident Management (25 min)
 
 Goals: 
 * Clarify the intended scope for this work (network, service, etc.)
@@ -77,7 +69,7 @@ Goals:
    - I-D: [draft-feng-nmop-incident-management](https://datatracker.ietf.org/doc/draft-feng-nmop-incident-management/)
    - Presenter: Qin Wu
      
-## Common vocabulary for incident management (10 min)
+## Common vocabulary for incident management (5 min)
 
    - I-D: [draft-davis-nmop-incident-terminology](https://datatracker.ietf.org/doc/draft-davis-nmop-incident-terminology/)
    - Presenter: Nigel Davis (onsite)/Adrian Farrel (remote)
@@ -91,25 +83,32 @@ Goals:
 * Assess whether there is an issue to be solved.
 * If so, is NMOP the right place for this work?
 
+## Problem Space and Modeling Issue of the Digital Space
+  
+  - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) and draft-ogondio-opsawg-ospf-topology
+  - I-Ds: [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
+  - Speaker: Oscar Gonzalez de Dios (remote) and Olga Havel (remote)
+  - Slot: 15 min
+    
 ## Modeling of Intermediate System to intermediate System (IS-IS) and OSPF Topologies
 
   - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) and draft-ogondio-opsawg-ospf-topology
-  - Speaker Oscar Gonzalez de Dios (remote)
+  - Speaker: Oscar Gonzalez de Dios (remote)
   - Slot: 10 min
 
 ## Modeling the Digital Map based on RFC 8345: Sharing Experience and Perspectives
 
   - I-Ds: [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
-  - Speaker Olga Havel (remote)
+  - Speaker: Olga Havel (remote)
   - Slot: 10 min
-  - 
+
 ## Q&A (5 min)
 
 # Collecting Updated Operator Requirements for IETF Network Management Solutions (15 min)
 
 Goals: 
 * Explain the rationale for this work
-* Identify interested contributors
+* How to collect operator requirements?
   
 ## An Update of Operators Requirements on Network Management Protocols and Modelling (10 min)
 
