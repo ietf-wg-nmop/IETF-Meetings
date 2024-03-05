@@ -1,9 +1,9 @@
+# Network Management Operations (nmop) WG Agenda - IETF 119
 
-               Network Management Operations (nmop)
-                        Meeting Agenda
-                     Monday, March 18, 2024
-         Co-Chairs: Benoît Claise & Mohamed Boucadair
+* When: Monday, March 18, 2024
+* Co-Chairs: Benoît Claise & Mohamed Boucadair
 
+## Compact Agenda
 
 
 | Slot          | Topic              | Presenter      |
@@ -16,85 +16,86 @@
 | 14:20 - 14:45 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar/Olga    |
 | 14:45 - 15:00 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
 
+## Detailed Agenda
 
-# Agenda Bashing & Introduction (Chairs) (5 min)
-# A Word from the AD (Rob) (5 min)
+### Agenda Bashing & Introduction (Chairs) (5 min)
+### A Word from the AD (Rob) (5 min)
    
-# NETCONF/YANG Push Integration (15 min)
+### NETCONF/YANG Push Integration (15 min)
 
 Goals: 
 * Clarify the problem to be solved (Highlight main integration concerns/missing pieces)
 * Describe the dependencies, status, and next steps
 
-## An Architecture for YANG Push to Apache Kafka Integration (10 min)
+#### An Architecture for YANG Push to Apache Kafka Integration (10 min)
 
    - I-D: draft-netana-nmop-yang-kafka-integration
    - Presenter: Thomas Graf (onsite)
 
-## Q&A (5 min)
+#### Q&A (5 min)
 
-# Anomaly Detection (30 min)
+### Anomaly Detection (30 min)
 
-Goals: 
+Goal: 
 * Clarify the problem to be solved
 
-## Network Anomaly Detection – Real Time Streaming (10 min)
+#### Network Anomaly Detection – Real Time Streaming (10 min)
 
    - I-D: N/A   
    - Presenter: Wanting Du (remote)
 
-## Experiment Semantic Metadata Annotation for Network Anomaly Detection + Network Anomaly Postmortem Lifecycle (10 min)
+#### Experiment Semantic Metadata Annotation for Network Anomaly Detection + Network Anomaly Postmortem Lifecycle (10 min)
 
    - I-Ds: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/) & [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
    - Presenters: Thomas Graf (onsite) and/or Vincenzo Riccobene (remote)
 
-## Q&A (10 min)
+#### Q&A (10 min)
 
-# Incident Management (25 min)
+### Incident Management (25 min)
 
 Goals: 
 * Clarify the problem to be solved (network, service, etc.)
-* Clarify how this effort fits with the overall SDO ecosystem
+* Clarify how this effort fits within the overall SDO ecosystem
 * Agree on required actions to ensure this effort is useful for operators + a SDO coordination is in place early in the process
   
-## Incident Management for Network Services (10 min)
+#### Incident Management for Network Services (10 min)
 
    - I-D: [draft-feng-nmop-incident-management](https://datatracker.ietf.org/doc/draft-feng-nmop-incident-management/)
    - Presenter: Qin Wu
      
-## Common vocabulary for incident management (5 min)
+#### Common vocabulary for incident management (5 min)
 
    - I-D: [draft-davis-nmop-incident-terminology](https://datatracker.ietf.org/doc/draft-davis-nmop-incident-terminology/)
    - Presenter: Nigel Davis (onsite)/Adrian Farrel (remote)
 
-## Q&A (10 min)
+#### Q&A (10 min)
 
 
-# Issues Related to Deployment/Usage of YANG Topology Modules (25 min)
+### Issues Related to Deployment/Usage of YANG Topology Modules (25 min)
 
 Goals: 
 * Clarify the problem to be solved
 * Next step: how to structure this work?
 
-## Problem Space and Modeling Issue of the Digital Space (15 min)
+#### Problem Space and Modeling Issue of the Digital Space (15 min)
   
   - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) & [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
   - Presenters: Oscar Gonzalez de Dios (remote) & Olga Havel (remote)
   - Slot: 15 min
 
-## Q&A (10 min)
+#### Q&A (10 min)
 
-# Collecting Updated Operator Requirements for IETF Network Management Solutions (15 min)
+### Collecting Updated Operator Requirements for IETF Network Management Solutions (15 min)
 
 Goals: 
 * Explain the rationale for this work
 * How to collect operator requirements?
   
-## An Update of Operators Requirements on Network Management Protocols and Modelling (10 min)
+#### An Update of Operators Requirements on Network Management Protocols and Modelling (10 min)
 
    - I-D: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
    - Presenter: Luis Miguel CONTRERAS MURILLO
 
-## Q&A (5 min)
+#### Q&A (5 min)
     
-# Misc (All), if time allows
+### Misc (All), if time allows
