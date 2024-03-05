@@ -43,11 +43,10 @@ Goals:
    - I-D: N/A   
    - Presenter: Wanting Du (remote)
 
-## Experemient Semantic Metadata Annotation for Network Anomaly Detection + Network Anomaly Postmortem Lifecycle (10 min)
+## Experiment Semantic Metadata Annotation for Network Anomaly Detection + Network Anomaly Postmortem Lifecycle (10 min)
 
-   - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
-    - I-D: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
-   - Presenter: Thomas Graf (onsite) and/or Vincenzo Riccobene (remote)
+   - I-Ds: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/) & [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
+   - Presenters: Thomas Graf (onsite) and/or Vincenzo Riccobene (remote)
 
 ## Q&A (10 min)
 
@@ -79,9 +78,8 @@ Goals:
 
 ## Problem Space and Modeling Issue of the Digital Space (15 min)
   
-  - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) and draft-ogondio-opsawg-ospf-topology
-  - I-Ds: [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
-  - Speaker: Oscar Gonzalez de Dios (remote) and Olga Havel (remote)
+  - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) & [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
+  - Presenters: Oscar Gonzalez de Dios (remote) & Olga Havel (remote)
   - Slot: 15 min
 
 ## Q&A (10 min)
