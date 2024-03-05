@@ -29,7 +29,7 @@ Goals:
 
 #### An Architecture for YANG Push to Apache Kafka Integration (10 min)
 
-   - I-D: draft-netana-nmop-yang-kafka-integration
+   - I-D: [draft-netana-nmop-yang-kafka-integration](https://datatracker.ietf.org/doc/draft-netana-nmop-yang-kafka-integration/)
    - Presenter: Thomas Graf (onsite)
 
 #### Q&A (5 min)
@@ -79,7 +79,7 @@ Goals:
 
 #### Problem Space and Modeling Issue of the Digital Space (15 min)
   
-  - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) & [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
+  - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) & [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
   - Presenters: Oscar Gonzalez de Dios (remote) & Olga Havel (remote)
   - Slot: 15 min
 
