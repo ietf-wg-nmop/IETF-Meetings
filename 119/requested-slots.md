@@ -2,6 +2,21 @@
 
 This page records received slot requests. The agenda will be published [here](https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/119/agenda.md).
 
+The cummulative requested slots can be seen below:
+
+| Requested Slot          | Topic              | Cummulative Slots      |
+|:-------------:|:-----------------:|:----------------|
+| 15 | incident management terminology | 15    |
+| 15  | Incident Management for Network Services | 30    |
+| 10 | Semantic Metadata Annotation  | 40    |
+| 15 |  Rule-based Service Anomaly Detection | 55   |
+| 15 | Real Time Streaming | 70    |
+| 15 | Network Anomaly Postmortem Lifecycle | 85    |
+| 10 | Modeling of IS-IS | 95    |
+| 15 | Modelling the Digital Map  | 110    |
+| 15 | Update of Operators Requirements | 125    |
+| 15 | YANG Data Model for DOTS | 140    |
+
 ## NETCONF/YANG Push integration with Apache Kafka & time series databases
 
 * An Architecture for YANG Push to Apache Kafka Integration
