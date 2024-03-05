@@ -84,7 +84,7 @@ Goals:
 
 ## Modeling of Intermediate System to intermediate System (IS-IS) and OSPF Topologies
 
-  - I-Ds: draft-ogondio-nmop-isis-topology and draft-ogondio-ospf-isis-topology
+  - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) and draft-ogondio-opsawg-ospf-topology
   - Speaker Oscar Gonzalez de Dios (remote)
   - Slot: 10 min
 
