@@ -10,12 +10,11 @@
 |:-------------:|:-----------------:|:----------------|
 | 13:00 - 13:05 | Agenda Bashing & Introduction| Chairs    |
 | 13:05 - 13:10 | A Word from the AD | Rob    |
-| 13:10 - 13:25  | NETCONF/YANG Push Integration | Thomas    |
-| 13:55 - 14:25 |  Anomaly Detection | Wanting/Thomas/Alex   |
-| 13:25 - 13:55 | Incident Management | Qin/Nigel    |
-| 14:25 - 14:40 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar    |
-| 14:40 - 14:55 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
-| 14:55 - 15:00 | Wrap-up | AD & Chairs    |
+| 13:10 - 13:25 | NETCONF/YANG Push Integration | Thomas    |
+| 13:25 - 13:55 | Anomaly Detection | Wanting/Thomas/Alex   |
+| 13:55 - 14:20 | Incident Management | Qin/Nigel    |
+| 14:20 - 14:45 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar    |
+| 14:45 - 15:00 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
 
 
 # Agenda Bashing & Introduction (Chairs) (5 min)
@@ -45,15 +44,11 @@ Goals:
    - I-D: N/A   
    - Presenter: Wanting Du (remote)
 
-## Semantic Metadata Annotation for Network Anomaly Detection (5 min)
+## Experemient Semantic Metadata Annotation for Network Anomaly Detection + Network Anomaly Postmortem Lifecycle (10 min)
 
    - I-D: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
-   - Presenter: Thomas Graf (onsite)
-
-## Experiment: Network Anomaly Postmortem Lifecycle 
-
-   - I-D: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
-   - Presenter: Vincenzo Riccobene (remote)
+    - I-D: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
+   - Presenter: Thomas Graf (onsite) and/or Vincenzo Riccobene (remote)
 
 ## Q&A (10 min)
 
@@ -77,32 +72,20 @@ Goals:
 ## Q&A (10 min)
 
 
-# Issues Related to Deployment/Usage of YANG Topology Modules (15 min)
+# Issues Related to Deployment/Usage of YANG Topology Modules (25 min)
 
 Goals: 
 * Assess whether there is an issue to be solved.
 * If so, is NMOP the right place for this work?
 
-## Problem Space and Modeling Issue of the Digital Space
+## Problem Space and Modeling Issue of the Digital Space (15 min)
   
   - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) and draft-ogondio-opsawg-ospf-topology
   - I-Ds: [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
   - Speaker: Oscar Gonzalez de Dios (remote) and Olga Havel (remote)
   - Slot: 15 min
-    
-## Modeling of Intermediate System to intermediate System (IS-IS) and OSPF Topologies
 
-  - I-Ds: [draft-ogondio-nmop-isis-topology](https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology/) and draft-ogondio-opsawg-ospf-topology
-  - Speaker: Oscar Gonzalez de Dios (remote)
-  - Slot: 10 min
-
-## Modeling the Digital Map based on RFC 8345: Sharing Experience and Perspectives
-
-  - I-Ds: [https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/]
-  - Speaker: Olga Havel (remote)
-  - Slot: 10 min
-
-## Q&A (5 min)
+## Q&A (10 min)
 
 # Collecting Updated Operator Requirements for IETF Network Management Solutions (15 min)
 
