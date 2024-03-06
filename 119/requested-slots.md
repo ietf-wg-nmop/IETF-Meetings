@@ -69,6 +69,11 @@ The cummulative requested slots can be seen below:
    - I-D: [draft-havel-opsawg-digital-map/](https://datatracker.ietf.org/doc/draft-havel-opsawg-digital-map/)  
    - Presenter: Olga Havel (remote)
    - Slot: 15 min
+ 
+* Experiment: Next Steps for the Modifications to RFC8345
+   - I-D: [draft-davis-opsawg-some-refinements-to-rfc8345/](https://datatracker.ietf.org/doc/draft-davis-opsawg-some-refinements-to-rfc8345/)  
+   - Presenter: Nigel Davis (on site)
+   - Slot: 15 min
 
 ## Consider/plan an approach for updating RFC 3535-bis (collecting updated operator requirements for IETF network management solutions)
 
