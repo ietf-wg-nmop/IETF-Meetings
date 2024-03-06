@@ -16,6 +16,8 @@ The cummulative requested slots can be seen below:
 | 15 | Modelling the Digital Map  | 110    |
 | 15 | Update of Operators Requirements | 125    |
 | 15 | YANG Data Model for DOTS | 140    |
+| 10 | ALTO/Topology | 150    |
+| 5  |Intent translation | 155    |
 
 ## NETCONF/YANG Push integration with Apache Kafka & time series databases
 
@@ -82,3 +84,12 @@ The cummulative requested slots can be seen below:
   - Presenter: Linzhe Li
   - Slot: 10 min
 
+* A usage of YANG topology module to create network cost map in SDN Multipath Transmission based on ALTO  with BGP-LS
+  - I-D: [draft-xing-nmop-sdn-controller-aware-mptcp-mpquic](https://datatracker.ietf.org/doc/draft-xing-nmop-sdn-controller-aware-mptcp-mpquic/)
+  - Presenter: Ziyang Xing
+  - Slot: 10 min
+ 
+*  Intent Translation Engine for Intent-Based Networking 
+  - I-D: [draft-pedro-ite](https://datatracker.ietf.org/doc/draft-pedro-ite/)https://datatracker.ietf.org/doc/draft-pedro-ite/
+  - Presenter: P. Martinez-Julia
+  - Slot: 5 min
