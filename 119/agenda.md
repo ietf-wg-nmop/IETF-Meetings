@@ -11,10 +11,11 @@
 | 13:00 - 13:05 | Agenda Bashing & Introduction| Chairs    |
 | 13:05 - 13:10 | A Word from the AD | Rob    |
 | 13:10 - 13:25 | NETCONF/YANG Push Integration | Thomas    |
-| 13:25 - 13:55 | Anomaly Detection | Wanting/Thomas/Vincenzo   |
-| 13:55 - 14:20 | Incident Management | Qin/Nigel    |
-| 14:20 - 14:45 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar/Olga    |
-| 14:45 - 15:00 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
+| 13:25 - 13:50 | Anomaly Detection | Thomas/Vincenzo   |
+| 13:50 - 14:15 | Incident Management | Qin/Nigel    |
+| 14:15 - 14:40 | Issues Related to Deployment/Usage of YANG Topology Modules | Oscar/Olga    |
+| 14:40 - 14:55 | Collecting Updated Operator Requirements for IETF Network Management Solutions | Luis    |
+| 14:55 - 15:00 | Wrap-up|     |
 
 ## Detailed Agenda
 
@@ -34,17 +35,12 @@ Goals:
 
 #### Q&A (5 min)
 
-### Anomaly Detection (30 min)
+### Anomaly Detection (25 min)
 
 Goal: 
 * Clarify the problem to be solved
 
-#### Network Anomaly Detection – Real Time Streaming (10 min)
-
-   - I-D: N/A   
-   - Presenter: Wanting Du (remote)
-
-#### Experiment Semantic Metadata Annotation for Network Anomaly Detection + Network Anomaly Postmortem Lifecycle (10 min)
+#### Experiment Semantic Metadata Annotation for Network Anomaly Detection + Network Anomaly Postmortem Lifecycle (15 min)
 
    - I-Ds: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/) & [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
    - Presenters: Thomas Graf (onsite) and/or Vincenzo Riccobene (remote)
@@ -98,4 +94,4 @@ Goals:
 
 #### Q&A (5 min)
     
-### Misc (All), if time allows
+### Misc (All) (5 min)
