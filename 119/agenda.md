@@ -56,7 +56,7 @@ Goals:
   
 #### Incident Management for Network Services (10 min)
 
-   - I-D: [draft-feng-nmop-incident-management](https://datatracker.ietf.org/doc/draft-feng-nmop-incident-management/)
+   - I-D: [draft-feng-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-feng-nmop-network-incident-yang/)
    - Presenter: Qin Wu
      
 #### Common vocabulary for incident management (5 min)
