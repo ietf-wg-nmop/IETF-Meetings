@@ -6,7 +6,7 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | Cummulative Slots      |
 |:-------------:|:-----------------:|:----------------|
-| xx | xxxx | xxx    |
+| 15 | Update of Operators Requirements | 15    |
 | xx | xxxx | xxx    |
 | xx | xxxx | xxx    |
 | xx | xxxx | xxx    |
@@ -17,11 +17,11 @@ The cummulative requested slots can be seen below:
 
 # Detailed Slots
 
-## SLOT TITLE
+## An Update of Operators Requirements on Network Management Protocols and Modelling
 
- * Presenters: xxx
- * Duration:
- * Reading Material: xxx
+ * Presenters: Luis Miguel CONTRERAS MURILLO
+ * Duration: 15 min
+ * Reading Material: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
 
 ## SLOT TITLE
 
