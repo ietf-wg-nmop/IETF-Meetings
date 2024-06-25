@@ -4,30 +4,30 @@ This page records received slot requests. The agenda will be published [here](ht
 
 The cummulative requested slots can be seen below:
 
-| Requested Slot          | Topic              | Cummulative Slots      |
-|:-------------:|:-----------------:|:----------------|
-| 15 | Update of Operators Requirements | 15    |
-| xx | xxxx | xxx    |
-| xx | xxxx | xxx    |
-| xx | xxxx | xxx    |
-| xx | xxxx | xxx    |
-| xx | xxxx | xxx    |
-| xx | xxxx | xxx    |
-| xx | xxxx | xxx    |
+| Requested Slot          | Topic              | Presenter | Cummulative Slots      |
+|:-------------:|:-----------------:|:-----:|:----------------|
+| 15 | Update of Operators Requirements | Luis | 15    |
+| 15 | Knowledge Graphs for YANG-based Network Management | Nacho | 30    |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
 
 # Detailed Slots
 
 ## An Update of Operators Requirements on Network Management Protocols and Modelling
 
- * Presenters: Luis Miguel CONTRERAS MURILLO
+ * Presenter: Luis Miguel CONTRERAS MURILLO
  * Duration: 15 min
  * Reading Material: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
 
-## SLOT TITLE
+## Knowledge Graphs for YANG-based Network Management
 
- * Presenters: xxx
- * Duration:
- * Reading Material: xxx
+ * Presenter: Ignacio Dominguez Martinez-Casanueva
+ * Duration: 15 min
+ * Reading Material: [draft-marcas-nmop-knowledge-graph-yang](https://datatracker.ietf.org/doc/draft-marcas-nmop-knowledge-graph-yang/)
 
 ## SLOT TITLE
 
