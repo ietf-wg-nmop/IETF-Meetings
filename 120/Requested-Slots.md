@@ -14,7 +14,7 @@ The cummulative requested slots can be seen below:
 | Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots      |
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|
 | 15 | Update of Operators Requirements | P4 | Luis | 15    |
-| 15 | Knowledge Graphs for YANG-based Network Management | P3| Nacho | 30    |
+| 15 | Knowledge Graphs for YANG-based Network Management | P2| Nacho | 30    |
 | 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
