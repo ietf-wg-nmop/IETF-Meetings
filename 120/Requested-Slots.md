@@ -16,11 +16,13 @@ The cummulative requested slots can be seen below:
 | 15 | Update of Operators Requirements | P4 | Luis | 15    |
 | 15 | Knowledge Graphs for YANG-based Network Management | P2| Nacho | 30    |
 | 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    |
-| xx | xxxx | xxx    | xxx    |
-| xx | xxxx | xxx    | xxx    |
-| xx | xxxx | xxx    | xxx    |
-| xx | xxxx | xxx    | xxx    |
-| xx | xxxx | xxx    | xxx    |
+| 15 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 60    |
+| 15 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 75    |
+| xx | xxxx | Px | xxx    | xxx    |
+| xx | xxxx | Px | xxx    | xxx    |
+| xx | xxxx | Px | xxx    | xxx    |
+| xx | xxxx | Px | xxx    | xxx    |
+| xx | xxxx | Px | xxx    | xxx    |
 
 # Detailed Requested Slots
 
@@ -41,6 +43,28 @@ The cummulative requested slots can be seen below:
  * Presenters: Diego Lopez
  * Duration: 15 min
  * Reading Material: [draft-lopez-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/)
+
+## An Architecture for YANG-Push to Message Broker Integration
+
+ * Presenters: Thomas Graf
+ * Duration: 15 min
+ * Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
+ * Reading Material: IETF 120 Hackathon: [YANG-Push Publisher Implementation Tests](https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/120/Hackathon)
+
+## An Architecture for a Network Anomaly Detection Framework
+
+ * Presenters: Thomas Graf, Pierre Francois and Vincenzo Riccobene
+ * Duration: 20 min
+ * Reading Material: [draft-netana-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-architecture/)
+ * Reading Material: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
+ * Reading Material: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
+ * Reading Material: IETF 120 Hackathon: [Atagonist Experiment](https://github.com/vriccobene/antagonist)
+
+## SLOT TITLE
+
+ * Presenters: xxx
+ * Duration:
+ * Reading Material: xxx
 
 ## SLOT TITLE
 
