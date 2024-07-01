@@ -17,7 +17,7 @@ The cummulative requested slots can be seen below:
 | 15 | Knowledge Graphs for YANG-based Network Management | P2| Nacho | 30    |
 | 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    |
 | 15 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 60    |
-| 15 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 75    |
+| 30 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 90    |
 | xx | xxxx | Px | xxx    | xxx    |
 | xx | xxxx | Px | xxx    | xxx    |
 | xx | xxxx | Px | xxx    | xxx    |
