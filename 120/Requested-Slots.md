@@ -16,7 +16,7 @@ The cummulative requested slots can be seen below:
 | 15 | Update of Operators Requirements | P4 | Luis | 15    |
 | 15 | Knowledge Graphs for YANG-based Network Management | P2| Nacho | 30    |
 | 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    |
-| xx | xxxx | xxx    | xxx    |
+| 30 | NMOP Terminology | P2    | Adrian   |75
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
@@ -42,11 +42,11 @@ The cummulative requested slots can be seen below:
  * Duration: 15 min
  * Reading Material: [draft-lopez-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/)
 
-## SLOT TITLE
+## Some Key Terms for Network Incident and Problem Management
 
- * Presenters: xxx
- * Duration:
- * Reading Material: xxx
+ * Presenters: Adrian
+ * Duration: 30 min
+ * Reading Material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
 ## SLOT TITLE
 
