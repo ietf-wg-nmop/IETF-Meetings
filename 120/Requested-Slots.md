@@ -16,7 +16,9 @@ The cummulative requested slots can be seen below:
 | 15 | Update of Operators Requirements | P4 | Luis | 15    |
 | 15 | Knowledge Graphs for YANG-based Network Management | P2| Nacho | 30    |
 | 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    |
-| 30 | NMOP Terminology | P2    | Adrian   |75
+| 15 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 60    |
+| 30 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 90    |
+| 30 | NMOP Terminology | P2    | Adrian   | 120 |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
@@ -42,11 +44,33 @@ The cummulative requested slots can be seen below:
  * Duration: 15 min
  * Reading Material: [draft-lopez-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/)
 
+## An Architecture for YANG-Push to Message Broker Integration
+
+ * Presenters: Thomas Graf
+ * Duration: 15 min
+ * Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
+ * Reading Material: IETF 120 Hackathon: [YANG-Push Publisher Implementation Tests](https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/120/Hackathon)
+
+## An Architecture for a Network Anomaly Detection Framework
+
+ * Presenters: Thomas Graf, Pierre Francois and Vincenzo Riccobene
+ * Duration: 20 min
+ * Reading Material: [draft-netana-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-architecture/)
+ * Reading Material: [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
+ * Reading Material: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
+ * Reading Material: IETF 120 Hackathon: [Atagonist Experiment](https://github.com/vriccobene/antagonist)
+
 ## Some Key Terms for Network Incident and Problem Management
 
  * Presenters: Adrian
  * Duration: 30 min
  * Reading Material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
+
+## SLOT TITLE
+
+ * Presenters: xxx
+ * Duration:
+ * Reading Material: xxx
 
 ## SLOT TITLE
 
