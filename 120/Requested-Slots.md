@@ -18,11 +18,11 @@ The cummulative requested slots can be seen below:
 | 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    |
 | 15 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 60    |
 | 30 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 90    |
-| xx | xxxx | Px | xxx    | xxx    |
-| xx | xxxx | Px | xxx    | xxx    |
-| xx | xxxx | Px | xxx    | xxx    |
-| xx | xxxx | Px | xxx    | xxx    |
-| xx | xxxx | Px | xxx    | xxx    |
+| 30 | NMOP Terminology | P2    | Adrian   | 120 |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
+| xx | xxxx | xxx    | xxx    |
 
 # Detailed Requested Slots
 
@@ -60,11 +60,11 @@ The cummulative requested slots can be seen below:
  * Reading Material: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
  * Reading Material: IETF 120 Hackathon: [Atagonist Experiment](https://github.com/vriccobene/antagonist)
 
-## SLOT TITLE
+## Some Key Terms for Network Incident and Problem Management
 
- * Presenters: xxx
- * Duration:
- * Reading Material: xxx
+ * Presenters: Adrian
+ * Duration: 30 min
+ * Reading Material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
 ## SLOT TITLE
 
