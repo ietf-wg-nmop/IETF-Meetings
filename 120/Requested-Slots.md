@@ -19,7 +19,7 @@ The cummulative requested slots can be seen below:
 | 15 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 60    |
 | 30 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 90    |
 | 30 | NMOP Terminology | P2    | Adrian   | 120 |
-| xx | xxxx | xxx    | xxx    |
+| 15 | Digital Map Updates | P3    | Olga | 135   |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
@@ -66,11 +66,11 @@ The cummulative requested slots can be seen below:
  * Duration: 30 min
  * Reading Material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
-## SLOT TITLE
+## Digital Map
 
- * Presenters: xxx
- * Duration:
- * Reading Material: xxx
+ * Presenters: Update on Digital Map
+ * Duration: 15 min
+ * Reading Material: [draft-havel-nmop-digital-map-concept](https://github.com/OlgaHuawei/draft-havel-nmop-digital-map-concept)
 
 ## SLOT TITLE
 
