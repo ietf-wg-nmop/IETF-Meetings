@@ -28,6 +28,12 @@
 | 14:50 - 14:55 |P4| NEMOPS Workshop  | Chairs    |
 | 14:55 - 15:00 || Wrap-up & Future Meetings |  Chairs |
 
+> _Time budget_: 105 min
+> 
+> _Chairs slots_: 15 min
+> 
+> _Requested slots_: 145 min
+
 ## Detailed Agenda
 
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
