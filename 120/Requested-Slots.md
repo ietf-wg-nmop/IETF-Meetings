@@ -11,16 +11,16 @@ Current WG's priorities are:
 
 The cummulative requested slots can be seen below:
 
-| Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots      |
-|:-------------:|:-----------------:|:-----:|:-----:|:----------------|
-| 15 | Update of Operators Requirements | P4 | Luis | 15    |
-| 15 | Knowledge Graphs for YANG-based Network Management | P2| Nacho | 30    |
-| 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    |
-| 15 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 60    |
-| 30 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 90    |
-| 30 | NMOP Terminology | P2    | Adrian   | 120 |
-| 15 | Digital Map Updates | P3    | Olga | 135   |
-| 10 | Resource Performance Monitoring | ? | Chaode Yu, Mingshuang Jin | 145 |
+| Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots      | Granted Status|
+|:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|
+| 15 | Update of Operators Requirements | P4 | Luis | 15    | OK |
+| 15 | Knowledge Graphs for YANG-based Network Management | P2| Nacho | 30    | OK|
+| 15 | Applying COSE Signatures for YANG Data Provenance | ? | Diego    | 45    | NOK
+| 15 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 60    |OK|
+| 30 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 90    |OK|
+| 30 | NMOP Terminology | P2    | Adrian   | 120 |OK|
+| 15 | Digital Map Updates | P3    | Olga | 135   |OK|
+| 10 | Resource Performance Monitoring | ? | Chaode Yu, Mingshuang Jin | 145 |NOK|
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
