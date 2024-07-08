@@ -20,6 +20,7 @@ The cummulative requested slots can be seen below:
 | 30 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas, Pierre, Vincenzo | 90    |
 | 30 | NMOP Terminology | P2    | Adrian   | 120 |
 | 15 | Digital Map Updates | P3    | Olga | 135   |
+| 10 | Resource Performance Monitoring | ? | Chaode Yu, Mingshuang Jin | 145 |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
@@ -72,12 +73,11 @@ The cummulative requested slots can be seen below:
  * Duration: 15 min
  * Reading Material: [draft-havel-nmop-digital-map-concept](https://github.com/OlgaHuawei/draft-havel-nmop-digital-map-concept)
 
-## SLOT TITLE
+## Resource Performance Monitoring
 
- * Presenters: xxx
- * Duration:
- * Reading Material: xxx
-
+ * Presenters: Mingshuang Jin, Chaode Yu
+ * Duration: 10 min
+ * Reading Material: [draft-yu-ccamp-resource-pm-yang-00](https://datatracker.ietf.org/doc/draft-yu-ccamp-resource-pm-yang/)
 ## SLOT TITLE
 
  * Presenters: xxx
