@@ -26,7 +26,7 @@
 | 14:10- 14:25 |P3| Digital Map Concepts & Requirements | Olga    |
 | 14:25 - 14:30 |P4| NEMOPS Workshop  | Chairs    |
 | 14:30 - 14:45 |P4| Updates to Operators Requirements | Luis    |
-| 14:45 - 15:55 || Knowlegde Graph |  Nacho |
+| 14:45 - 14:55 || Knowlegde Graph |  Nacho |
 | 14:55 - 15:00 || Wrap-up & Future Meetings |  Chairs |
 
 ## Detailed Agenda
