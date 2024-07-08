@@ -107,7 +107,7 @@
    - ***Reading material***: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
    - _Discussion_: Whether this will be submitted as a contribution to NEMOPS or reflect starting point to build NMOP-specific consensus.
 
-### 6. Misc
+### 6. Misc.
 
 ##### 6.1 Knowledge Graphs for YANG-based Network Management (10 min)
 
@@ -115,7 +115,7 @@
  * ***Reading Material***: [draft-marcas-nmop-knowledge-graph-yang](https://datatracker.ietf.org/doc/draft-marcas-nmop-knowledge-graph-yang/)
  * _Discussion_: share plans for experiments, hackathons, link with other items/current WG priorities, etc.
 
-### Next Meetings & Wrap-up (All) (5 min)
+### 7. Next Meetings & Wrap-up (All) (5 min)
 
  * Next scheduled interim: September 11 (anomaly detection)
  * _Discussion_: Preference to have other interims? Monthly interims dedicated to each items?
