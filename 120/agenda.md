@@ -17,21 +17,21 @@
 
 ## Compact Agenda
 
-| Slot          | Priority Label |Topic              | Presenters      |
-|:-------------:|:--------:|:----------------:|:----------------|
-| 13:00 - 13:10 || Agenda Bashing & Introduction| Chairs    |
-| 13:10 - 13:35 |P1| YANG-Push to Message Broker Integration | Thomas    |
-| 13:35 - 13:55 |P2| NMOP Terminology | Adrian    |
-| 13:55 - 14:10 |P2| Anomaly detection: Experiements & Roadmap | Thomas/Pierre/Vincenzo |
-| 14:10- 14:25 |P3| Digital Map Concepts & Requirements | Olga    |
-| 14:25 - 14:30 |P4| NEMOPS Workshop  | Chairs    |
-| 14:30 - 14:45 |P4| Updates to Operators Requirements | Luis    |
-| 14:45 - 15:55 || Knowlegde Graph |  Nacho |
-| 14:55 - 15:00 || Wrap-up & Future Meetings |  Chairs |
+| Slot          | Priority Label |Topic                                    | Presenters |
+|:-------------:|:--------------:|:---------------------------------------:|:-----------|
+| 13:00 - 13:05 |                | Agenda Bashing & Introduction           | Chairs     |
+| 13:05 - 13:30 |P1              | YANG-Push to Message Broker Integration | Thomas     |
+| 13:30 - 13:50 |P2              | NMOP Terminology                        | Adrian     |
+| 13:50 - 14:10 |P2              | Anomaly detection: Experiments & Roadmap| Thomas/Pierre/Vincenzo |
+| 14:10 - 14:25 |P3              | Digital Map Concepts & Requirements     | Olga       |
+| 14:25 - 14:30 |P4              | NEMOPS Workshop                         | Chairs     |
+| 14:30 - 14:45 |P4              | Updates to Operators Requirements       | Luis       |
+| 14:45 - 15:55 |                | Knowledge Graphs                        |  Nacho     |
+| 14:55 - 15:00 |                | Wrap-up & Future Meetings               |  Chairs    |
 
 ## Detailed Agenda
 
-### 1. Agenda Bashing & Introduction (Chairs) (10 min)
+### 1. Agenda Bashing & Introduction (Chairs) (5 min)
    
 ### 2. NETCONF/YANG Push Integration (25 min)
 
@@ -48,7 +48,7 @@
 
 #### 2.2 Q&A (5 min)
 
-### 3. Anomaly Detection and Incident management (35 min)
+### 3. Anomaly Detection and Incident management (40 min)
 
 **Goals**: 
 * Sync on the approach/rationale and discuss issues related to NMOP terminology
@@ -60,11 +60,11 @@
  * ***Presenters***: Adrian
  * ***Reading Material***: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
-#### 3.2 Anomaly Detection (15 min)
+#### 3.2 Anomaly Detection (20 min)
 
-##### 3.2.2 An Architecture for a Network Anomaly Detection Framework (10 min)
+##### 3.2.2 An Architecture for a Network Anomaly Detection Framework (15 min)
 
- * ***Presenters***: Thomas Graf, Pierre Francois and Vincenzo Riccobene
+ * ***Presenters***: Thomas Graf, Pierre Francois, and Vincenzo Riccobene
  * ***Reading Material***:
     + [draft-netana-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-architecture/)
     + [draft-netana-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/)
@@ -91,8 +91,8 @@
 
 **Goals**: 
 
-* Updates on the NEMOPS IAB Worksop
-* Upadates and Plans to meet NMOP-specific charter item, especially the following milestone:
+* Updates on the NEMOPS IAB Workshop
+* Updates and Plans to meet NMOP-specific charter item, especially the following milestone:
 
 >Sep 2024	Adopt a document on updated operators requirements
 
@@ -113,7 +113,7 @@
 
  * ***Presenter***: Ignacio Dominguez Martinez-Casanueva
  * ***Reading Material***: [draft-marcas-nmop-knowledge-graph-yang](https://datatracker.ietf.org/doc/draft-marcas-nmop-knowledge-graph-yang/)
- * _Discussion_: share plans for experiments, hackathons, link with other items/current WG priorities, etc.
+ * _Discussion_: Share plans for experiments, hackathons, link with other items/current WG priorities, etc.
 
 ### 7. Next Meetings & Wrap-up (All) (5 min)
 
