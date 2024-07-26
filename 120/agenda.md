@@ -99,7 +99,7 @@
 #### 5.1 NEMOPS IAB Workshop (5 min)
 
    - ***Presenter***: Chairs
-   - ***Reading material***: [Workshop Proposal](https://github.com/ietf-wg-nmop/Logistic/blob/main/IAB%20Workshop.md)
+   - ***Reading material***: [Workshop Proposal](https://datatracker.ietf.org/group/nemopsws/about/)
 
 #### 5.2 An Update of Operators Requirements on Network Management Protocols and Modelling (15 min)
 
