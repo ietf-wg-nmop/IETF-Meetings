@@ -21,7 +21,7 @@ The cummulative requested slots can be seen below:
 | 30 | NMOP Terminology | P2    | Adrian   | 120 |OK|
 | 15 | Digital Map Updates | P3    | Olga | 135   |OK|
 | 10 | Resource Performance Monitoring | ? | Chaode Yu, Mingshuang Jin | 145 |NOK|
-| xx | xxxx | xxx    | xxx    |
+| 15 | Knowledge Graphs for ITSM | P2 | Lionel Tailhardat | 160 | ? |
 | xx | xxxx | xxx    | xxx    |
 | xx | xxxx | xxx    | xxx    |
 
@@ -78,6 +78,13 @@ The cummulative requested slots can be seen below:
  * Presenters: Mingshuang Jin, Chaode Yu
  * Duration: 10 min
  * Reading Material: [draft-yu-ccamp-resource-pm-yang-00](https://datatracker.ietf.org/doc/draft-yu-ccamp-resource-pm-yang/)
+
+## Knowledge Graphs for Enhanced Cross-Operator Incident Management and Network Design
+
+ * Presenters: Lionel Tailhardat
+ * Duration: 15 min
+ * Reading Material: [draft-tailhardat-nmop-incident-management-noria](https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/)
+
 ## SLOT TITLE
 
  * Presenters: xxx
