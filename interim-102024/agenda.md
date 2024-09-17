@@ -10,7 +10,7 @@
 | 14:00 - 14:05 | Agenda Bashing & Introduction           | Chairs     |
 | 14:05 - 14:25 | Digital Map Concept and terminology | Olga     |
 | 14:25 - 15:25 | Review and discussion of the Digital Map requirements  | Olga     |
-| 15:30 - 15:50 | Digital Map Assessment Plans | Sherif/Olga/Italo |
+| 15:25 - 15:50 | Digital Map Assessment Plans | Sherif/Olga/Italo |
 | 15:50 - 16:00 | Next Steps | Chairs     |
 
 ## Detailed Agenda
