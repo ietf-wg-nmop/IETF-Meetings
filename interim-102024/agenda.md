@@ -1,6 +1,6 @@
 # Network Management Operations (nmop) WG Agenda - Interim on Digital Map 
 
-* When: Wed, Oct 1st, 2024
+* When: Tue, Oct 1st, 2024
 * Co-Chairs: Benoît Claise & Mohamed Boucadair
 
 ## Compact Agenda
