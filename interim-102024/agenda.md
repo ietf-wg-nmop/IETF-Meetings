@@ -19,13 +19,15 @@
 
 ### 2. Digital Map Concept and Terminology (Olga, 20 min) 
 
-Goal: 
-: Discuss issues related to the concept definition, applicability, etc.
+_Goal_: 
+
+* Discuss issues related to the concept definition, applicability, etc.
 
 ### 3. Review and Discussion of the Digital Map Requirements (Olga/all, 60 min) 
 
-Goal:
-: Detailed presentation/discussion of each requirement (one slide, one requirement) with the goal to agree on a stable set of requirements (consolidate the requirements, agree on their meaning/purpose, avoid biased ones, etc.) so that assessment work can have a stable base for analysis.
+_Goal_:
+
+* Detailed presentation/discussion of each requirement (one slide, one requirement) with the goal to agree on a stable set of requirements (consolidate the requirements, agree on their meaning/purpose, avoid biased ones, etc.) so that assessment work can have a stable base for analysis.
   
 ### 4. Digital Map Assessment Plans & Ongoing Experiments Updates (25 min) 
 
