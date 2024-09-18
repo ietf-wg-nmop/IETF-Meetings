@@ -1,17 +1,17 @@
 # Network Management Operations (nmop) WG Agenda - Interim on Digital Map 
 
-* When: Tue, Oct 1st, 2024
+* When: 2024-10-01 13:00-15:00 UTC
 * Co-Chairs: Benoît Claise & Mohamed Boucadair
 
 ## Compact Agenda
 
 | Slot          | Topic                                   | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
-| 14:00 - 14:05 | Agenda Bashing & Introduction           | Chairs     |
-| 14:05 - 14:25 | Digital Map Concept and Terminology | Olga     |
-| 14:25 - 15:25 | Review and Discussion of the Digital Map Requirements  | Olga     |
-| 15:25 - 15:50 | Digital Map Assessment Plans | Sherif/Italo |
-| 15:50 - 16:00 | Next Steps | Chairs     |
+| 13:00 - 13:05 | Agenda Bashing & Introduction           | Chairs     |
+| 13:05 - 14:25 | Digital Map Concept and Terminology | Olga     |
+| 13:25 - 14:25 | Review and Discussion of the Digital Map Requirements  | Olga     |
+| 14:25 - 14:50 | Digital Map Assessment Plans | Sherif/Italo |
+| 14:50 - 15:00 | Next Steps | Chairs     |
 
 ## Detailed Agenda
 
