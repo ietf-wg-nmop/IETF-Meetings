@@ -31,8 +31,8 @@ _Goal_:
   
 ### 4. Digital Map Assessment Plans & Ongoing Experiments Updates (25 min) 
 
-#### 4.1 RFC 8345-based Approach: POC Insights & Updates (Sherif) (15 min)
-#### 4.2. RFC8795 Assessment: Experiment Plan (Italo) (10 min)
+#### 4.1 RFC 8345-based Approach: PoC Insights & Updates (Sherif) (15 min)
+#### 4.2. RFC8795-based Approach: Assessment & Experiment Plan (Italo) (10 min)
 
 ### 5. Next Steps (all, 10 min)
 
