@@ -14,7 +14,7 @@ The cummulative requested slots can be seen below:
 | Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots      | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|
 | 20 | YANG Template Framework | Px | Robert Peschi | 20    | OK/NOK |
-| 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 35    | OK/NOK |
+| 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 45    | OK/NOK |
 | xx | xxx | Px | xx | xx    | OK/NOK |
 | xx | xxx | Px | xx | xx    | OK/NOK |
 
