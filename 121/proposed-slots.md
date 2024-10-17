@@ -13,24 +13,24 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots      | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|
-| xx | xxx | Px | xx | xx    | OK/NOK |
-| xx | xxx | Px | xx | xx    | OK/NOK |
+| 20 | YANG Template Framework | Px | Robert Peschi | 20    | OK/NOK |
+| 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 35    | OK/NOK |
 | xx | xxx | Px | xx | xx    | OK/NOK |
 | xx | xxx | Px | xx | xx    | OK/NOK |
 
 # Detailed Requested Slots
 
-## Title
+## YANG Template Framework with Existing Tool Chain/YANG Constructs
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+ * Presenter: Robert Peschi
+ * Duration: 20min
+ * Reading Material: draft-rajaram-yang-config-template-framework-00
 
-## Title
+## Knowledge Graphs for YANG-based Network Management
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+ * Presenter: Ignacio Dominguez Martinez-Casanueva 
+ * Duration: 15
+ * Reading Material: [draft-marcas-nmop-knowledge-graph-yang](https://datatracker.ietf.org/doc/draft-marcas-nmop-knowledge-graph-yang/.)
 
 ## Title
 
