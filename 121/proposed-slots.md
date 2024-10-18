@@ -16,11 +16,11 @@ The cummulative requested slots can be seen below:
 | 20 | YANG Template Framework | Px | Robert Peschi | 20    | OK/NOK |
 | 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 35    | OK/NOK |
 | 10 | SAV-based Anti-DDoS Architecture | Px | Mingzhe Xing | 45    | OK/NOK |
-| 20 | An Architecture for YANG-Push to Message Broker Integration | Px | Thomas | 65    | OK/NOK |
-| 10 | An Architecture for a Network Anomaly Detection Framework | Px | Thomas | 75    | OK/NOK |
-| 10 | Semantic Metadata Annotation for Network Anomaly Detection | Px | Thomas | 85    | OK/NOK |
-| 15 | Validate Configured Subscription YANG-Push Publisher Implementations | Px | Yannick | 100    | OK/NOK |
-| 20 | Operator/Implementer Contribution: YANG-Push Next Steps | Px | Thomas | 120    | OK/NOK |
+| 20 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 65    | OK/NOK |
+| 10 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas | 75    | OK/NOK |
+| 10 | Semantic Metadata Annotation for Network Anomaly Detection | P2 | Thomas | 85    | OK/NOK |
+| 15 | Validate Configured Subscription YANG-Push Publisher Implementations | P1 | Yannick | 100    | OK/NOK |
+| 20 | Operator/Implementer Contribution: YANG-Push Next Steps | P1/P4 | Thomas | 120    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
