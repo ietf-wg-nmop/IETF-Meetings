@@ -14,9 +14,18 @@ The cummulative requested slots can be seen below:
 | Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots      | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|
 | 20 | YANG Template Framework | Px | Robert Peschi | 20    | OK/NOK |
-| 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 45    | OK/NOK |
-| xx | xxx | Px | xx | xx    | OK/NOK |
-| xx | xxx | Px | xx | xx    | OK/NOK |
+| 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 35    | OK/NOK |
+| 20 | An Architecture for YANG-Push to Message Broker Integration | Px | Thomas | 55    | OK/NOK |
+| 10 | An Architecture for a Network Anomaly Detection Framework | Px | Thomas | 65    | OK/NOK |
+| 10 | Semantic Metadata Annotation for Network Anomaly Detection | Px | Thomas | 75    | OK/NOK |
+| 15 | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | 90 | Yannick | xx    | OK/NOK |
+| 20 | Operator/Implementer Contribution: YANG-Push Next Steps | Px | Thomas | 110    | OK/NOK |
+| xx |xxx | Px | xx | xx    | OK/NOK |
+| xx |xxx | Px | xx | xx    | OK/NOK |
+| xx |xxx | Px | xx | xx    | OK/NOK |
+| xx |xxx | Px | xx | xx    | OK/NOK |
+| xx |xxx | Px | xx | xx    | OK/NOK |
+
 
 # Detailed Requested Slots
 
@@ -32,11 +41,36 @@ The cummulative requested slots can be seen below:
  * Duration: 15
  * Reading Material: [draft-marcas-nmop-knowledge-graph-yang](https://datatracker.ietf.org/doc/draft-marcas-nmop-knowledge-graph-yang/.)
 
-## Title
+## An Architecture for YANG-Push to Message Broker Integration
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+ * Presenter: Thomas Graf
+ * Duration: 20
+ * Reading Material: draft-ietf-nmop-yang-message-broker-integration-05, draft-netana-netconf-yp-transport-capabilities-00, draft-ahuang-netconf-notif-envelope-00
+
+## An Architecture for a Network Anomaly Detection Framework
+
+ * Presenter: Thomas Graf
+ * Duration: 10
+ * Reading Material: draft-ietf-nmop-network-anomaly-architecture-01
+
+## Semantic Metadata Annotation for Network Anomaly Detection
+
+ * Presenter: Thomas Graf
+ * Duration: 10
+ * Reading Material: draft-netana-opsawg-nmrg-network-anomaly-semantics-03
+
+
+##  Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations
+
+* Presenter: Yannick Buchs
+* Duration: 15
+* Reading Material: Hackathon Slide Deck, Relates to draft-ietf-nmop-yang-message-broker-integration-05
+
+## Operator/Implementer Contribution: YANG-Push Next Steps
+
+ * Presenter: Thomas Graf
+ * Duration: 20
+ * Reading Material: In over 4 workshop iterations we collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented. The group of implementors and operator wishes to publish this information to the IETF community, namely in NMOP and at the IAB nemops workshop. It relates to draft-boucadair-nmop-rfc3535-20years-later activity.
 
 ## Title
 
