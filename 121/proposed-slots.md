@@ -18,7 +18,7 @@ The cummulative requested slots can be seen below:
 | 20 | An Architecture for YANG-Push to Message Broker Integration | Px | Thomas | 55    | OK/NOK |
 | 10 | An Architecture for a Network Anomaly Detection Framework | Px | Thomas | 65    | OK/NOK |
 | 10 | Semantic Metadata Annotation for Network Anomaly Detection | Px | Thomas | 75    | OK/NOK |
-| 15 | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | 90 | Yannick | xx    | OK/NOK |
+| 15 | Validate Configured Subscription YANG-Push Publisher Implementations | Px | Yannick | 90    | OK/NOK |
 | 20 | Operator/Implementer Contribution: YANG-Push Next Steps | Px | Thomas | 110    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
