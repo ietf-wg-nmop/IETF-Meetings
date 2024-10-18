@@ -15,7 +15,7 @@ The cummulative requested slots can be seen below:
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|
 | 20 | YANG Template Framework | Px | Robert Peschi | 20    | OK/NOK |
 | 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 45    | OK/NOK |
-| xx | xxx | Px | xx | xx    | OK/NOK |
+| 10 | SAV-based Anti-DDoS Architecture | Px | Mingzhe Xing | 15    | OK/NOK |
 | xx | xxx | Px | xx | xx    | OK/NOK |
 
 # Detailed Requested Slots
@@ -32,11 +32,11 @@ The cummulative requested slots can be seen below:
  * Duration: 15
  * Reading Material: [draft-marcas-nmop-knowledge-graph-yang](https://datatracker.ietf.org/doc/draft-marcas-nmop-knowledge-graph-yang/.)
 
-## Title
+## SAV-based Anti-DDoS Architecture
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+ * Presenter: Mingzhe Xing
+ * Duration: 10
+ * Reading Material: [Draft:SAV-based Anti-DDoS Architecture](https://datatracker.ietf.org/doc/draft-cui-savnet-anti-ddos/), [Paper: SAV-D: Defending DDoS with Incremental Deployment of SAV](https://www.computer.org/csdl/magazine/ic/2023/03/10122643/1N27smb5qlW)
 
 ## Title
 
