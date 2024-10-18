@@ -15,11 +15,12 @@ The cummulative requested slots can be seen below:
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|
 | 20 | YANG Template Framework | Px | Robert Peschi | 20    | OK/NOK |
 | 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 35    | OK/NOK |
-| 20 | An Architecture for YANG-Push to Message Broker Integration | Px | Thomas | 55    | OK/NOK |
-| 10 | An Architecture for a Network Anomaly Detection Framework | Px | Thomas | 65    | OK/NOK |
-| 10 | Semantic Metadata Annotation for Network Anomaly Detection | Px | Thomas | 75    | OK/NOK |
-| 15 | Validate Configured Subscription YANG-Push Publisher Implementations | Px | Yannick | 90    | OK/NOK |
-| 20 | Operator/Implementer Contribution: YANG-Push Next Steps | Px | Thomas | 110    | OK/NOK |
+| 10 | SAV-based Anti-DDoS Architecture | Px | Mingzhe Xing | 45    | OK/NOK |
+| 20 | An Architecture for YANG-Push to Message Broker Integration | Px | Thomas | 65    | OK/NOK |
+| 10 | An Architecture for a Network Anomaly Detection Framework | Px | Thomas | 75    | OK/NOK |
+| 10 | Semantic Metadata Annotation for Network Anomaly Detection | Px | Thomas | 85    | OK/NOK |
+| 15 | Validate Configured Subscription YANG-Push Publisher Implementations | Px | Yannick | 100    | OK/NOK |
+| 20 | Operator/Implementer Contribution: YANG-Push Next Steps | Px | Thomas | 120    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
@@ -40,6 +41,12 @@ The cummulative requested slots can be seen below:
  * Presenter: Ignacio Dominguez Martinez-Casanueva 
  * Duration: 15
  * Reading Material: [draft-marcas-nmop-knowledge-graph-yang](https://datatracker.ietf.org/doc/draft-marcas-nmop-knowledge-graph-yang/.)
+
+## SAV-based Anti-DDoS Architecture
+
+ * Presenter: Mingzhe Xing
+ * Duration: 10
+ * Reading Material: [Draft:SAV-based Anti-DDoS Architecture](https://datatracker.ietf.org/doc/draft-cui-savnet-anti-ddos/), [Paper: SAV-D: Defending DDoS with Incremental Deployment of SAV](https://www.computer.org/csdl/magazine/ic/2023/03/10122643/1N27smb5qlW)
 
 ## An Architecture for YANG-Push to Message Broker Integration
 
@@ -71,6 +78,7 @@ The cummulative requested slots can be seen below:
  * Presenter: Thomas Graf
  * Duration: 20
  * Reading Material: In over 4 workshop iterations we collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented. The group of implementors and operator wishes to publish this information to the IETF community, namely in NMOP and at the IAB nemops workshop. It relates to draft-boucadair-nmop-rfc3535-20years-later activity.
+
 
 ## Title
 
