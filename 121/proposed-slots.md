@@ -21,7 +21,7 @@ The cummulative requested slots can be seen below:
 | 10 | Semantic Metadata Annotation for Network Anomaly Detection | P2 | Thomas | 85    | OK/NOK |
 | 15 | Validate Configured Subscription YANG-Push Publisher Implementations | P1 | Yannick | 100    | OK/NOK |
 | 20 | Operator/Implementer Contribution: YANG-Push Next Steps | P1/P4 | Thomas | 120    | OK/NOK |
-| xx |xxx | Px | xx | xx    | OK/NOK |
+| 10 |Experiment: Network Anomaly Lifecycle | P2 | Vincenzo | 130    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
@@ -80,11 +80,11 @@ The cummulative requested slots can be seen below:
  * Reading Material: In over 4 workshop iterations we collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented. The group of implementors and operator wishes to publish this information to the IETF community, namely in NMOP and at the IAB nemops workshop. It relates to draft-boucadair-nmop-rfc3535-20years-later activity.
 
 
-## Title
+## Experiment: Network Anomaly Lifecycle
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+ * Presenter: Vincenzo Riccobene
+ * Duration: 10 min
+ * Reading Material: https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/
 
 ## Title
 
