@@ -9,6 +9,8 @@ Current WG's priorities are:
 * P3: Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
 * P4: Consider/plan an approach for updating RFC 3535 (collecting updated operator requirements for IETF network management solutions)
 
+Overall Time budget: 3*60-15 = 165
+
 The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots      | Granted Status|
