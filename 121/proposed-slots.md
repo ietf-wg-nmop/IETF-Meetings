@@ -22,9 +22,9 @@ The cummulative requested slots can be seen below:
 | 15 | Validate Configured Subscription YANG-Push Publisher Implementations | P1 | Yannick | 100    | OK/NOK |
 | 20 | Operator/Implementer Contribution: YANG-Push Next Steps | P1/P4 | Thomas | 120    | OK/NOK |
 | 10 |Experiment: Network Anomaly Lifecycle | P2 | Vincenzo | 130    | OK/NOK |
-| xx |xxx | Px | xx | xx    | OK/NOK |
-| xx |xxx | Px | xx | xx    | OK/NOK |
-| xx |xxx | Px | xx | xx    | OK/NOK |
+| 15 |Digital Map | P3 | Olga | 145    | OK/NOK |
+| 15 |Digital Map Hackathon| P3 | Olga/Sherif| 160    | OK/NOK |
+| 15 |Incident Management YANG Module | P2 | Qin | 175    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 
 
@@ -86,20 +86,21 @@ The cummulative requested slots can be seen below:
  * Duration: 10 min
  * Reading Material: https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/
 
-## Title
+## Digital Map
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+ * Presenter: Olga
+ * Duration: 15
+ * Reading Material: draft-ietf-nmop-digital-map-concept and draft-havel-nmop-digital-map
 
-## Title
+## Digital Map Hackathon
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+ * Presenter: Olga/Sherif
+ * Duration: 15
+ * Reading Material: xxx
 
-## Title
 
- * Presenter: xxxx
- * Duration: xxx
- * Reading Material: xxxx
+## Incident Management YANG Module
+
+ * Presenter: Qin
+ * Duration: 15
+ * Reading Material: draft-ietf-nmop-network-incident-yang
