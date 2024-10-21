@@ -28,7 +28,7 @@ The cummulative requested slots can be seen below:
 | 15 |Digital Map Hackathon| P3 | Olga/Sherif| 160    | OK/NOK |
 | 15 |Incident Management YANG Module | P2 | Qin | 175    | OK/NOK |
 | 15 |Knowledge Graph Framework for Network Operations | Px | Mike | 190    | OK/NOK |
-| xx |xxx | Px | xx | xx    | OK/NOK |
+| 10 |AI based Network Management Agent(NMA): Concepts and Architecture | P4 | Xing | 200    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 | xx |xxx | Px | xx | xx    | OK/NOK |
 
@@ -116,11 +116,11 @@ The cummulative requested slots can be seen below:
  * Duration: 15
  * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
-## ddd
+## AI based Network Management Agent(NMA): Concepts and Architecture
 
- * Presenter: dd
- * Duration: dd
- * Reading Material: dd
+ * Presenter: Xing Zhao
+ * Duration: 10
+ * Reading Material: https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/
 
 ## ddd
 
