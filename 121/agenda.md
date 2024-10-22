@@ -16,13 +16,12 @@
 
 | Slot          | Priority Label |Topic                                    | Presenters |
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 09:30 - 09:40 |                | xxx          | xxx     |
-| 09:05 - 09:30 |xxx              | xxx | xxx     |
-| 10:05 - 10:30 |xxx              | xxx | xxx     |
-| 10:05 - 10:30 |xxx              | xxx | xxx     |
-| 10:05 - 10:30 |xxx              | xxx | xxx     |
-| 10:05 - 10:30 |xxx              | xxx | xxx     |
-| 10:05 - 11:25 |xxx              | xxx | xxx     |
+| 09:30 - 09:40 |                | Agenda Bashing & Introduction          | Chairs     |
+| 09:40 - 10:10 |P1/P4           | YANG-Push to Message Broker Integration | Thomas     |
+| 10:10 - 10:25 |P2              | Incident Management YANG Module | Qin     |
+| 10:25 - 10:40 |P2              | An Architecture for a Network Anomaly Detection Framework | Thomas     |
+| 10:40 - 11:10 |P3              | Digital Map: Concepts & Requirements | Olga     |
+| 11:10 - 11:25 |P4              | xxx | xxx     |
 | 11:25 - 11:30 |           | Open Mic    | All     |
 
 ### Session 2
@@ -39,21 +38,40 @@
 
 ## Session 1: Detailed Agenda
 
-### 1. Agenda Bashing & Introduction (Chairs) (5 min)
+### 1. Agenda Bashing & Introduction (Chairs) (10 min)
    
-#### 2 An Architecture for YANG-Push to Message Broker Integration (xxx min)
+### 2. YANG-Push to Message Broker Integration (30 min)
 
- * ***Presenter***: Thomas Graf
- * ***Reading Material***: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
+#### 2.1 An Architecture for YANG-Push to Message Broker Integration (20 min)
 
-### 3. Anomaly Detection and Incident management (xx min)
+ * Presenter: Thomas Graf
+ * Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
 
-### 4. Issues Related to Deployment/Usage of YANG Topology Modules (xx min)
+#### 2.2. Operator/Implementer Contribution: YANG-Push Next Steps  (10 min)
 
-#### 4.1 Digital Map: Concepts & Requirements (xx min)
+ * Presenter: Thomas Graf
+ * Reading Material: In over 4 workshop iterations we collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented.
 
- * ***Presenters***: Olga Havel
- * ***Reading Material***: [draft-havel-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
+### 3. Anomaly Detection and Incident Management (30 min)
+
+#### 3.1 Incident Management YANG Module (15 min)
+
+ * Presenter: Qin Wu
+ * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
+
+#### 3.2. An Architecture for a Network Anomaly Detection Framework  (15 min)
+
+ * Presenter: Thomas Graf
+ * Reading Material: [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture/)
+
+#### 4. Digital Map: Concepts & Requirements (30 min)
+
+ * Presenters: Olga Havel
+ * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
+
+### 5. ???
+
+### Flash Prez(??): 1-slide teaser
 
 ## Session 2: Detailed Agenda
 
@@ -72,14 +90,16 @@
 ### 4. Digital Map Hackathon (15 min)
 
  * Presenter: Olga/Sherif
-  * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) and [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
+  * Reading Material:
+     + [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) 
+     + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
 
 ### 4. Knowlege Graph for Network Operations (5 min)
 
  * Presenter: Michael Mackey
   * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
-### 5. Open Mic (5 min)
+### 5. Misc (5 min)
 
-#### TE Hackathon?
+#### TE Topology Hackathon?
 
