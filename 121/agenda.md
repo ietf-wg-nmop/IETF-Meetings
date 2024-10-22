@@ -33,9 +33,9 @@
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
 | 18:00 - 18:05 |                | Introduction                            | Chairs     |
 | 18:05 - 18:20 |P1              | Validate Configured Subscription YANG-Push Publisher Implementations | Yannick     |
-| 18:20 - 18:40 |P3              | Digital Map Hackathon | Sherif/Olga/Italo     |
-| 18:40 - 18:50 |P2              | Network Anomaly Lifecycle | Vincenzo      |
-| 18:50 - 18:55 |                | Knowlege Graph for Network Operations | Mike     |
+| 18:20 - 18:40 |P3              | Digital Map Hackathons | Sherif/Olga/Italo     |
+| 18:40 - 18:50 |P2              | Network Anomaly Lifecycle Hackathon | Vincenzo      |
+| 18:50 - 18:55 |                | Knowlege Graph for Network Operations Hackathon | Mike     |
 | 18:55 - 19:00 |                | Open Mic  | All     |
 
 
