@@ -43,7 +43,7 @@
 
 ### 1. Agenda Bashing & Introduction (Chairs) (10 min)
 
-#### 2. Digital Map: Concepts & Requirements (30 min)
+### 2. Digital Map: Concepts & Requirements (30 min)
 
  * Presenters: Olga Havel
  * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
