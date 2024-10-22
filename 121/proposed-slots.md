@@ -14,23 +14,23 @@ Overall Time budget: 3*60-15 = 165
 The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Priority Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
-|:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|
-| 20 | YANG Template Framework | Px | Robert Peschi | 20    | OK/NOK |
+|:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
+| 20 | YANG Template Framework | Px | Robert Peschi | 20    | | OK/NOK |
 | 15 | Knowledge Graphs for YANG-based Network Management | Px | Nacho | 35  | Yes  | OK/NOK |
-| 10 | SAV-based Anti-DDoS Architecture | Px | Mingzhe Xing | 45    | OK/NOK |
+| 10 | SAV-based Anti-DDoS Architecture | Px | Mingzhe Xing | 45    | | OK/NOK |
 | 20 | An Architecture for YANG-Push to Message Broker Integration | P1 | Thomas | 65  | Yes  | OK/NOK |
 | 10 | An Architecture for a Network Anomaly Detection Framework | P2 | Thomas | 75   | Yes | OK/NOK |
 | 10 | Semantic Metadata Annotation for Network Anomaly Detection | P2 | Thomas | 85  | Yes  | OK/NOK |
 | 15 | Validate Configured Subscription YANG-Push Publisher Implementations | P1 | Yannick | 100  | Yes  | OK/NOK |
 | 20 | Operator/Implementer Contribution: YANG-Push Next Steps | P1/P4 | Thomas | 120   | Yes | OK/NOK |
 | 10 |Experiment: Network Anomaly Lifecycle | P2 | Vincenzo | 130  | Yes  | OK/NOK |
-| 15 |Digital Map | P3 | Olga | 145 | Yes   | OK/NOK |
+| 15 |Digital Map | P3 | Olga | 145 |Yes   | OK/NOK |
 | 15 |Digital Map Hackathon| P3 | Olga/Sherif| 160   | Yes | OK/NOK |
-| 15 |Incident Management YANG Module | P2 | Qin | 175    | OK/NOK |
+| 15 |Incident Management YANG Module | P2 | Qin | 175 | |   | OK/NOK |
 | 15 |Knowledge Graph Framework for Network Operations | Px | Mike | 190  | Yes  | OK/NOK |
-| 10 |AI based Network Management Agent(NMA): Concepts and Architecture | P4 | Xing | 200    | OK/NOK |
+| 10 |AI based Network Management Agent(NMA): Concepts and Architecture | P4 | Xing | 200||    | OK/NOK |
 | 10 |Updated Operators requirements | P4 | Luis | 210  | Yes | OK/NOK |
-| 10 |NETCONF Observability | P2 | Rob | 220    | OK/NOK |
+| 10 |NETCONF Observability | P2 | Rob | 220    | | OK/NOK |
 
 # Detailed Requested Slots
 
