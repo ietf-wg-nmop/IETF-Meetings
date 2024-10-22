@@ -28,7 +28,7 @@ The cummulative requested slots can be seen below:
 | 15 |Digital Map Hackathon| P3 | Olga/Sherif| 160   | Yes | OK |
 | 15 |Incident Management YANG Module | P2 | Qin | 175 | |   | OK |
 | 15 |Knowledge Graph Framework for Network Operations | Px | Mike | 190  | Yes  | NOK |
-| 10 |AI based Network Management Agent(NMA): Concepts and Architecture | P4 | Xing | 200||    | OK (teaser) |
+| 10 |AI based Network Management Agent(NMA): Concepts and Architecture | P4 | Xing | 200|   | OK (teaser) |
 | 10 |Updated Operators requirements | P4 | Luis | 210  | Yes | NOK |
 | 10 |NETCONF YANG-Push Observability | P2 | Rob | 220    | | OK (teaser) |
 | 5 |  Knowledge Graph hackathon updates | Px | Mike | 225  | Yes  | OK |
