@@ -30,8 +30,8 @@
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
 | 18:00 - 18:05 |                | Introduction                            | Chairs     |
 | 18:05 - 18:20 |P1              | Validate Configured Subscription YANG-Push Publisher Implementations | Yannick     |
-| 18:20 - 18:35 |P2              | Network Anomaly Lifecycle | Vincenzo      |
-| 18:35 - 18:50 |P3              | Digital Map Hackathon | Sherif/Olga     |
+| 18:20 - 18:40 |P3              | Digital Map Hackathon | Sherif/Olga/Italo     |
+| 18:40 - 18:50 |P2              | Network Anomaly Lifecycle | Vincenzo      |
 | 18:50 - 18:55 |                | Knowlege Graph for Network Operations | Mike     |
 | 18:55 - 19:00 |                | Open Mic  | All     |
 
@@ -39,41 +39,50 @@
 ## Session 1: Detailed Agenda
 
 ### 1. Agenda Bashing & Introduction (Chairs) (10 min)
-   
-### 2. YANG-Push to Message Broker Integration (30 min)
 
-#### 2.1 An Architecture for YANG-Push to Message Broker Integration (20 min)
+#### 2. Digital Map: Concepts & Requirements (30 min)
+
+ * Presenters: Olga Havel
+ * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
+   
+### 3. YANG-Push to Message Broker Integration (30 min)
+
+#### 3.1 An Architecture for YANG-Push to Message Broker Integration (20 min)
 
  * Presenter: Thomas Graf
  * Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
 
-#### 2.2. Operator/Implementer Contribution: YANG-Push Next Steps  (10 min)
+#### 3.2. Operator/Implementer Contribution: YANG-Push Next Steps  (10 min)
 
  * Presenter: Thomas Graf
  * Reading Material: In over 4 workshop iterations we collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented.
 
-### 3. Anomaly Detection and Incident Management (30 min)
+### 4. Anomaly Detection and Incident Management (40 min)
 
-#### 3.1 Incident Management YANG Module (15 min)
+#### 4.1 Next Steps for the terminology draft (Chairs, 5 min)
+
+#### 4.2 Incident Management YANG Module (15 min)
 
  * Presenter: Qin Wu
  * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
 
-#### 3.2. An Architecture for a Network Anomaly Detection Framework  (15 min)
+#### 4.3. Follow up to the Anomaly Interim  (20 min)
 
- * Presenter: Thomas Graf
- * Reading Material: [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture/)
+ * Presenter: Thomas Graf/Vincenzo Riccobene
+ * Reading Material:
+   + [slides-interim-2024-nmop-03-sessa-chairs-questions](https://datatracker.ietf.org/meeting/interim-2024-nmop-03/materials/slides-interim-2024-nmop-03-sessa-chairs-questions-00)
+   + [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture/)
+   + [draft-netana-opsawg-nmrg-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-opsawg-nmrg-network-anomaly-semantics/)
+   + [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
 
-#### 4. Digital Map: Concepts & Requirements (30 min)
+### 5. Flash Prez: 1-slide Teasers (10 min)
 
- * Presenters: Olga Havel
- * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
+#### 5.1. YANG Template Framework (Robert)
+#### 5.2. AI based Network Management Agent (NMA): Concepts & Architecture (Xing)
+#### 5.3. NETCONF YANG-Push Observability (Rob)
 
-### 5. ???
 
-### Flash Prez(??): 1-slide teaser
-
-## Session 2: Detailed Agenda
+## Session 2: Detailed Agenda (Hackathon-focused)
 
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 
@@ -82,25 +91,24 @@
 * Presenter: Yannick Buchs
 * Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
 
-### 3. Network Anomaly Lifecycle (10 min)
+### 3. Digital Map Hackathons (20 min)
+
+ * Presenter: Olga/Sherif/Italo
+  * Reading Material:
+     + [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) 
+     + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
+     + TE Models
+
+### 4. Network Anomaly Lifecycle (Hackathon) (10 min)
 
  * Presenter: Vincenzo Riccobene
   * Reading Material: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
 
-### 4. Digital Map Hackathon (15 min)
 
- * Presenter: Olga/Sherif
-  * Reading Material:
-     + [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) 
-     + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
-
-### 5. Knowlege Graph for Network Operations (5 min)
+### 5. Knowlege Graph for Network Operations (Hackathon) (5 min)
 
  * Presenter: Michael Mackey
   * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
 ### 6. Misc (5 min)
-
-#### 6.1. TE Topology Hackathon?
-#### 6.2. Else?
 
