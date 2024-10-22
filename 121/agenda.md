@@ -10,6 +10,9 @@
 * *P3*: Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
 * *P4*: Consider/plan an approach for updating RFC 3535 (collecting updated operator requirements for IETF network management solutions)
 
+> For P4 items: We propose to submit those for the forthcoming NEMOPS Workshop. Will discuss in future whether we keep this item in the charter or remove it
+> after the NEMOPS Workshop takes place.
+
 ## Compact Agenda
 
 ### Session 1
@@ -17,12 +20,12 @@
 | Slot          | Priority Label |Topic                                    | Presenters |
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
 | 09:30 - 09:40 |                | Agenda Bashing & Introduction          | Chairs     |
-| 09:40 - 10:10 |P1/P4           | YANG-Push to Message Broker Integration | Thomas     |
-| 10:10 - 10:25 |P2              | Incident Management YANG Module | Qin     |
-| 10:25 - 10:40 |P2              | An Architecture for a Network Anomaly Detection Framework | Thomas     |
-| 10:40 - 11:10 |P3              | Digital Map: Concepts & Requirements | Olga     |
-| 11:10 - 11:25 |P4              | xxx | xxx     |
-| 11:25 - 11:30 |           | Open Mic    | All     |
+| 09:40 - 10:10 |P3              | Digital Map: Concepts & Requirements | Olga     |
+| 10:10 - 10:40 |P1              | YANG-Push to Message Broker Integration | Thomas     |
+| 10:40 - 10:45 |P2              | Next Steps for the terminology draft | Chairs|
+| 10:45 - 11:00 |P2              | Incident Management YANG Module | Qin     |
+| 11:00 - 11:20 |P2              | Follow up to the Anomaly Interim | Thomas/Vincenzo     |
+| 11:20 - 11:30 |                | Flash Teasers | Robert/Rob/Xing     |
 
 ### Session 2
 
