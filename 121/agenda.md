@@ -1,6 +1,6 @@
 # Network Management Operations (nmop) WG Agenda - IETF 121
 
-* When: day, Nov xx, 2024
+* When: Tue, Nov 05, 2024
 * Co-Chairs: Benoît Claise & Mohamed Boucadair
 
 ## Current WG's priorities
@@ -94,12 +94,13 @@
      + [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) 
      + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
 
-### 4. Knowlege Graph for Network Operations (5 min)
+### 5. Knowlege Graph for Network Operations (5 min)
 
  * Presenter: Michael Mackey
   * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
-### 5. Misc (5 min)
+### 6. Misc (5 min)
 
-#### TE Topology Hackathon?
+#### 6.1. TE Topology Hackathon?
+#### 6.2. Else?
 
