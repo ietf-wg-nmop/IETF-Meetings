@@ -16,24 +16,25 @@
 
 | Slot          | Priority Label |Topic                                    | Presenters |
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 13:00 - 13:05 |                | xxx          | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
+| 09:30 - 09:40 |                | xxx          | xxx     |
+| 09:05 - 09:30 |xxx              | xxx | xxx     |
+| 10:05 - 10:30 |xxx              | xxx | xxx     |
+| 10:05 - 10:30 |xxx              | xxx | xxx     |
+| 10:05 - 10:30 |xxx              | xxx | xxx     |
+| 10:05 - 10:30 |xxx              | xxx | xxx     |
+| 10:05 - 11:25 |xxx              | xxx | xxx     |
+| 11:25 - 11:30 |           | Open Mic    | All     |
 
 ### Session 2
 
 | Slot          | Priority Label |Topic                                    | Presenters |
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 13:00 - 13:05 |                | xxx          | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
-| 13:05 - 13:30 |xxx              | xxx | xxx     |
+| 18:00 - 18:05 |                | Introduction                            | Chairs     |
+| 18:05 - 18:20 |P1              | Validate Configured Subscription YANG-Push Publisher Implementations | Yannick     |
+| 18:20 - 18:35 |P2              | Network Anomaly Lifecycle | Vincenzo      |
+| 18:35 - 18:50 |P3              | Digital Map Hackathon | Sherif/Olga     |
+| 18:50 - 18:55 |                | Knowlege Graph for Network Operations | Mike     |
+| 18:55 - 19:00 |                | Open Mic  | All     |
 
 
 ## Session 1: Detailed Agenda
@@ -58,12 +59,27 @@
 
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 
-### 2. Hackathon 1 (x min)
+### 2. Validate Configured Subscription YANG-Push Publisher Implementations ( 15 min)
 
-### 3. Hackathon 2 (x min)
+* Presenter: Yannick Buchs
+* Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
 
-### 4. Hackathon 3 (x min)
+### 3. Network Anomaly Lifecycle (10 min)
 
-### 4. Hackathon 4 (x min)
+ * Presenter: Vincenzo Riccobene
+  * Reading Material: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
 
+### 4. Digital Map Hackathon (15 min)
+
+ * Presenter: Olga/Sherif
+  * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) and [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
+
+### 4. Knowlege Graph for Network Operations (5 min)
+
+ * Presenter: Michael Mackey
+  * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
+
+### 5. Open Mic (5 min)
+
+#### TE Hackathon?
 
