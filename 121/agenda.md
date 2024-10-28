@@ -17,15 +17,15 @@
 
 ### Session 1
 
-| Slot          | Priority Label |Topic                                    | Presenters |
-|:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 09:30 - 09:40 |                | Agenda Bashing & Introduction          | Chairs     |
-| 09:40 - 10:10 |P3              | Digital Map: Concepts & Requirements | Olga     |
-| 10:10 - 10:40 |P1              | YANG-Push to Message Broker Integration | Thomas     |
-| 10:40 - 10:45 |P2              | Next Steps for the terminology draft | Chairs|
-| 10:45 - 11:00 |P2              | Incident Management YANG Module | Qin     |
-| 11:00 - 11:20 |P2              | Follow up to the Anomaly Interim | Thomas/Vincenzo     |
-| 11:20 - 11:30 |                | Flash Teasers | Robert/Rob/Xing     |
+| Slot          | Priority Label |Topic                                    | Presenters            |
+|:-------------:|:--------------:|:---------------------------------------:|:----------------------|
+| 09:30 - 09:40 |                | Agenda Bashing & Introduction           | Chairs                |
+| 09:40 - 10:10 |P3              | Digital Map: Concepts & Requirements    | Olga                  |
+| 10:10 - 10:40 |P1              | YANG-Push to Message Broker Integration | Thomas                |
+| 10:40 - 10:45 |P2              | Next Steps for the terminology draft    | Chairs                |
+| 10:45 - 11:00 |P2              | Incident Management YANG Module         | Qin                   |
+| 11:00 - 11:20 |P2              | Follow up to the Anomaly Interim        | Thomas/Vincenzo       |
+| 11:20 - 11:30 |                | Flash Teasers                           | Robert/Rob/Xing/Diego |
 
 ### Session 2
 
@@ -80,9 +80,10 @@
 
 ### 5. Flash Prez: 1-slide Teasers (10 min)
 
-#### 5.1. YANG Template Framework (Robert)
-#### 5.2. AI based Network Management Agent (NMA): Concepts & Architecture (Xing)
-#### 5.3. NETCONF YANG-Push Observability (Rob)
+#### 5.1. YANG Template Framework (Robert Peschi)
+#### 5.2. AI based Network Management Agent (NMA): Concepts & Architecture (Xing Zhao)
+#### 5.3. NETCONF YANG-Push Observability (Rob Wilton)
+#### 5.4. ETSI TC DATA (Diego Lopez)
 
 
 ## Session 2: Detailed Agenda (Hackathon-focused)
