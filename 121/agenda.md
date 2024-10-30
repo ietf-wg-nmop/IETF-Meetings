@@ -33,10 +33,9 @@
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
 | 18:00 - 18:05 |                | Introduction                            | Chairs     |
 | 18:05 - 18:20 |P1              | Validate Configured Subscription YANG-Push Publisher Implementations | Yannick     |
-| 18:20 - 18:40 |P3              | Digital Map Hackathons | Sherif/Olga/Italo     |
-| 18:40 - 18:50 |P2              | Network Anomaly Lifecycle Hackathon | Vincenzo      |
-| 18:50 - 18:55 |                | Knowlege Graph for Network Operations Hackathon | Mike     |
-| 18:55 - 19:00 |                | Open Mic  | All     |
+| 18:20 - 18:45 |P3              | Digital Map Hackathons | Sherif/Henry     |
+| 18:45 - 18:55 |P2              | Network Anomaly Lifecycle Hackathon | Vincenzo      |
+| 18:55 - 19:00 |                | Knowlege Graph for Network Operations Hackathon | Mike     |
 
 
 ## Session 1: Detailed Agenda
@@ -95,9 +94,9 @@
 * Presenter: Yannick Buchs
 * Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
 
-### 3. Digital Map Hackathons (20 min)
+### 3. Digital Map Hackathons (25 min)
 
- * Presenter: Olga/Sherif/Italo
+ * Presenter: Sherif Mostafa and Henry Yu
   * Reading Material:
      + [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) 
      + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
@@ -113,6 +112,3 @@
 
  * Presenter: Michael Mackey
   * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
-
-### 6. Misc (5 min)
-
