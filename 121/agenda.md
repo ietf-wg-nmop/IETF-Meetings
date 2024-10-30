@@ -35,7 +35,7 @@
 | 18:05 - 18:20 |P1              | Validate Configured Subscription YANG-Push Publisher Implementations | Yannick     |
 | 18:20 - 18:45 |P3              | Digital Map Hackathons | Sherif/Henry     |
 | 18:45 - 18:55 |P2              | Network Anomaly Lifecycle Hackathon | Vincenzo      |
-| 18:55 - 19:00 |                | Knowlege Graph for Network Operations Hackathon | Mike     |
+| 18:55 - 19:00 |                | Knowledge Graph for Network Operations Hackathon | Mike     |
 
 
 ## Session 1: Detailed Agenda
@@ -57,11 +57,11 @@
 #### 3.2. Operator/Implementer Contribution: YANG-Push Next Steps  (10 min)
 
  * Presenter: Thomas Graf
- * Reading Material: In over 4 workshop iterations we collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented.
+ * Reading Material: In over 4 workshop iterations, the authors collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented.
 
 ### 4. Anomaly Detection and Incident Management (40 min)
 
-#### 4.1 Next Steps for the terminology draft (Chairs, 5 min)
+#### 4.1 Next Steps for the Terminology Draft (Chairs, 5 min)
 
 #### 4.2 Incident Management YANG Module (15 min)
 
@@ -79,7 +79,7 @@
 
 ### 5. Flash Prez: 1-slide Teasers (10 min)
 
-#### 5.1. YANG Template Framework (Robert Peschi)
+#### 5.1. A YANG Template Framework (Robert Peschi)
 #### 5.2. AI based Network Management Agent (NMA): Concepts & Architecture (Xing Zhao)
 #### 5.3. NETCONF YANG-Push Observability (Rob Wilton)
 #### 5.4. ETSI TC DATA (Diego Lopez)
@@ -96,7 +96,7 @@
 
 ### 3. Digital Map Hackathons (25 min)
 
- * Presenter: Sherif Mostafa and Henry Yu
+ * Presenter: Sherif Mostafa & Henry Yu
   * Reading Material:
      + [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) 
      + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
@@ -107,8 +107,7 @@
  * Presenter: Vincenzo Riccobene
   * Reading Material: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
 
-
-### 5. Knowlege Graph for Network Operations (Hackathon) (5 min)
+### 5. Knowledge Graph for Network Operations (Hackathon) (5 min)
 
  * Presenter: Michael Mackey
   * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
