@@ -20,11 +20,12 @@
 | Slot          | Priority Label |Topic                                    | Presenters            |
 |:-------------:|:--------------:|:---------------------------------------:|:----------------------|
 | 09:30 - 09:40 |                | Agenda Bashing & Introduction           | Chairs                |
-| 09:40 - 10:10 |P3              | Digital Map: Concepts & Requirements    | Olga                  |
+| 10:40 - 10:50 |P3              | Pick a Concept Name: Digital Map or not Digital Map | Chairs & Adrian       |
+| 09:50 - 10:10 |P3              | Digital Map: Concepts & Requirements    | Olga                  |
 | 10:10 - 10:40 |P1              | YANG-Push to Message Broker Integration | Thomas                |
 | 10:40 - 10:45 |P2              | Next Steps for the terminology draft    | Chairs                |
 | 10:45 - 11:00 |P2              | Incident Management YANG Module         | Qin                   |
-| 11:00 - 11:20 |P2              | Follow up to the Anomaly Interim        | Thomas/Vincenzo       |
+| 11:00 - 11:20 |P2              | Follow up to the Anomaly Interim        | Vincenzo              |
 | 11:20 - 11:30 |                | Flash Teasers                           | Robert/Rob/Xing/Diego |
 
 ### Session 2
@@ -42,9 +43,15 @@
 
 ### 1. Agenda Bashing & Introduction (Chairs) (10 min)
 
-### 2. Digital Map: Concepts & Requirements (30 min)
+### 2. Digital Map
 
- * Presenters: Olga Havel
+### 2.1. Pick a Name for the Concept (10 min)
+
+ * Presenter: Adrian Farrel
+
+### 2.2. Concepts & Requirements (20 min)
+
+ * Presenter: Olga Havel
  * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
    
 ### 3. YANG-Push to Message Broker Integration (30 min)
@@ -70,7 +77,7 @@
 
 #### 4.3. Follow up to the Anomaly Interim  (20 min)
 
- * Presenter: Thomas Graf/Vincenzo Riccobene
+ * Presenter: Vincenzo Riccobene
  * Reading Material:
    + [slides-interim-2024-nmop-03-sessa-chairs-questions](https://datatracker.ietf.org/meeting/interim-2024-nmop-03/materials/slides-interim-2024-nmop-03-sessa-chairs-questions-00)
    + [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture/)
