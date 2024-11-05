@@ -20,7 +20,7 @@
 | Slot          | Priority Label |Topic                                    | Presenters            |
 |:-------------:|:--------------:|:---------------------------------------:|:----------------------|
 | 09:30 - 09:40 |                | Agenda Bashing & Introduction           | Chairs                |
-| 10:40 - 10:50 |P3              | Pick a Concept Name: Digital Map or not Digital Map | Chairs & Adrian       |
+| 09:40 - 09:50 |P3              | Pick a Concept Name: Digital Map or not Digital Map | Chairs & Adrian       |
 | 09:50 - 10:10 |P3              | Digital Map: Concepts & Requirements    | Olga                  |
 | 10:10 - 10:40 |P1              | YANG-Push to Message Broker Integration | Thomas                |
 | 10:40 - 10:45 |P2              | Next Steps for the terminology draft    | Chairs                |
