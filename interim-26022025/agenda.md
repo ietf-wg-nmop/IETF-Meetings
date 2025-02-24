@@ -10,7 +10,7 @@
 | 09:00 - 09:05 | Agenda Bashing & Introduction        | Chairs                   |
 | 09:05 - 09:15 | BBF LS                               | BBF/IETF Liaison (Xueyan)|
 | 09:15 - 09:35 | NMOP Message Broker: Overview        | Thomas                   |
-| 09:35 - 09:55 | WT-508 Scope & Goals                 | Haomian/ David           |
+| 09:35 - 09:55 | WT-508 Scope & Goals                 | Haomian/David            |
 | 09:55 - 10:25 | BBF/NMOP Cooperation                 | Haomian/David/Thomas/All |
 | 10:25 - 10:30 | Next Steps                           | Chairs                   |
 
@@ -20,7 +20,7 @@
 
 ### 2. BBF LS (Xueyan, 10 min)
 
-### 3. Introduction to [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/): WT-508 Scope & Goals (Thomas, 20 min)
+### 3. [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/) Overview (Thomas, 20 min)
 
 ### 4. Introduction to WT-508: Scope & Goals (Haomian/David, 20 min)
 
