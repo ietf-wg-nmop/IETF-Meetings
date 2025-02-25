@@ -1,7 +1,7 @@
 # Network Management Operations (nmop) WG Agenda - Interim on Cooperation with BBF
 
 * When: 2025-02-26 09:00-10:30 UTC
-* Co-Chairs: Benoît Claise & Mohamed Boucadair
+* Co-Chairs: Benoît Claise & Mohamed Boucadair & Reshad Rahman
 
 ## Compact Agenda
 
