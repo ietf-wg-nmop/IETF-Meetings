@@ -33,6 +33,14 @@ The cummulative requested slots can be seen below:
  * Duration: 10 min
  * Reading Material: draft-zhao-nmop-network-management-agent (01-version will be uploaded a few days later)
 
+## SIMAP
+
+ * Presenter: Olga Havel
+ * Duration: 20 mins
+ * Reading Material:
+  * SIMAP: Concept, Requirements, and Use Cases https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
+  * Modeling the SIMAP based on RFC8345: Sharing Experience and Perspectives https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/
+
 ## Requested SLOT
 
  * Presenter: xx
