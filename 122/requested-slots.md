@@ -22,9 +22,11 @@ The cummulative requested slots can be seen below:
 
 ## Requested SLOT
 
- * Presenter: xx
- * Duration: xxx
- * Reading Material: xxx
+ * Presenter: Olga Havel
+ * Duration: 20 mins
+ * Reading Material:
+  SIMAP: Concept, Requirements, and Use Cases https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
+  Modeling the SIMAP based on RFC8345: Sharing Experience and Perspectives https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/
 
 ## Requested SLOT
 
