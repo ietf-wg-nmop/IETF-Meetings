@@ -15,16 +15,16 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| xx | xx | Px | xx | xx    | | OK/NOK  |
+| 10 | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 10    | Yes| OK/NOK  |
 
 
 # Detailed Requested Slots
 
-## Requested SLOT
+## AI based Network Management Agent(NMA): Concepts and Architecture
 
- * Presenter: xx
- * Duration: xxx
- * Reading Material: xxx
+ * Presenter: Xing Zhao
+ * Duration: 10 min
+ * Reading Material: draft-zhao-nmop-network-management-agent (01-version will be uploaded a few days later)
 
 ## Requested SLOT
 
