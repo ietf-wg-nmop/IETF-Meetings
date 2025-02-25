@@ -15,10 +15,17 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| 10 | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 10    | Yes| OK/NOK  |
+| 10 | NMOP Terminology Update | Px | Adrian | 10    |  | OK/NOK  |
+| 10 | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 20    | Yes| OK/NOK  |
 
 
 # Detailed Requested Slots
+
+## Status of NMOP Terminology
+
+* Presenter: 	Adrian Farrel 
+* Duration: 10 min
+* Reading material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
 ## AI based Network Management Agent(NMA): Concepts and Architecture
 
