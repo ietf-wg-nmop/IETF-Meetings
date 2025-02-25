@@ -15,18 +15,31 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| xx | xx | Px | xx | xx    | | OK/NOK  |
+| 10 | NMOP Terminology Update | Px | Adrian | 10    |  | OK/NOK  |
+| 10 | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 20    | Yes| OK/NOK  |
 
 
 # Detailed Requested Slots
 
-## Requested SLOT
+## Status of NMOP Terminology
+
+* Presenter: 	Adrian Farrel 
+* Duration: 10 min
+* Reading material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
+
+## AI based Network Management Agent(NMA): Concepts and Architecture
+
+ * Presenter: Xing Zhao
+ * Duration: 10 min
+ * Reading Material: draft-zhao-nmop-network-management-agent (01-version will be uploaded a few days later)
+
+## SIMAP
 
  * Presenter: Olga Havel
  * Duration: 20 mins
  * Reading Material:
-  SIMAP: Concept, Requirements, and Use Cases https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
-  Modeling the SIMAP based on RFC8345: Sharing Experience and Perspectives https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/
+  * SIMAP: Concept, Requirements, and Use Cases https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
+  * Modeling the SIMAP based on RFC8345: Sharing Experience and Perspectives https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/
 
 ## Requested SLOT
 
