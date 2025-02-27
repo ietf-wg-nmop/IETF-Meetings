@@ -17,6 +17,8 @@ The cummulative requested slots can be seen below:
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
 | 10 | NMOP Terminology Update | Px | Adrian | 10    |  | OK/NOK  |
 | 10 | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 20    | Yes| OK/NOK  |
+| 15 | DT Network Incident |  | Holger | 30    | Yes| OK/NOK  |
+
 
 
 # Detailed Requested Slots
