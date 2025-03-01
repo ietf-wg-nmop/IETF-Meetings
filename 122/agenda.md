@@ -2,7 +2,7 @@
 
 * Co-Chairs: Benoît Claise, Reshad Rahman, & Mohamed Boucadair
 
-## Current WG's projects
+## Current WG's Projects
 
 * *P1*: NETCONF/YANG Push integration with message brokers & time series databases
 * *P2*: Anomaly detection and incident management
@@ -14,7 +14,7 @@
 
 ### Session 1
 
-| Slot          | Priority Label |Topic                                    | Presenters            |
+| Slot          | Project Label  |Topic                                    | Presenters            |
 |:-------------:|:--------------:|:---------------------------------------:|:----------------------|
 | xx:xx - xx:xx |                | Agenda Bashing & Introduction           | Chairs                |
 | xx:xx - xx:xx |                | tbc                                     | tbc                   |
@@ -25,20 +25,19 @@
 
 ### Session 2
 
-| Slot          | Priority Label |Topic                                    | Presenters |
+| Slot          | Project Label  |Topic                                    | Presenters |
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
 | xxx:00 - xx:05|                | Introduction                            | Chairs     |
-| xx:xx - xx:xx |                |tbc                                      | tbc        |
-| xx:xx - xx:xx |                |tbc                                      | tbc        |
-| xx:xx - xx:xx |                |tbc                                      | tbc        |
-| xx:xx - xx:xx |                |tbc                                      | tbc        |
+| xx:xx - xx:xx |                | Part I: Bring Your Own Outage           | tbc        |
+| xx:xx - xx:xx |                | Part II: Hackathon Reports              | tbc        |
+
 
 
 ## Session 1: Detailed Agenda
 
 ### 1. Agenda Bashing & Introduction (Chairs) (10 min)
 
-### 2. Next Steps for the Terminology Draft (Adrian, 10 min)
+### 2. Updates from Our Terminology Fairy (Adrian, 10 min)
 
 ### 3. SIMAP (30 min)
 
@@ -79,14 +78,31 @@
 
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 
-### 2. xx ( xxx min)
+### 2. Bring Your Own Outage ( 30 min)
+
+### 2.1 Op1 ( xxx min)
 
 * Presenter: xxx
 * Reading Material: xxxx
 
-### 3. xxx (25 xx)
+### 2.2 Op2 ( xxx min)
 
- * Presenter: xxx
-  * Reading Material:
-     + xxx
-     + xxx
+* Presenter: xxx
+* Reading Material: xxxx
+
+### 3. Hackathon Reports (25 xx)
+
+### 3.1 Project 1 ( xxx min)
+
+* Presenter: xxx
+* Reading Material: xxxx
+
+### 3.2 Project 2 ( xxx min)
+
+* Presenter: xxx
+* Reading Material: xxxx
+
+### 3.2 Project 3 ( xxx min)
+
+* Presenter: xxx
+* Reading Material: xxxx
