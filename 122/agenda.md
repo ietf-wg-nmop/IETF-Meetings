@@ -29,7 +29,7 @@
 
 | Slot       | Project |Topic                                                                 | Presenters |
 |:----------:|:-------:|:--------------------------------------------------------------------:|:-----------|
-|15:30-15:35 |         | Introduction                                                         | Chairs     |
+|15:30-15:35 |         | Agenda Bashing & Introduction                                        | Chairs     |
 |15:35-15:50 |   P1    | Validate Configured Subscription YANG-Push Publisher Implementations | Thomas     |
 |15:50-16:05 |   P3    | SIMAP for SRv6 and Linking Topology to External Data                 | Sherif     |
 |16:05-16:20 |         | YANG Configuration Instance Data To Knowledge Graph                  | Michael    |
