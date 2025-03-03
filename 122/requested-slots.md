@@ -22,6 +22,7 @@ The cummulative requested slots can be seen below:
 | 15            | Extensible YANG Model for Network Telemetry Notifications         | P1  | Ahmed | 75    | No | OK/NOK  |
 | 15            | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas | 90   | Yes| OK/NOK  |
 | 20            | SIMAP                                                             | P3  | Olga | 110   | Yes| OK/NOK  |
+| 20            | A YANG Data Model for Network Incident Management                 | P2  | Qin  | 130   | Yes |OK/NOK|
 
 
 # Detailed Requested Slots
