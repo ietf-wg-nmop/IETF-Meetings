@@ -33,7 +33,6 @@
 |15:50-16:05 |   P3    | SIMAP for SRv6 and Linking Topology to External Data      | Sherif     |
 |16:05-16:20 |   P2    | Anomaly Detection Integration Update                      | Vincenzo   |
 |16:20-16:30 |         | YANG Configuration Instance Data To Knowledge Graph       | Michael    |
-|16:30       |         |Adjorn                                                     | Chairs     |
 
 ## Session 1: Detailed Agenda
 
@@ -63,14 +62,14 @@
  * Presenter: Qin Wu
  * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
 
-#### 5.3. Bring Your Own Outage ( 30 min)
+#### 5.2. Bring Your Own Outage ( 30 min)
 
-##### 5.3.1 Swisscom Network Incident (15 min)
+##### 5.2.1 Swisscom Network Incident (15 min)
 
 * Presenter: Thomas Graf
 * Reading Material: [Slides](https://github.com/network-analytics/ietf-network-analytics-document-status/blob/main/122/NMOP/nmop-interim-swisscom-network-analytics-network-incident-postmortem.pdf)
 
-##### 5.3.2 DT Network Incident (15 min)
+##### 5.2.2 DT Network Incident (15 min)
 
 * Presenter: Holger Keller
 
@@ -104,12 +103,11 @@
 
  * Presenter: Vincenzo Riccobene
  * Reading Material:
-   + [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
-   + [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
+    + [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
+    + [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
 
 ### 5. YANG Configuration Instance Data to Knowledge Graph (10 min)
 
 * Presenter: Michael Mackey
 * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
-### 6. Adjorn
