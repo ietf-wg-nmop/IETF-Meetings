@@ -13,14 +13,16 @@ Overall Time budget: 3*60-15 = 165
 
 The cummulative requested slots can be seen below:
 
-| Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
-|:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| 10 | NMOP Terminology Update | Px | Adrian | 10    |  | OK/NOK  |
-| 10 | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 20    | Yes| OK/NOK  |
-| 15 | DT Network Incident |  | Holger | 35    | Yes| OK/NOK  |
-| 25 | Swisscom Network Incident | P2  | Thomas | 60    | Yes| OK/NOK  |
-| 15 | Extensible YANG Model for Network Telemetry Notifications | P1  | Ahmed | 75    | No | OK/NOK  |
-| 15 | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas | 90   | Yes| OK/NOK  |
+| Requested Slot| Topic                                   | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
+|:-------------:|:-----------------------------------------------------------------:|:-----:|:-----:|:----------------|:--------|:--------|
+| 10            | NMOP Terminology Update                                           | Px | Adrian | 10    |  | OK/NOK  |
+| 10            | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 20    | Yes| OK/NOK  |
+| 15            | DT Network Incident                                               | P2  | Holger | 35    | Yes| OK/NOK  |
+| 25            | Swisscom Network Incident                                         | P2  | Thomas | 60    | Yes| OK/NOK  |
+| 15            | Extensible YANG Model for Network Telemetry Notifications         | P1  | Ahmed | 75    | No | OK/NOK  |
+| 15            | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas | 90   | Yes| OK/NOK  |
+| 20            | SIMAP                                                             | P3  | Olga | 110   | Yes| OK/NOK  |
+
 
 # Detailed Requested Slots
 
@@ -30,7 +32,7 @@ The cummulative requested slots can be seen below:
 * Duration: 10 min
 * Reading material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
-## AI based Network Management Agent(NMA): Concepts and Architecture
+## AI based Network Management Agent (NMA): Concepts and Architecture
 
  * Presenter: Xing Zhao
  * Duration: 10 min
