@@ -32,7 +32,7 @@
 |15:30-15:35 |         | Agenda Bashing & Introduction                             | Chairs     |
 |15:35-15:50 |   P1    | Configured Subscription YANG-Push Publisher               | Thomas     |
 |15:50-16:05 |   P3    | SIMAP for SRv6 and Linking Topology to External Data      | Sherif     |
-|16:05-16:20 |   P2    | Anomaly Detection I-Ds Update                             | Vincenzo   |
+|16:05-16:20 |   P2    | Anomaly Detection Integration Update                      | Vincenzo   |
 |16:20-16:30 |         | YANG Configuration Instance Data To Knowledge Graph       | Michael    |
 |16:30       |         |Adjorn                                                     | Chairs     |
 
