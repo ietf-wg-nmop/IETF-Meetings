@@ -20,8 +20,8 @@
 | 09:40-09:50 |         | Updates from the Terminology Fairy                        | Adrian       |
 | 09:50-10:15 |    P3   | SIMAP                                                     | Olga         |
 | 10:15-10:30 |    P1   | Message Broker                                            | Ahmed        |
-| 10:30-10:45 |    P2   | Incident Management YANG Module                           | Qin          |
-| 10:45-11:00 |    P2   | Anomaly Detection I-Ds Update                             | Vincenzo     |
+| 10:30-10:50 |    P2   | Incident Management YANG Module                           | Qin          |
+| 10:50-11:00 |    P2   | Anomaly Detection I-Ds Update                             | Vincenzo     |
 | 11:00-11:30 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
 | 11:30       |         | Adjorn                                                    |              |
 
@@ -59,12 +59,12 @@
 
 ### 5. Anomaly Detection & Incident Management (60 min)
 
-#### 5.1. Incident Management YANG Module (15 min)
+#### 5.1. Incident Management YANG Module (20 min)
 
  * Presenter: Qin Wu
  * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
 
-#### 5.2. Anomaly Detection I-Ds Update  (15 min)
+#### 5.2. Anomaly Detection I-Ds Update  (10 min)
 
  * Presenter: Vincenzo Riccobene
  * Reading Material:
