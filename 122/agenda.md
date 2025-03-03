@@ -22,7 +22,8 @@
 | 10:20-10:35 |    P1   | Message Broker                                            | Ahmed        |
 | 10:35-10:55 |    P2   | Incident Management YANG Module                           | Qin          |
 | 10:55-11:25 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
-| 11:25-11:30 |         | Flash Teaser: AI based Network Management Agent           | Xing         |
+| 11:25-11:30 |         | Wrap-up                                                   | Chairs       |
+
 
 
 ### Session 2  (Hackathon-focused)
@@ -33,7 +34,8 @@
 |15:35-15:50 |   P1    | Validate Configured Subscription YANG-Push Publisher Implementations | Thomas     |
 |15:50-16:05 |   P3    | SIMAP for SRv6 and Linking Topology to External Data                 | Sherif     |
 |16:05-16:20 |         | YANG Configuration Instance Data To Knowledge Graph                  | Michael    |
-|16:25-16:30 |         | Wrap-up                                                              | Chairs     |
+|16:20-16:25 |         | Flash Teaser: AI based Network Management Agent                      | Xing       |
+|16:20-16:30 |         | Wrap-up                                                              | Chairs     |
 
 ## Session 1: Detailed Agenda
 
@@ -74,12 +76,7 @@
 
 * Presenter: Holger Keller
 
-### 6. Flash Teasers (5 min)
-
-#### 6.1 AI-based Network Management Agent (NMA): Concepts and Architecture
-
- * Presenter: Xing Zhao
- * Reading Material: [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/)
+### 6. Wrap-up (5 min)
 
 ## Session 2: Detailed Agenda (Hackathon-focused)
 
@@ -109,3 +106,12 @@
 
 * Presenter: Michael Mackey
 * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
+
+### 5. Flash Teasers (5 min)
+
+#### 5.1 AI-based Network Management Agent (NMA): Concepts and Architecture
+
+ * Presenter: Xing Zhao
+ * Reading Material: [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/)
+
+### 6. Wrap-up (5 min)
