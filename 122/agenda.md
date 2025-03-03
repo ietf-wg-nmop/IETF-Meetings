@@ -18,11 +18,11 @@
 |:-----------:|:-------:|:---------------------------------------------------------:|:-------------|
 | 09:30-09:40 |         | Agenda Bashing & Introduction                             | Chairs       |
 | 09:40-09:50 |         | Updates from the Terminology Fairy                        | Adrian       |
-| 09:50-10:15 |    P3   | SIMAP                                                     | Olga         |
-| 10:15-10:30 |    P1   | Message Broker                                            | Ahmed        |
-| 10:30-10:50 |    P2   | Incident Management YANG Module                           | Qin          |
-| 10:50-11:00 |    P2   | Anomaly Detection I-Ds Update                             | Vincenzo     |
-| 11:00-11:30 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
+| 09:50-10:20 |    P3   | SIMAP                                                     | Olga         |
+| 10:20-10:35 |    P1   | Message Broker                                            | Ahmed        |
+| 10:35-10:55 |    P2   | Incident Management YANG Module                           | Qin          |
+| 10:55-11:25 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
+| 11:25-11:30 |         | (Flash Teaser) AI-based Network Management Agent (NMA)    | Xing         |
 | 11:30       |         | Adjorn                                                    |              |
 
 ### Session 2  (Hackathon-focused)
@@ -32,9 +32,9 @@
 |15:30-15:35 |         | Agenda Bashing & Introduction                             | Chairs     |
 |15:35-15:50 |   P1    | Configured Subscription YANG-Push Publisher               | Thomas     |
 |15:50-16:05 |   P3    | SIMAP for SRv6 and Linking Topology to External Data      | Sherif     |
-|16:05-16:20 |         | YANG Configuration Instance Data To Knowledge Graph       | Michael    |
-|16:20-16:25 |         | Flash Teaser: AI based Network Management Agent           | Xing       |
-|16:20-16:30 |         | Wrap-up                                                   | Chairs     |
+|16:05-16:20 |   P2    | Anomaly Detection I-Ds Update                             | Vincenzo   |
+|16:20-16:30 |         | YANG Configuration Instance Data To Knowledge Graph       | Michael    |
+|16:30       |         |Adjorn                                                     | Chairs     |
 
 ## Session 1: Detailed Agenda
 
@@ -45,7 +45,7 @@
  * Presenter: Adrian Farrel
  * Reading Material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
-### 3. SIMAP (25 min)
+### 3. SIMAP (30 min)
 
  * Presenter: Olga Havel
  * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
@@ -57,19 +57,12 @@
     + [An Architecture for YANG-Push to Message Broker Integration] (https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration-07)
     + [Extensible YANG Model for Network Telemetry Notifications] (https://datatracker.ietf.org/doc/html/draft-netana-message-broker-telemetry-message-00)
 
-### 5. Anomaly Detection & Incident Management (60 min)
+### 5. Anomaly Detection & Incident Management (50 min)
 
 #### 5.1. Incident Management YANG Module (20 min)
 
  * Presenter: Qin Wu
  * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
-
-#### 5.2. Anomaly Detection I-Ds Update  (10 min)
-
- * Presenter: Vincenzo Riccobene
- * Reading Material:
-  + [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
-  + [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
 
 #### 5.3. Bring Your Own Outage ( 30 min)
 
@@ -82,7 +75,14 @@
 
 * Presenter: Holger Keller
 
-### 6. Adjorn
+### 6. Flash Teasers (5 min)
+
+#### 6.1 AI-based Network Management Agent (NMA): Concepts and Architecture
+
+ * Presenter: Xing Zhao
+ * Reading Material: [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/)
+
+### 7. Adjorn
 
 ## Session 2: Detailed Agenda (*Hackathon-focused*)
 
@@ -108,16 +108,16 @@
    + [draft-ietf-nmop-simap-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/)
    + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
 
-### 4. YANG Configuration Instance Data to Knowledge Graph (15 min)
+#### 4. Anomaly Detection Integration Update   (15 min)
+
+ * Presenter: Vincenzo Riccobene
+ * Reading Material:
+  + [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
+  + [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
+
+### 5. YANG Configuration Instance Data to Knowledge Graph (10 min)
 
 * Presenter: Michael Mackey
 * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
-### 5. Flash Teasers (5 min)
-
-#### 5.1 AI-based Network Management Agent (NMA): Concepts and Architecture
-
- * Presenter: Xing Zhao
- * Reading Material: [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/)
-
-### 6. Wrap-up (5 min)
+### 6. Adjorn
