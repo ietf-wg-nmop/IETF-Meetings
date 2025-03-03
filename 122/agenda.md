@@ -14,22 +14,24 @@
 
 ### Session 1
 
-| Slot          | Project Label  |Topic                                    | Presenters            |
-|:-------------:|:--------------:|:---------------------------------------:|:----------------------|
-| xx:xx - xx:xx |                | Agenda Bashing & Introduction           | Chairs                |
-| xx:xx - xx:xx |                | tbc                                     | tbc                   |
-| xx:xx - xx:xx |                | tbc                                     | tbc                   |
-| xx:xx - xx:xx |                | tbc                                     | tbc                   |
-| xx:xx - xx:xx |                | tbc                                     | tbc                   |
-| xx:xx - xx:xx |                | Flash Teasers                           | xxx                   |
+| Slot        | Project Label  |Topic                                                      | Presenters   |
+|:-----------:|:--------------:|:---------------------------------------------------------:|:-------------|
+| 09:30-09:40 |                | Agenda Bashing & Introduction                             | Chairs       |
+| 09:40-09:50 |                | Updates from the Terminology Fairy                        | Adrian       |
+| 09:50-10:20 |      P3        | SIMAP                                                     | Olga         |
+| 10:20-10:35 |      P2        | A YANG Data Model for Network Incident Management         | Qin          |
+| 10:40-10:50 |      P2        | Extensible YANG Model for Network Telemetry Notifications | Ahmed        |
+| 10:50-11:xx |                | tbc                                                       | tbc          |
+| 10:50-11:xx |                | Flash Teasers                                             | xxx          |
+| 11:25-11:30 |                | Wrap-up                                                  | xxx          |
 
 ### Session 2
 
-| Slot          | Project Label  |Topic                                    | Presenters |
-|:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| xxx:00 - xx:05|                | Introduction                            | Chairs     |
-| xx:xx - xx:xx |                | Part I: Bring Your Own Outage           | tbc        |
-| xx:xx - xx:xx |                | Part II: Hackathon Reports              | tbc        |
+| Slot       | Project Label  |Topic                                    | Presenters |
+|:----------:|:--------------:|:---------------------------------------:|:-----------|
+|15:30-15:40 |                | Introduction                            | Chairs     |
+|15:40-16:00 |                | Part I: Bring Your Own Outage           | tbc        |
+|16:00-16:30 |                | Part II: Hackathon Reports              | tbc        |
 
 
 
@@ -37,7 +39,7 @@
 
 ### 1. Agenda Bashing & Introduction (Chairs) (10 min)
 
-### 2. Updates from Our Terminology Fairy (Adrian, 10 min)
+### 2. Updates from the Terminology Fairy (Adrian, 10 min)
 
 ### 3. SIMAP (30 min)
 
@@ -60,7 +62,7 @@
  * Presenter: Qin Wu
  * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
 
-#### 4.2. Anomaly  (20 min)
+#### 4.2. Anomaly  (15 min)
 
  * Presenter: xxx
  * Reading Material:
@@ -80,21 +82,21 @@
 
 ### 2. Bring Your Own Outage ( 30 min)
 
-### 2.1 Op1 ( xxx min)
+### 2.1 Swisscom Network Incident ( xxx min)
 
-* Presenter: xxx
-* Reading Material: xxxx
+* Presenter: Thomas Graf
+* Reading Material: [Slides](https://github.com/network-analytics/ietf-network-analytics-document-status/blob/main/122/NMOP/nmop-interim-swisscom-network-analytics-network-incident-postmortem.pdf)
 
-### 2.2 Op2 ( xxx min)
+### 2.2 DT Network Incident (xxx min)
 
-* Presenter: xxx
-* Reading Material: xxxx
+* Presenter: Holger
+
 
 ### 3. Hackathon Reports (25 xx)
 
-### 3.1 Project 1 ( xxx min)
+### 3.1 Validate Configured Subscription YANG-Push Publisher Implementations (xxx min)
 
-* Presenter: xxx
+* Presenter: Thomas Graf
 * Reading Material: xxxx
 
 ### 3.2 Project 2 ( xxx min)
