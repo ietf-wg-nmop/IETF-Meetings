@@ -14,26 +14,26 @@
 
 ### Session 1
 
-| Slot        | Project Label  |Topic                                                      | Presenters   |
-|:-----------:|:--------------:|:---------------------------------------------------------:|:-------------|
-| 09:30-09:40 |                | Agenda Bashing & Introduction                             | Chairs       |
-| 09:40-09:50 |                | Updates from the Terminology Fairy                        | Adrian       |
-| 09:50-10:20 |      P3        | SIMAP                                                     | Olga         |
-| 10:20-10:35 |      P1        | Message Broker                                            | Ahmed        |
-| 10:35-10:55 |      P2        | Incident Management YANG Module                           | Qin          |
-| 10:55-11:25 |      P2        | Bring Your Own Outage                                     | Thomas/Holger|
-| 11:25-11:30 |                | Flash Teaser: AI based Network Management Agent           | Xing         |
+| Slot        | Project |Topic                                                      | Presenters   |
+|:-----------:|:-------:|:---------------------------------------------------------:|:-------------|
+| 09:30-09:40 |         | Agenda Bashing & Introduction                             | Chairs       |
+| 09:40-09:50 |         | Updates from the Terminology Fairy                        | Adrian       |
+| 09:50-10:20 |    P3   | SIMAP                                                     | Olga         |
+| 10:20-10:35 |    P1   | Message Broker                                            | Ahmed        |
+| 10:35-10:55 |    P2   | Incident Management YANG Module                           | Qin          |
+| 10:55-11:25 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
+| 11:25-11:30 |         | Flash Teaser: AI based Network Management Agent           | Xing         |
 
 
-### Session 2
+### Session 2  (Hackathon-focused)
 
-| Slot       | Project Label  |Topic                                    | Presenters |
-|:----------:|:--------------:|:---------------------------------------:|:-----------|
-|15:30-15:35 |                | Introduction                            | Chairs     |
-|15:35-15:50 |      P1        | Validate Configured Subscription YANG-Push Publisher Implementations | Thomas        |
-|15:50-16:05 |      P3        | SIMAP for SRv6 and Linking Topology to External Data    | tbc        |
-|16:05-16:20 |                | YANG Configuration Instance Data To Knowledge Graph     | tbc        |
-|16:25-16:30 |                | Wrap-up                                                 | Chairs     |
+| Slot       | Project |Topic                                                                 | Presenters |
+|:----------:|:-------:|:--------------------------------------------------------------------:|:-----------|
+|15:30-15:35 |         | Introduction                                                         | Chairs     |
+|15:35-15:50 |   P1    | Validate Configured Subscription YANG-Push Publisher Implementations | Thomas     |
+|15:50-16:05 |   P3    | SIMAP for SRv6 and Linking Topology to External Data                 | Sherif     |
+|16:05-16:20 |         | YANG Configuration Instance Data To Knowledge Graph                  | Michael    |
+|16:25-16:30 |         | Wrap-up                                                              | Chairs     |
 
 ## Session 1: Detailed Agenda
 
@@ -92,10 +92,10 @@
 
 ### 3. SIMAP for SRv6 and Linking Topology to External Data (15 min)
 
-* Presenter: xxx
+* Presenter: Sherif Mostafa
 * Reading Material: xxxx
 
 ### 4. YANG Configuration Instance Data To Knowledge Graph (15 min)
 
-* Presenter: xxx
+* Presenter: Michael Mackey
 * Reading Material: xxxx
