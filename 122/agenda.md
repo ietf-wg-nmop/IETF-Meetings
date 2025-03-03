@@ -84,28 +84,28 @@
 
 * Presenter: Thomas Graf
 * Reading Material:
-   + [RFC 8639](https://datatracker.ietf.org/doc/html/rfc8639)
-   + [RFC 8641](https://datatracker.ietf.org/doc/html/rfc8641)
-   + [RFC 9196](https://datatracker.ietf.org/doc/html/rfc9196)
-   + [draft-netana-netconf-notif-envelope](https://datatracker.ietf.org/doc/html/draft-netana-netconf-notif-envelope)
-   + [draft-ietf-netconf-yang-notifications-versioning](https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning)
-   + [draft-ietf-netconf-udp-notif](https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif)
-   + [draft-ietf-netconf-distributed-notif](https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif)
-   + [draft-netana-netconf-yp-transport-capabilities](https://datatracker.ietf.org/doc/html/draft-netana-netconf-yp-transport-capabilities)
+    + [RFC 8639](https://datatracker.ietf.org/doc/html/rfc8639)
+    + [RFC 8641](https://datatracker.ietf.org/doc/html/rfc8641)
+    + [RFC 9196](https://datatracker.ietf.org/doc/html/rfc9196)
+    + [draft-netana-netconf-notif-envelope](https://datatracker.ietf.org/doc/html/draft-netana-netconf-notif-envelope)
+    + [draft-ietf-netconf-yang-notifications-versioning](https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning)
+    + [draft-ietf-netconf-udp-notif](https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif)
+    + [draft-ietf-netconf-distributed-notif](https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif)
+    + [draft-netana-netconf-yp-transport-capabilities](https://datatracker.ietf.org/doc/html/draft-netana-netconf-yp-transport-capabilities)
 
 ### 3. SIMAP for SRv6 and Linking Topology to External Data (15 min)
 
 * Presenter: Sherif Mostafa
 * Reading Material:
-   + [draft-ietf-nmop-simap-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/)
-   + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
+    + [draft-ietf-nmop-simap-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/)
+    + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
 
 #### 4. Anomaly Detection Integration Update   (15 min)
 
  * Presenter: Vincenzo Riccobene
  * Reading Material:
-  + [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
-  + [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
+   + [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
+   + [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
 
 ### 5. YANG Configuration Instance Data to Knowledge Graph (10 min)
 
