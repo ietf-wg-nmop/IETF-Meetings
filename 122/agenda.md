@@ -18,11 +18,12 @@
 |:-----------:|:-------:|:---------------------------------------------------------:|:-------------|
 | 09:30-09:40 |         | Agenda Bashing & Introduction                             | Chairs       |
 | 09:40-09:50 |         | Updates from the Terminology Fairy                        | Adrian       |
-| 09:50-10:20 |    P3   | SIMAP                                                     | Olga         |
-| 10:20-10:35 |    P1   | Message Broker                                            | Ahmed        |
-| 10:35-10:55 |    P2   | Incident Management YANG Module                           | Qin          |
-| 10:55-11:25 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
-| 11:25-11:30 |         | Wrap-up                                                   | Chairs       |
+| 09:50-10:15 |    P3   | SIMAP                                                     | Olga         |
+| 10:15-10:30 |    P1   | Message Broker                                            | Ahmed        |
+| 10:30-10:45 |    P2   | Incident Management YANG Module                           | Qin          |
+| 10:45-11:00 |    P2   | Anomaly Detection I-Ds Update                             | Vincenzo     |
+| 11:00-11:30 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
+| 11:30       |         | Adjorn                                                    |              |
 
 ### Session 2  (Hackathon-focused)
 
@@ -44,7 +45,7 @@
  * Presenter: Adrian Farrel
  * Reading Material: [draft-ietf-nmop-terminology](https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/)
 
-### 3. SIMAP (30 min)
+### 3. SIMAP (25 min)
 
  * Presenter: Olga Havel
  * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
@@ -56,27 +57,34 @@
     + [An Architecture for YANG-Push to Message Broker Integration] (https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration-07)
     + [Extensible YANG Model for Network Telemetry Notifications] (https://datatracker.ietf.org/doc/html/draft-netana-message-broker-telemetry-message-00)
 
-### 5. Anomaly Detection and Incident Management (50 min)
+### 5. Anomaly Detection & Incident Management (60 min)
 
-#### 5.1. Incident Management YANG Module (20 min)
+#### 5.1. Incident Management YANG Module (15 min)
 
  * Presenter: Qin Wu
  * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
 
-#### 5.2. Bring Your Own Outage ( 30 min)
+#### 5.2. Anomaly Detection I-Ds Update  (15 min)
 
-##### 5.2.1 Swisscom Network Incident (15 min)
+ * Presenter: Vincenzo Riccobene
+ * Reading Material:
+  + [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
+  + [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
+
+#### 5.3. Bring Your Own Outage ( 30 min)
+
+##### 5.3.1 Swisscom Network Incident (15 min)
 
 * Presenter: Thomas Graf
 * Reading Material: [Slides](https://github.com/network-analytics/ietf-network-analytics-document-status/blob/main/122/NMOP/nmop-interim-swisscom-network-analytics-network-incident-postmortem.pdf)
 
-##### 5.2.2 DT Network Incident (15 min)
+##### 5.3.2 DT Network Incident (15 min)
 
 * Presenter: Holger Keller
 
-### 6. Wrap-up (5 min)
+### 6. Adjorn
 
-## Session 2: Detailed Agenda (Hackathon-focused)
+## Session 2: Detailed Agenda (*Hackathon-focused*)
 
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 
