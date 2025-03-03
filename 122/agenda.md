@@ -22,8 +22,7 @@
 | 10:20-10:35 |    P1   | Message Broker                                            | Ahmed        |
 | 10:35-10:55 |    P2   | Incident Management YANG Module                           | Qin          |
 | 10:55-11:25 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
-| 11:25-11:30 |         | (Flash Teaser) AI-based Network Management Agent (NMA)    | Xing         |
-| 11:30       |         | Adjorn                                                    |              |
+| 11:25-11:30 |         | Wrap-up                                                   | Chairs       |
 
 ### Session 2  (Hackathon-focused)
 
@@ -75,14 +74,7 @@
 
 * Presenter: Holger Keller
 
-### 6. Flash Teasers (5 min)
-
-#### 6.1 AI-based Network Management Agent (NMA): Concepts and Architecture
-
- * Presenter: Xing Zhao
- * Reading Material: [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/)
-
-### 7. Adjorn
+### 6. Wrap-up (5 min)
 
 ## Session 2: Detailed Agenda (*Hackathon-focused*)
 
