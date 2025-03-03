@@ -15,15 +15,15 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot| Topic                                   | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------------------------------------------------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| 10            | NMOP Terminology Update                                           | Px | Adrian | 10    |  | OK/NOK  |
-| 10            | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 20    | Yes| OK/NOK  |
-| 15            | DT Network Incident                                               | P2  | Holger | 35    | Yes| OK/NOK  |
-| 25            | Swisscom Network Incident                                         | P2  | Thomas | 60    | Yes| OK/NOK  |
-| 15            | Extensible YANG Model for Network Telemetry Notifications         | P1  | Ahmed | 75    | No | OK/NOK  |
-| 15            | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas | 90   | Yes| OK/NOK  |
-| 20            | SIMAP                                                             | P3  | Olga | 110   | Yes| OK/NOK  |
-| 20            | A YANG Data Model for Network Incident Management                 | P2  | Qin  | 130   | Yes |OK/NOK|
-| 15            | Anomaly Detection drafts update                                   | P2  | Vincenzo  | 145   | No |OK/NOK|
+| 10            | NMOP Terminology Update                                           | Px | Adrian | 10    |  | OK   |
+| 10            | AI based Network Management Agent(NMA): Concepts and Architecture | Px | Xing | 20    | Yes|  NOK  |
+| 15            | DT Network Incident                                               | P2  | Holger | 35    | Yes| OK   |
+| 25            | Swisscom Network Incident                                         | P2  | Thomas | 60    | Yes| OK   |
+| 15            | Extensible YANG Model for Network Telemetry Notifications         | P1  | Ahmed | 75    | No | OK   |
+| 15            | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas | 90   | Yes| OK   |
+| 20            | SIMAP                                                             | P3  | Olga | 110   | Yes| OK (focus on the adopted spec)  |
+| 20            | A YANG Data Model for Network Incident Management                 | P2  | Qin  | 130   | Yes |OK |
+| 15            | Anomaly Detection drafts update                                   | P2  | Vincenzo  | 145   | No |OK (focus on integration)|
 
 
 # Detailed Requested Slots
