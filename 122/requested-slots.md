@@ -23,6 +23,7 @@ The cummulative requested slots can be seen below:
 | 15            | Hackathon: Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas | 90   | Yes| OK/NOK  |
 | 20            | SIMAP                                                             | P3  | Olga | 110   | Yes| OK/NOK  |
 | 20            | A YANG Data Model for Network Incident Management                 | P2  | Qin  | 130   | Yes |OK/NOK|
+| 15            | Anomaly Detection drafts update                                   | P2  | Vincenzo  | 145   | No |OK/NOK|
 
 
 # Detailed Requested Slots
@@ -66,11 +67,12 @@ The cummulative requested slots can be seen below:
 * Duration: 15
 * Reading Material: Hackathon Slide Deck, Relates to draft-ietf-nmop-yang-message-broker-integration-07
 
-## Requested SLOT
+## Anomaly Detection drafts update
 
- * Presenter: xx
- * Duration: xxx
- * Reading Material: xxx
+ * Presenter: Vincenzo
+ * Duration: 15
+ * Reading Material: [An Experiment: Network Anomaly Lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
+ * Reading Material: [Semantic Metadata Annotation for Network Anomaly Detection](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/)
 
 ## Requested SLOT
 
