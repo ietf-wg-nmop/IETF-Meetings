@@ -21,7 +21,8 @@
 | 09:50-10:20 |    P3   | SIMAP                                                     | Olga         |
 | 10:20-10:35 |    P1   | Message Broker                                            | Ahmed        |
 | 10:35-10:55 |    P2   | Incident Management YANG Module                           | Qin          |
-| 10:55-11:25 |    P2   | Bring Your Own Outage                                     | Thomas/Holger|
+| 10:55-11:25 |    P2   | Bring Your Own Outage: Deutsche Telekom                   | Holger       |
+| 10:55-11:25 |    P2   | Bring Your Own Outage: Swisscom                           | Thomas       |
 | 11:25-11:30 |         | Wrap-up                                                   | Chairs       |
 
 ### Session 2  (Hackathon-focused)
