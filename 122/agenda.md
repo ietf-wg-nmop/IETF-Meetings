@@ -65,14 +65,14 @@
 
 #### 5.2. Bring Your Own Outage ( 30 min)
 
-##### 5.2.1 Swisscom Network Incident (15 min)
+##### 5.2.1 DT Network Incident (15 min)
+
+* Presenter: Holger Keller
+
+##### 5.2.2 Swisscom Network Incident (15 min)
 
 * Presenter: Thomas Graf
 * Reading Material: [Slides](https://github.com/network-analytics/ietf-network-analytics-document-status/blob/main/122/NMOP/nmop-interim-swisscom-network-analytics-network-incident-postmortem.pdf)
-
-##### 5.2.2 DT Network Incident (15 min)
-
-* Presenter: Holger Keller
 
 ### 6. Wrap-up (5 min)
 
