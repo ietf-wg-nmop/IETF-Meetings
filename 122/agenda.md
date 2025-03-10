@@ -72,7 +72,7 @@
 ##### 5.2.2 Swisscom Network Incident (15 min)
 
 * Presenter: Thomas Graf
-* Reading Material: [Slides](https://github.com/network-analytics/ietf-network-analytics-document-status/blob/main/122/NMOP/nmop-interim-swisscom-network-analytics-network-incident-postmortem.pdf)
+* Reading Material: [Slides](https://github.com/network-analytics/ietf-network-analytics-document-status/blob/main/122/NMOP/nmop-swisscom-network-analytics-network-incident-postmortem.pdf)
 
 ### 6. Wrap-up (5 min)
 
