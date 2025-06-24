@@ -15,16 +15,16 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| xx | xx | Px | xx | xx    | | OK/NOK  |
+| 10 | Stealthy BGP Hijacking Incident | P2 | Zhuotao Liu | 10    | Yes | OK/NOK  |
 
 
 # Detailed Requested Slots
 
-## Requested SLOT
+## Stealthy BGP Hijacking Incident
 
- * Presenter: xx
- * Duration: xxx
- * Reading Material: xxx
+ * Presenter: Zhuotao Liu
+ * Duration: 10
+ * Reading Material: Real-world incidnet described in [draft-li-sidrops-stealthy-hijacking](https://datatracker.ietf.org/doc/draft-li-sidrops-stealthy-hijacking/)
 
 ## Requested SLOT
 
