@@ -15,7 +15,8 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| xx | xx | Px | xx | xx    | | OK/NOK  |
+| Brad Peters | Sharing Your Incidents | NA  | ?? | 15  | No | OK  |
+| Boris Hassanov  | Sharing Your Incidents | NA  | ?? | 30  | No | OK  |
 
 
 # Detailed Requested Slots
