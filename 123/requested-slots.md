@@ -27,6 +27,8 @@ Session 2: The cummulative requested slots can be seen below:
 | 10          | Validate Configured Subscription YANG-Push Publisher Implementations | P1    | T. Graf         | 10    | yes     | xx      |
 | 10          | Swisscom Choose Your Network Incident                                | P2    | T. Graf         | 20    | yes     | xx      |
 | 15          | Opensource: draft-ietf-nmop-network-anomaly-lifecycle-03, draft-ietf-nmop-network-anomaly-semantics-03          | P2    | V. Riccobene    | 35    | yes     | xx      |
+| 15          | MTS: Sharing your incident          | P2    | Boris Hassanov    | 50    | yes     | xx      |
+| 15          | NBN: Sharing your incident          | P2    | Brad (or someone)    |  65   | yes     | xx      |
 
 # Detailed Requested Slots
 
@@ -36,16 +38,38 @@ Session 2: The cummulative requested slots can be seen below:
  * Duration: 10
  * Reading Material: Real-world incidnet described in [draft-li-sidrops-stealthy-hijacking](https://datatracker.ietf.org/doc/draft-li-sidrops-stealthy-hijacking/)
 
-## Requested SLOT
+## Requested draft-netana-nmop-yang-anydata-validation
 
- * Presenter: xx
- * Duration: xxx
- * Reading Material: xxx
+ * Presenter: Ahmed Elhassany
+ * Duration: 10min
+ * Reading Material: draft-netana-nmop-yang-anydata-validation-00
 
-## Requested SLOT
 
- * Presenter: xx
- * Duration: xxx
+## Requested draft-ietf-nmop-message-broker-telemetry-message
+
+ * Presenter: Ahmed Elhassany
+ * Duration: 10min
+ * Reading Material: draft-ietf-message-broker-telemetry-message-01
+
+
+## Requested draft-ietf-nmop-network-anomaly-semantics
+
+ * Presenter: Thomas Graf
+ * Duration: 10min
+ * Reading Material: draft-ietf-nmop-network-anomaly-semantics-03
+
+
+## Requested Validate Configured Subscription YANG-Push Publisher Implementations
+
+ * Presenter: Thomas Graf
+ * Duration: 15min
+ * Reading Material: https://wiki.ietf.org/en/meeting/123/hackathon
+
+
+## Swisscom Choose Your Network Incident
+
+ * Presenter: Thomas Graf
+ * Duration: 15min
  * Reading Material: xxx
 
 ## Requested SLOT
