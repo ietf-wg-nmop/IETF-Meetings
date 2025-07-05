@@ -19,6 +19,8 @@ Session 1: The cummulative requested slots can be seen below:
 | 10          | draft-netana-nmop-yang-anydata-validation                            | P1    | A. Elhassany    | 20    | yes     | xx      |
 | 10          | draft-ietf-nmop-message-broker-telemetry-message                     | P1    | A. Elhassany    | 30    | yes     | xx      |
 | 10          | draft-ietf-nmop-network-anomaly-semantics and draft-ietf-nmop-network-anomaly-lifecycle    | P2    | T. Graf         | 40    | yes     | xx      |
+| 15          | draft-ietf-nmop-simap-concept-04    | P3    | O. Havel         | 55    | yes     | xx      |
+| 10          | draft-boudia-simap-external-relationship    | P3    | V. Boudia         | 65    | yes     | xx      |
 
 
 Session 2: The cummulative requested slots can be seen below:
@@ -29,6 +31,7 @@ Session 2: The cummulative requested slots can be seen below:
 | 15          | Opensource: draft-ietf-nmop-network-anomaly-lifecycle-03, draft-ietf-nmop-network-anomaly-semantics-03          | P2    | V. Riccobene    | 35    | yes     | xx      |
 | 15          | MTS: Sharing your incident          | P2    | Boris Hassanov    | 50    | yes     | xx      |
 | 15          | NBN: Sharing your incident          | P2    | Brad (or someone)    |  65   | yes     | xx      |
+| 10          | SIMAP hackathon results          | P3    | V. Boudia    |  75   | yes     | xx      |
 
 # Detailed Requested Slots
 
