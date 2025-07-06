@@ -15,11 +15,13 @@ Session 1: The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| 10 | Stealthy BGP Hijacking Incident | P2 | Zhuotao Liu | 10    | Yes | OK/NOK  |
+| 10          | Stealthy BGP Hijacking Incident | P2 | Zhuotao Liu | 10    | Yes | OK/NOK  |
 | 10          | draft-netana-nmop-yang-anydata-validation                            | P1    | A. Elhassany    | 20    | yes     | xx      |
 | 10          | draft-ietf-nmop-message-broker-telemetry-message                     | P1    | A. Elhassany    | 30    | yes     | xx      |
 | 10          | draft-ietf-nmop-network-anomaly-semantics and draft-ietf-nmop-network-anomaly-lifecycle    | P2    | T. Graf         | 40    | yes     | xx      |
-| 10          | draft-busi-nmop-transport-simap    | P4    | I. Busi         | 50    | yes     | xx      |
+| 15          | draft-ietf-nmop-simap-concept-04    | P3    | O. Havel         | 55    | yes     | xx      |
+| 10          | draft-boudia-simap-external-relationship    | P3    | V. Boudia         | 65    | yes     | xx      |
+| 10          | draft-busi-nmop-transport-simap    | P4    | I. Busi         | 75    | yes     | xx      |
 
 
 Session 2: The cummulative requested slots can be seen below:
@@ -30,6 +32,7 @@ Session 2: The cummulative requested slots can be seen below:
 | 15          | Opensource: draft-ietf-nmop-network-anomaly-lifecycle-03, draft-ietf-nmop-network-anomaly-semantics-03          | P2    | V. Riccobene    | 35    | yes     | xx      |
 | 15          | MTS: Sharing your incident          | P2    | Boris Hassanov    | 50    | yes     | xx      |
 | 15          | NBN: Sharing your incident          | P2    | Brad (or someone)    |  65   | yes     | xx      |
+| 10          | SIMAP hackathon results          | P3    | V. Boudia    |  75   | yes     | xx      |
 
 # Detailed Requested Slots
 
@@ -45,20 +48,35 @@ Session 2: The cummulative requested slots can be seen below:
  * Duration: 10min
  * Reading Material: draft-netana-nmop-yang-anydata-validation-00
 
-
 ## Requested draft-ietf-nmop-message-broker-telemetry-message
 
  * Presenter: Ahmed Elhassany
  * Duration: 10min
  * Reading Material: draft-ietf-message-broker-telemetry-message-01
-
-
+   
 ## Requested draft-ietf-nmop-network-anomaly-semantics
 
  * Presenter: Thomas Graf
  * Duration: 10min
  * Reading Material: draft-ietf-nmop-network-anomaly-semantics-03
 
+## Requested SIMAP concept, requirements and usecases
+
+ * Presenter: Olga Havel
+ * Duration: 15min
+ * Reading Material: draft-ietf-nmop-simap-concept-04
+
+## Requested SIMAP external relationship
+
+ * Presenter: Vivekananda Boudia
+ * Duration: 10min
+ * Reading Material: draft-boudia-simap-external-relationship
+
+## Applicability of Service & Infrastructure Maps (SIMAP) to Transport Networks
+
+ * Presenter: Italo Busi
+ * Duration: 10min
+ * Reading Material: draft-busi-nmop-transport-simap-00 (to be uploaded, github: https://github.com/italobusi/transport-simap)
 
 ## Requested Validate Configured Subscription YANG-Push Publisher Implementations
 
@@ -66,18 +84,11 @@ Session 2: The cummulative requested slots can be seen below:
  * Duration: 15min
  * Reading Material: https://wiki.ietf.org/en/meeting/123/hackathon
 
-
 ## Swisscom Choose Your Network Incident
 
  * Presenter: Thomas Graf
  * Duration: 15min
  * Reading Material: xxx
-
-## Applicability of Service & Infrastructure Maps (SIMAP) to Transport Networks
-
- * Presenter: Italo Busi
- * Duration: 10min
- * Reading Material: draft-busi-nmop-transport-simap-00 (to be uploaded, github: https://github.com/italobusi/transport-simap)
 
 ## Requested SLOT
 
