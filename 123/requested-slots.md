@@ -21,7 +21,9 @@ Session 1: The cummulative requested slots can be seen below:
 | 10          | draft-ietf-nmop-network-anomaly-semantics and draft-ietf-nmop-network-anomaly-lifecycle    | P2    | T. Graf         | 40    | yes     | xx      |
 | 15          | draft-ietf-nmop-simap-concept-04    | P3    | O. Havel         | 55    | yes     | xx      |
 | 10          | draft-boudia-simap-external-relationship    | P3    | V. Boudia         | 65    | yes     | xx      |
-| 10          | draft-busi-nmop-transport-simap    | P4    | I. Busi         | 75    | yes     | xx      |
+| 10          | draft-busi-nmop-transport-simap    | P3    | I. Busi         | 75    | yes     | xx      |
+| 15          | draft-boucadair-nmop-rfc3535-20years-later    | P4    | TBC         | 90    | yes     | xx      |
+
 
 
 Session 2: The cummulative requested slots can be seen below:
@@ -77,6 +79,12 @@ Session 2: The cummulative requested slots can be seen below:
  * Presenter: Italo Busi
  * Duration: 10min
  * Reading Material: draft-busi-nmop-transport-simap-00 (to be uploaded, github: https://github.com/italobusi/transport-simap)
+
+## An Update of Operators Requirements on Network Management Protocols and Modelling
+
+ * Presenter: TBC
+ * Duration: 15 min
+ * Reading Material: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
 
 ## Requested Validate Configured Subscription YANG-Push Publisher Implementations
 
