@@ -15,7 +15,7 @@ Session 1: The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-| 10 | Stealthy BGP Hijacking Incident | P2 | Zhuotao Liu | 10    | Yes | OK/NOK  |
+| 10          | Stealthy BGP Hijacking Incident | P2 | Zhuotao Liu | 10    | Yes | OK/NOK  |
 | 10          | draft-netana-nmop-yang-anydata-validation                            | P1    | A. Elhassany    | 20    | yes     | xx      |
 | 10          | draft-ietf-nmop-message-broker-telemetry-message                     | P1    | A. Elhassany    | 30    | yes     | xx      |
 | 10          | draft-ietf-nmop-network-anomaly-semantics and draft-ietf-nmop-network-anomaly-lifecycle    | P2    | T. Graf         | 40    | yes     | xx      |
@@ -47,20 +47,29 @@ Session 2: The cummulative requested slots can be seen below:
  * Duration: 10min
  * Reading Material: draft-netana-nmop-yang-anydata-validation-00
 
-
 ## Requested draft-ietf-nmop-message-broker-telemetry-message
 
  * Presenter: Ahmed Elhassany
  * Duration: 10min
  * Reading Material: draft-ietf-message-broker-telemetry-message-01
-
-
+   
 ## Requested draft-ietf-nmop-network-anomaly-semantics
 
  * Presenter: Thomas Graf
  * Duration: 10min
  * Reading Material: draft-ietf-nmop-network-anomaly-semantics-03
 
+## Requested SIMAP concept, requirements and usecases
+
+ * Presenter: Olga Havel
+ * Duration: 15min
+ * Reading Material: draft-ietf-nmop-simap-concept-04
+
+## Requested SIMAP external relationship
+
+ * Presenter: Vivekananda Boudia
+ * Duration: 10min
+ * Reading Material: draft-boudia-simap-external-relationship
 
 ## Requested Validate Configured Subscription YANG-Push Publisher Implementations
 
@@ -74,7 +83,7 @@ Session 2: The cummulative requested slots can be seen below:
  * Presenter: Thomas Graf
  * Duration: 15min
  * Reading Material: xxx
-
+   
 ## Requested SLOT
 
  * Presenter: xx
