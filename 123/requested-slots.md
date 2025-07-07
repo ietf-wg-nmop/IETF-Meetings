@@ -78,7 +78,7 @@ Session 2: The cummulative requested slots can be seen below:
 
  * Presenter: Italo Busi
  * Duration: 10min
- * Reading Material: draft-busi-nmop-transport-simap-00 (to be uploaded, github: https://github.com/italobusi/transport-simap)
+ * Reading Material: [draft-busi-nmop-transport-simap-00](https://datatracker.ietf.org/doc/html/draft-busi-nmop-transport-simap-00)
 
 ## An Update of Operators Requirements on Network Management Protocols and Modelling
 
