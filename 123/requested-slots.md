@@ -23,7 +23,7 @@ Session 1: The cummulative requested slots can be seen below:
 | 10          | draft-boudia-simap-external-relationship    | P3    | V. Boudia         | 65    | yes     | xx      |
 | 10          | draft-busi-nmop-transport-simap    | P3    | I. Busi         | 75    | yes     | xx      |
 | 15          | draft-boucadair-nmop-rfc3535-20years-later    | P4    | TBC         | 90    | yes     | xx      |
-
+| 10          | draft-zhao-nmop-network-management-agent-02    | P4    | Xing Zhao         | 100    | yes     | xx      |
 
 
 Session 2: The cummulative requested slots can be seen below:
@@ -85,6 +85,12 @@ Session 2: The cummulative requested slots can be seen below:
  * Presenter: TBC
  * Duration: 15 min
  * Reading Material: [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/)
+
+## AI based Network Management Agent(NMA): Concepts and Architecture
+
+ * Presenter: Xing Zhao
+ * Duration: 10 min
+ * Reading Material: [https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/)
 
 ## Requested Validate Configured Subscription YANG-Push Publisher Implementations
 
