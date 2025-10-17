@@ -31,4 +31,5 @@ Session 2: The cummulative requested slots can be seen below:
 | 10          | AI based Network Management Agent(NMA): Concepts and Architecture  draft-zhao-nmop-network-management-agent |  | Xing Zhao | 10    | NO | OK/NOK  |
 | 10          | draft-ietf-nmop-network-incident-yang | P2 | Wu Qin  | 20    | YES | OK/NOK  |
 | 15          | Knowledge Graph Design Team update |  | Michael Mackey and Lionel  Tailhardat | 35    | YES & NO | OK/NOK  |
+| 15          | draft-ietf-nmop-rfc3535-20years-later | P4  | Luis M. Contreras | 50    | YES | OK/NOK  |
 
