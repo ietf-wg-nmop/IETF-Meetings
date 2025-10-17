@@ -15,7 +15,7 @@ Session 1: The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-
+| 10            | AI based Network Management Agent(NMA) | Px | Xing | 10    | No |    |
 
 
 Session 2: The cummulative requested slots can be seen below:
@@ -26,6 +26,6 @@ Session 2: The cummulative requested slots can be seen below:
 
 ## Requested SLOT
 
- * Presenter: xx
- * Duration: xxx
- * Reading Material: xxx
+ * Presenter: Xing Zhao
+ * Duration: 10
+ * Reading Material: https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/ (03-version will be updated later)
