@@ -29,3 +29,5 @@ Session 2: The cummulative requested slots can be seen below:
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
 | 10          | AI based Network Management Agent(NMA): Concepts and Architecture  draft-zhao-nmop-network-management-agent|  | Xing Zhao | 10    | NO | OK/NOK  |
+| 10          | draft-ietf-nmop-network-incident-yang| P2 | Wu Qin  | 20    | YES | OK/NOK  |
+
