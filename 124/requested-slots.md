@@ -35,4 +35,5 @@ Session 2: The cummulative requested slots can be seen below:
 | 20          | YANG Message Keys for Message Broker Integration Messages draft-netana-nmop-yang-message-broker-message  | P1  | Thomas Graf | 65    | NO | OK/NOK  |
 | 10          | Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas Graf | 75    | NO | OK/NOK  |
 | 10          |draft-nmop-cabanillas-authz-policy-sharing-model-00| P3 | Lucia Cabanillas | 10 | YES | OK/NOT |
+| 15          | draft-ietf-nmop-rfc3535-20years-later | P4  | Luis M. Contreras | 50    | YES | OK/NOK  |
 
