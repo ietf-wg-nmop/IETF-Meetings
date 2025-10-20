@@ -1,4 +1,4 @@
-# Requested Slots
+# Preliminary Agenda
 
 This page records received slot requests. The agenda will be published [here](https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/124/agenda.md).
 
