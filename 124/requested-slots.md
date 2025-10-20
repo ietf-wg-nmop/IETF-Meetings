@@ -16,8 +16,8 @@ Session 1: The cummulative requested slots can be seen below:
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
 | 5             | WG chairs Intro  |   | Reshad & Benoit | 5    | YES | OK  |
-| 15            | Extensible YANG Model for Network Telemetry Messages draft-ietf-nmop-yang-message-broker-integration  draft-ietf-nmop-message-broker-telemetry-message  | P1  | Thomas Graf | 20    | NO | OK  |
-| 10            | Validate Configured Subscription YANG-Push Publisher Implementations - Hackathon | P1  |Yannick Buchs | 30   | NO | OK  |
+| 15            | Extensible YANG Model for Network Telemetry Messages draft-ietf-nmop-yang-message-broker-integration  draft-ietf-nmop-message-broker-telemetry-message  | P1  | Thomas Graf | 20    | YES | OK  |
+| 10            | Validate Configured Subscription YANG-Push Publisher Implementations - Hackathon | P1  |Yannick Buchs | 30   | YES | OK  |
 | 10            | draft-ietf-nmop-network-incident-yang | P2 | Wu Qin  | 40    | YES | OK  |
 | 10            | draft-ietf-nmop-simap-concept| P3 | Olga Havel | 50 | YES | OK |
 | 15            | draft-ietf-nmop-rfc3535-20years-later | P4  | Luis M. Contreras | 65    | YES | OK  |
