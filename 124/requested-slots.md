@@ -34,4 +34,5 @@ Session 2: The cummulative requested slots can be seen below:
 | 10          | Extensible YANG Model for Network Telemetry Messages draft-ietf-nmop-message-broker-telemetry-message  | P1  | Thomas Graf | 45    | NO | OK/NOK  |
 | 20          | YANG Message Keys for Message Broker Integration Messages draft-netana-nmop-yang-message-broker-message  | P1  | Thomas Graf | 65    | NO | OK/NOK  |
 | 10          | Validate Configured Subscription YANG-Push Publisher Implementations | P1  | Thomas Graf | 75    | NO | OK/NOK  |
+| 10          |draft-nmop-cabanillas-authz-policy-sharing-model-00| P3 | Lucia Cabanillas | 10 | YES | OK/NOT |
 
