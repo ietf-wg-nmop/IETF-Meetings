@@ -15,12 +15,13 @@ Session 1: The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
-
+| 10    |draft-ietf-nmop-simap-concept| P3 | Olga Havel | 10 | YES | OK/NOT |
 
 
 Session 2: The cummulative requested slots can be seen below:
 | Requested Slot          | Topic              | WG Project Item| Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
+| 10    |draft-havel-nmop-simap-yang and side meeting summary| P3 | Olga Havel | 10 | YES | OK/NOT |
 
 # Detailed Requested Slots
 
