@@ -55,4 +55,6 @@ Session 2: The cummulative requested slots can be seen below:
 | 10          | draft-nmop-cabanillas-authz-policy-sharing-model-00| P3 | Lucia Cabanillas | 85 | YES | OK/NOT |
 | 15          | draft-ietf-nmop-rfc3535-20years-later | P4  | Luis M. Contreras | 95    | YES | OK/NOK  |
 | 10-15       | draft-davis-ivy-equipment-capability-application (not yet posted) |   | Nigel Davis | 105    | YES | OK/NOK  |
+| 15       | SIMAP hackathon results |   | Vivekananda Boudia  | 120    | YES | OK/NOK  |
+
 
