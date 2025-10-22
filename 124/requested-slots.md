@@ -24,6 +24,11 @@ Session 1: The cummulative requested slots can be seen below:
 | 20            | YANG Message Keys for Message Broker Integration Messages draft-netana-nmop-yang-message-broker-message-key  | P1  | Thomas Graf | 85    | YES | OK  |
 | 10            | AI based Network Management Agent(NMA): Concepts and Architecture  draft-zhao-nmop-network-management-agent | P2? | Xing Zhao | 95    | NO | OK  |
 | 10            | draft-nmop-cabanillas-authz-policy-sharing-model-00| P3 | Lucia Cabanillas | 105 | YES | OK |
+| 5             | draft-davis-nmop-generalized-capability-principles |   | Nigel Davis | 110    | YES | OK  |
+| 5             | draft-henderickx-meta-graph-schema |   | Wim Henderickx  | 115    | YES | OK/NOK  |
+
+
+
 
 
 
@@ -34,7 +39,7 @@ Session 2: The cummulative requested slots can be seen below:
 |:-------------:|:-----------------:|:-----:|:-----:|:----------------|:--------|:--------|
 | 5             | WG chairs Intro  |   | Reshad & Benoit | 5    | YES | OK  |
 | 15            | China Telecom: Sharing your incident |  | Chongfeng Xie | 20 | YES | OK |
-| 15            | Tentative: Sharing your incident |  |  | 35 | YES | OK |
+| 15            | SIMAP Hackthon Results  | P3 | Vivekananda Boudia | 35 | YES | OK |
 | 15            | Knowledge Graph Design Team update |  | Michael Mackey and Lionel  Tailhardat | 50   | YES & NO | OK  |
 | 10            | draft-havel-nmop-simap-yang and side meeting summary | P3 | Olga Havel | 60 | YES | OK |
 
@@ -54,7 +59,7 @@ Session 2: The cummulative requested slots can be seen below:
 | 10          | Validate Configured Subscription YANG-Push Publisher Implementations - Hackathon | P1  | Thomas Graf | 75    | NO | OK/NOK  |
 | 10          | draft-nmop-cabanillas-authz-policy-sharing-model-00| P3 | Lucia Cabanillas | 85 | YES | OK/NOT |
 | 15          | draft-ietf-nmop-rfc3535-20years-later | P4  | Luis M. Contreras | 95    | YES | OK/NOK  |
-| 10-15       | draft-davis-ivy-equipment-capability-application (not yet posted) |   | Nigel Davis | 105    | YES | OK/NOK  |
+| 10-15       | draft-davis-nmop-generalized-capability-principles |   | Nigel Davis | 105    | YES | OK/NOK  |
 | 15          | SIMAP hackathon results | P3 | Vivekananda Boudia  | 120    | YES | OK/NOK  |
 | 10          | draft-henderickx-meta-graph-schema |   | Wim Henderickx  | 130    | YES | OK/NOK  |
 
