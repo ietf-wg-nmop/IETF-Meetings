@@ -35,9 +35,9 @@
 |-----------|--------|----------------|------------|
 | 14:30-14:35|| Agenda Bashing & Introduction| Chairs |
 | 14:35-14:50|P2| China Telecom: Sharing your incident| Chongfeng Xie |
-| 14:50-15:05|P3| SIMAP Hackathon results | Vivekananda Boudia |
-| 15:05-15:20|P5| Knowledge Graphs Design Team update| Lionel Tailhardat & Michael Mackey |
-| 15:20-15:30|P3| draft-havel-nmop-simap-yang and side meeting summary| Olga Havel |
+| 14:50-15:05|P3| SIMAP Hackathon results | Olga Havel |
+| 15:05-15:15|P3| draft-havel-nmop-simap-yang and side meeting summary| Olga Havel |
+| 15:15-15:30|P5| Knowledge Graphs Design Team update| Lionel Tailhardat & Michael Mackey |
 
 ## Detailed Agenda: Session 1
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
@@ -75,11 +75,11 @@
 ## Detailed Agenda: Session 2
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 ### 2. China Telecom: Sharing your incident
-* Presenter: Sharing your incident
+* Presenter: Chongfeng Xie
 ### 3. SIMAP Hackathon results
-* Presenter: Vivekananda Boudia
-### 4. Knowledge Graphs Design Team update
-* Presenter: Lionel Tailhardat & Michael Mackey
+* Presenter: Olga Havel
 ### 4. draft-havel-nmop-simap-yang and side meeting summary
 * Presenter: Olga Havel
 * Reading Material: [draft-havel-nmop-simap-yang](https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/)
+### 5. Knowledge Graphs Design Team update
+* Presenter: Lionel Tailhardat & Michael Mackey
