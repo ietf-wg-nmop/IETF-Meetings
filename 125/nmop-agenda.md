@@ -18,7 +18,7 @@
 | 11:35-11:45 | P3      | SIMAP Concepts                                    | Olga Havel     |
 | 11:45-12:05 | P1      | YANG-Push to Message Broker Integration           | Thomas Graf    |
 | 12:05-12:10 | P1      | YANG Message Keys for Message Broker Integration  | Thomas Graf    |
-|             |         |                                                   |                |
+| 12:10-12:20 | P1      | YANG Message Keys and YANG-Push Topic Naming PoC  | Maxence Younsi |
 |             |         |                                                   |                |
 |             |         |                                                   |                |
 
