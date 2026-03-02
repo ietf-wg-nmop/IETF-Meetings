@@ -15,11 +15,10 @@
 | Slot        | Project | Topic                                             | Presenters     |
 |-------------|---------|---------------------------------------------------|----------------|
 | 11:30-11:35 |         | Agenda Bashing & Introduction                     | Chairs         |
-| 11:35-11:45 | P3      | SIMAP Concepts                                    | Olga Havel     |
-| 11:45-12:05 | P1      | YANG-Push to Message Broker Integration           | Thomas Graf    |
-| 12:05-12:10 | P1      | YANG Message Keys for Message Broker Integration  | Thomas Graf    |
-|             |         |                                                   |                |
-|             |         |                                                   |                |
+| 11:35-11:50 | P2      | Network Anomaly Detection                         | Wanting Du     |
+| 11:50-12:00 | P2      | YANG data model for Network Incident Management   | Qin Wu         |
+| 12:00-12:15 | P2      | Sharing your incident with China Mobile           | Zhenqiang Li   |
+| 12:15-12:30 | P2      | Sharing your incident with China Unicom           | Pang Ran       |
 |             |         |                                                   |                |
 
 
@@ -28,14 +27,16 @@
 | Slot        | Project | Topic                                             | Presenters     |
 |-------------|---------|---------------------------------------------------|----------------|
 | 09:00-09:05 |         | Agenda Bashing & Introduction                     | Chairs         |
-| 09:05-09:20 | P2      | Sharing your incident with China Mobile           | Zhenqiang Li   |
-| 09:20-09:35 | P2      | Sharing your incident with China Unicom           | Pang Ran       |
-| 09:35-09:50 | P2      | Network Anomaly Detection                         | Wanting Du     |
-| 09:50-10:00 | P2      | YANG data model for Network Incident Management   | Qin Wu         |
-| 10:00-10:10 | P4      | RFC 3535 20 years later                           | Med Boucadair  |
-| 10:10-10:20 | P2      | AI based Network Management Agent                 | Xing Zhao      |
-| 10:20-10:25 |         | Model for distributed authorization policy sharing| Lucia Rodriguez| 
-| 10:25-10:30 |         | Open                                              | All            |
+| 09:05-09:15 | P3      | SIMAP Concepts                                    | Olga Havel     |
+| 09:15-09:35 | P1      | YANG-Push to Message Broker Integration           | Thomas Graf    |
+| 09:35-09:40 | P1      | YANG Message Keys for Message Broker Integration  | Thomas Graf    |
+| 09:40-09:50 | P1      | YANG Message Keys and YANG-Push Topic Naming PoC  | Maxence Younsi |
+| 09:50-10:05 | P4      | RFC 3535 20 years later                           | Med Boucadair  |
+| 10:05-10:15 |         | AI based Network Management Agent                 | Xing Zhao      |
+| 10:15-10:20 |         | Model for distributed authorization policy sharing| Lucia Rodriguez| 
+|             |         |                                                   |                |
+|             |         |                                                   |                |
+| 10:50-11:00 |         | Open                                              | All            |
 |             |         |                                                   |                |
 
 
