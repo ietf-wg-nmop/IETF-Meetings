@@ -42,6 +42,26 @@
 
 ## Detailed Agenda: Session 1
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
+### 2. Network Anomaly Detection
+* Presenter: Wanting Du
+* Reading Material:
+[draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture)
+[draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle)
+[draft-ietf-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics)
+### 3. YANG data model for Network Incident Management
+* Presenter: Qin Qu
+* Reading Material:
+[draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang)
+### 4. Sharing your incident with China Mobile
+* Presenter: Zhenqiang Li
+* Reading Material: [Sharing your incident with China Mobile](TBD)
+### 5. Sharing your incident with China Unicom
+* Presenter: Pang Ran
+* Reading Material: [Sharing your incident with China Unicom](TBD)
+
+
+## Detailed Agenda: Session 2
+### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 ### 2. SIMAP Concepts
 * Presenter: Olga Havel
 * Reading Material: [draft-ietf-nmop-simap-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/)
@@ -55,26 +75,9 @@
 ### 4. YANG Message Keys for Message Broker Integration
 * Presenter: Thomas Graf
 * Reading Material: [draft-netana-nmop-yang-message-broker-message-key](https://datatracker.ietf.org/doc/draft-netana-nmop-yang-message-broker-message-key/)
-
-
-## Detailed Agenda: Session 2
-### 1. Agenda Bashing & Introduction (Chairs) (5 min)
-### 2. Sharing your incident with China Mobile
-* Presenter: Zhenqiang Li
-* Reading Material: [Sharing your incident with China Mobile](TBD)
-### 3. Sharing your incident with China Unicom
-* Presenter: Pang Ran
+### 5. YANG Message Keys and YANG-Push Topic Naming PoC
+* Presenter: Maxence Younsi
 * Reading Material: [Sharing your incident with China Unicom](TBD)
-### 4. Network Anomaly Detection
-* Presenter: Wanting Du
-* Reading Material:
-[draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture)
-[draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle)
-[draft-ietf-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics)
-### 5. YANG data model for Network Incident Management
-* Presenter: Qin Qu
-* Reading Material:
-[draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang)
 ### 6. RFC 3535 20 years later
 * Presenter: Med Boucadair
 * Reading Material:
