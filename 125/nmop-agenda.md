@@ -35,7 +35,7 @@
 | 10:00-10:15 | P4      | RFC 3535 20 years later                           | Med Boucadair  |
 | 10:15-10:25 |         | Knowledge Graph Framework for Network Operations  | Michael Mackey |
 | 10:25-10:35 |         | AI based Network Management Agent                 | Xing Zhao      |
-| 10:35-10:40 |         | Model for distributed authorization policy sharing| Lucia Rodriguez|
+| 10:35-10:40 |         | Model for distributed authorization policy sharing| Lucia Cabanillas|
 | 10:40-10:45 |         | Generalized Capability Principles                 | Nigel Davis    |
 | 10:45-10:50 | P3      | Applicability of RFC8795 YANG data model to SIMAP | Italo Busi     |
 | 10:50-11:00 |         | Open                                              | All            |
