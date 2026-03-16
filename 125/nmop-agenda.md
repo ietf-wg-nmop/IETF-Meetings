@@ -18,7 +18,7 @@
 | 11:35-11:50 | P2      | Network Anomaly Detection                         | Wanting Du     |
 | 11:50-12:00 | P2      | YANG data model for Network Incident Management   | Qin Wu         |
 | 12:00-12:15 | P2      | Sharing your incident with China Mobile           | Zhenqiang Li   |
-| 12:15-12:30 | P2      | Sharing your incident with China Unicom           | Pang Ran       |
+| 12:15-12:30 | P2      | Sharing your incident with China Unicom           | Jing Zhao      |
 |             |         |                                                   |                |
 
 
