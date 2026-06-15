@@ -6,6 +6,11 @@
 * **State**: Current version -12 (updated 2026-05-13). Authors addressed Reshad's comments and added operational, security and IANA considerations sections. Reviews are requested, particularly on the operational and security considerations sections. Authors have requested WG last call. IETF 126 hackathon already in preparation, focusing on: YANG instance data validation against YANG schema, feature differences among open-source YANG library implementations, unit tests, follow-up on open items from IETF 124, and enhancements in the YANG-Push Receiver.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-yang-message-broker-integration
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-yang-message-broker-integration
+* **Normative references**:
+    - https://datatracker.ietf.org/doc/draft-ietf-netconf-yang-library-augmentedby
+    - https://datatracker.ietf.org/doc/draft-ietf-netconf-yang-notifications-versioning
+    - https://datatracker.ietf.org/doc/draft-ietf-netconf-yp-transport-capabilities
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message
 * **IETF Session**:
 
 
