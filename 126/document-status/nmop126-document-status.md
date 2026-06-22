@@ -13,7 +13,6 @@
     - https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message
 * **IETF Session**:
 
-
 ### draft-ietf-nmop-message-broker-telemetry-message
 
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message/
@@ -21,7 +20,12 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-message-broker-telemetry-message
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-message-broker-telemetry-message
 * **IETF Session**:
-
+* **Normative references**:
+    - https://datatracker.ietf.org/doc/draft-ietf-netconf-notif-envelope
+    - https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-module-versioning
+    - https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-semver
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration
+    - https://datatracker.ietf.org/doc/draft-ietf-opsawg-collected-data-manifest
 
 ### draft-ietf-nmop-yang-message-broker-message-key
 
@@ -32,7 +36,9 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-yang-message-broker-message-key
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-yang-message-broker-message-key
 * **IETF Session**:
-
+* **Normative references**:
+    - https://datatracker.ietf.org/doc/draft-ietf-netconf-notif-envelope
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message
 
 ### draft-ietf-nmop-network-anomaly-architecture
 
@@ -41,7 +47,12 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-anomaly-architecture
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-anomaly-architecture
 * **IETF Session**:
-
+* **Normative references**:
+    - https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map (should be updated to https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang?)
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology
+    - https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops (we should discuss this reference)
 
 ### draft-ietf-nmop-network-anomaly-lifecycle
 
@@ -50,7 +61,11 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-anomaly-lifecycle
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-anomaly-lifecycle
 * **IETF Session**:
-
+* **Normative references**:
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration
 
 ### draft-ietf-nmop-network-anomaly-semantics
 
@@ -59,7 +74,10 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-anomaly-semantics
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-anomaly-semantics
 * **IETF Session**:
-
+* **Normative references**:
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle
+    - https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology
 
 ### draft-ietf-nmop-network-incident-yang
 
@@ -68,7 +86,8 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-incident-yang
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-incident-yang
 * **IETF Session**:
-
+* **Normative references**:
+    - NONE!!! (even existing RFCs, we should discuss that?)
 
 ### draft-ietf-nmop-rfc3535-20years-later
 
@@ -77,7 +96,8 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-rfc3535-20years-later
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-rfc3535-20years-later
 * **IETF Session**:
-
+* **Normative references**:
+    - RFC3535 (nothing else, we should discuss that?)
 
 ### draft-ietf-nmop-simap-concept
 
