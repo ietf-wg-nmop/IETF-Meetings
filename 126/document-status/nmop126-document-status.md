@@ -7,6 +7,7 @@
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-yang-message-broker-integration
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-yang-message-broker-integration
 * **Normative references**:
+    - https://datatracker.ietf.org/doc/draft-ietf-netconf-notif-envelope
     - https://datatracker.ietf.org/doc/draft-ietf-netconf-yang-library-augmentedby
     - https://datatracker.ietf.org/doc/draft-ietf-netconf-yang-notifications-versioning
     - https://datatracker.ietf.org/doc/draft-ietf-netconf-yp-transport-capabilities
@@ -97,7 +98,7 @@
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-rfc3535-20years-later
 * **IETF Session**:
 * **Normative references**:
-    - RFC3535 (nothing else, we should discuss that?)
+    - RFC3535 (as expected, nothing else)
 
 ### draft-ietf-nmop-simap-concept
 
