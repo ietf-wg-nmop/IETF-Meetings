@@ -2,11 +2,13 @@
 
 The cumulative requested slots can be seen below:
 
-| Requested Slot          | Topic              |  Presenter | Cumulative Slots   | In Person?   | Adopted?  | Discussed? | Granted Status|
-|:-------------:|:-----------------:|:-----:|:----------------|:--------|:--------|:--------|:--------|
-| 10  | Chairs Slides and Administrivia | Reshad Rahman and Benoît Claise | 10 | Y | N/A | N/A | Y |
-| 15  | xxx  | yyy | 25 | Y | N | Y | Y |
-
+| Requested Slot |                        Topic                        |            Presenter            | Cumulative Slots | In Person? | Adopted? | Discussed? | Granted Status |
+| :------------: | :-------------------------------------------------: | :------------------------------: | :--------------- | :--------- | :------- | :--------- | :------------- |
+|       10       |           Chairs Slides and Administrivia           | Reshad Rahman and Benoît Claise | 10               | Y          | N/A      | N/A        | Y              |
+|       10       | draft-cabanillas-nmop-authz-policy-sharing-model-03 |   Lucía Cabanillas Rodríguez   | 20               | Y          | N        | N          |                |
+|       10       |    BMP YANG Model for Network Telemetry Messages    |         Leonardo Rodoni         | 30               | Y          | N        | N          |                |
+|       15       |          YANG Libraries Feature Comparison          |        Vivekananda BOUDIA        | 45               | Y          | N        | N          |                |
+|       15       |                         xxx                         |               yyy               | 25               | Y          | N        | Y          | Y              |
 
 ## Requests from the chairs
 
