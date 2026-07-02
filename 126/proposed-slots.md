@@ -9,7 +9,7 @@ The cumulative requested slots can be seen below:
 |       10       |    BMP YANG Model for Network Telemetry Messages    |         Leonardo Rodoni         | 30               | Y          | N        | N          |                |
 |       15       |          YANG Libraries Feature Comparison          |        Vivekananda BOUDIA        | 45               | Y         | N        | N          |                |
 |       15       |   draft-ietf-nmop-yang-message-broker-integration   |           Thomas Graf           | 60               | Y          | Y        | Y          |                |
-|       15       |    draft-havel-nmop-simap-yang    |           Olga Havel          | 60               | Y          | Y        | Y          |  
+|       15       |    draft-havel-nmop-simap-yang    |           Olga Havel          | 75               | Y          | Y        | Y          |  
 
 ## Requests from the chairs
 
