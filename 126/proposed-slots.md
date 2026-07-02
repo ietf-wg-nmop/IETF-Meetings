@@ -8,7 +8,7 @@ The cumulative requested slots can be seen below:
 |       10       | draft-cabanillas-nmop-authz-policy-sharing-model-03 |   Lucía Cabanillas Rodríguez   | 20               | Y          | N        | N          |                |
 |       10       |    BMP YANG Model for Network Telemetry Messages    |         Leonardo Rodoni         | 30               | Y          | N        | N          |                |
 |       15       |          YANG Libraries Feature Comparison          |        Vivekananda BOUDIA        | 45               | Y          | N        | N          |                |
-|       15       |                         xxx                         |               yyy               | 25               | Y          | N        | Y          | Y              |
+|       15       |   draft-ietf-nmop-yang-message-broker-integration   |           Thomas Graf           | 60               | Y          | Y        | Y          |                |
 
 ## Requests from the chairs
 
