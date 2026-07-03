@@ -11,6 +11,7 @@ The cumulative requested slots can be seen below:
 |       15       |   draft-ietf-nmop-yang-message-broker-integration   |           Thomas Graf           | 60               | Y          | Y        | Y          |                |
 |       15       |             draft-havel-nmop-simap-yang             |            Olga Havel            | 75               | Y          | Y        | Y          |                |
 |       10       |   draft-ietf-nmop-yang-message-broker-message-key   |         Ahmed Elhassany         | 85               | Y          | Y        | Y          |                |
+|       10       |      draft-ietf-nmop-network-incident-yang-09      |              Qin Wu              | 95               | Y          | Y        | Y          |                |
 
 ## Requests from the chairs
 
