@@ -17,6 +17,9 @@ The cumulative requested slots can be seen below:
 |       10       | draft-ietf-nmop-network-anomaly-architecture, draft-ietf-nmop-network-anomaly-semantics, draft-ietf-nmop-network-anomaly-lifecycle |           Thomas Graf           | 119              | Y          | Y        | Y          |                |
 |       15       |                                             Swisscom BGP Routing Loop Network Incident                                             |           Thomas Graf           | 134              | Y          | Y        | Y          |                |
 |       10       |                                                      draft-cui-nmop-auto-test                                                      |            Yunze Wei            | 144              | Y          | N        | N          |                |
+|       8       |                                            draft-zhao-nmop-network-management-agent-05                                            |            Xing Zhao            | 152              | Y          | N        | N          |                |
+|       8       |                                             draft-wu-nmop-nma-nti-problem-statement-00                                             |              Bo Wu              | 160              | Y          | N        | N          |                |
+|       8       |                                                  draft-zhao-nmop-nma-a2u-yang-00                                                  |            Xing Zhao            | 168              | Y          | N        | N          |                |
 
 ## Requests from the chairs
 
