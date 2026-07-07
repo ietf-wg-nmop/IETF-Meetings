@@ -48,7 +48,7 @@
 ### 2. YANG-Push to Message Broker Integration (15 mins)
 * Presenter: Thomas Graf
 * Reading Material:
-  [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration)
+  [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration) and 
   [draft-ietf-message-broker-telemetry-message](https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message)
 
 ### 3. YANG Message Keys for Message Broker Integration (10 mins)
@@ -57,7 +57,7 @@
 
 ### 4. YANG data model for Network Incident Management (10 mins)
 
-* Presenter: Qin Qu
+* Presenter: Qin Wu
 * Reading Material:
   [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang)
   
@@ -65,8 +65,8 @@
 
 * Presenter: Thomas Graf
 * Reading Material:
-  [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture)
-  [draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle)
+  [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture),
+  [draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle) and 
   [draft-ietf-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics)
 
 ### 6. SIMAP YANG based on RFC8345 (15 mins)
