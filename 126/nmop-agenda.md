@@ -45,95 +45,98 @@
 
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 
-### 2. Network Anomaly Detection
+### 2. YANG-Push to Message Broker Integration (15 mins)
+* Presenter: Thomas Graf
+* Reading Material:
+  [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration)
+  [draft-ietf-message-broker-telemetry-message](https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message)
 
-* Presenter: Wanting Du
+### 3. YANG Message Keys for Message Broker Integration (10 mins)
+* Presenter: Ahmed Elhassany
+* Reading Material: [draft-netana-nmop-yang-message-broker-message-key](https://datatracker.ietf.org/doc/draft-netana-nmop-yang-message-broker-message-key/)
+
+### 4. YANG data model for Network Incident Management (10 mins)
+
+* Presenter: Qin Qu
+* Reading Material:
+  [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang)
+  
+### 5. Network Anomaly Detection (10 mins)
+
+* Presenter: Thomas Graf
 * Reading Material:
   [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture)
   [draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle)
   [draft-ietf-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics)
 
-### 3. YANG data model for Network Incident Management
-
-* Presenter: Qin Qu
-* Reading Material:
-  [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang)
-
-### 4. Sharing your incident with China Mobile
-
-* Presenter: Zhenqiang Li
-* Reading Material: [Sharing your incident with China Mobile](TBD)
-
-### 5. Sharing your incident with China Unicom
-
-* Presenter: Pang Ran
-* Reading Material: [Sharing your incident with China Unicom](TBD)
-
-## Detailed Agenda: Session 2
-
-### 1. Agenda Bashing & Introduction (Chairs) (5 min)
-
-### 2. SIMAP Concepts
+### 6. SIMAP YANG based on RFC8345 (15 mins)
 
 * Presenter: Olga Havel
 * Reading Material: [draft-ietf-nmop-simap-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/)
   [draft-havel-nmop-simap-yang](https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/)
 
-### 3. YANG-Push to Message Broker Integration
+### 7. SIMAP YANG based on RFC8795 (15 mins)
 
-* Presenter: Thomas Graf
+* Presenter: Italo Busi
 * Reading Material:
-  [Hackathon: Validate YANG-Push to Message Broker](TBD)
-  [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration)
-  [draft-ietf-message-broker-telemetry-message](https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message)
+  [draft-busi-nmop-simap-rfc8795-applicability](https://datatracker.ietf.org/doc/draft-busi-nmop-simap-rfc8795-applicability)
 
-### 4. YANG Message Keys for Message Broker Integration
+### 8. SIMAP YANG discussions (10 mins)
+* Presenter: Chairs
 
-* Presenter: Thomas Graf
-* Reading Material: [draft-netana-nmop-yang-message-broker-message-key](https://datatracker.ietf.org/doc/draft-netana-nmop-yang-message-broker-message-key/)
-
-### 5. YANG Message Keys and YANG-Push Topic Naming PoC
-
-* Presenter: Maxence Younsi
-* Reading Material: [Sharing your incident with China Unicom](TBD)
-
-### 6. BMP YANG Model for Network Telemetry Messages
-
-* Presenter: Paolo Lucente
-* Reading Material: [draft-netana-nmop-message-broker-bmp-telemetry-msg](https://datatracker.ietf.org/doc/draft-netana-nmop-message-broker-bmp-telemetry-msg/)
-
-### 7. RFC 3535 20 years later
-
-* Presenter: Med Boucadair
-* Reading Material:
-  [draft-ietf-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-ietf-nmop-rfc3535-20years-later)
-
-### 8. Knowledge Graph Framework for Network Operations
-
-* Presenter: Michael Mackey
-* Reading Material:
-  [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops)
-
-### 9. AI based Network Management Agent
-
-* Presenter: Xing Zhao
-* Reading Material:
-  [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent)
-
-### 10. Model for distributed authorization policy sharing
+### 9. Model for distributed authorization policy sharing (10 mins)
 
 * Presenter: Lucia Cabanillas Rodriguez
 * Reading Material:
   [draft-cabanillas-nmop-authz-policy-sharing-model](https://datatracker.ietf.org/doc/draft-cabanillas-nmop-authz-policy-sharing-model)
 
-### 11. Generalized Capability Principles
+### 10. BMP YANG Model for Network Telemetry Messages (10 mins)
 
-* Presenter: Nigel Davis
+* Presenter: Leonardo Rodoni
+* Reading Material: [draft-netana-nmop-message-broker-bmp-telemetry-msg](https://datatracker.ietf.org/doc/draft-netana-nmop-message-broker-bmp-telemetry-msg/)
+
+### 11. NMOP survey discussions (10 mins)
+
+* Presenter: Chairs
+
+## Detailed Agenda: Session 2
+
+### 1. Agenda Bashing & Introduction (Chairs) (5 min)
+
+### 2. Swisscom BGP Routing Loop Network Incident (15 mins)
+* Presenter: Thomas Graf
+* Reading Material: [Swisscom BGP Routing Loop Network Incident](TBD)
+
+### 3. AI based Network Management Agent (5 mins)
+* Presenter: Xing Zhao
 * Reading Material:
-  [draft-davis-nmop-generalized-capability-principles](https://datatracker.ietf.org/doc/draft-davis-nmop-generalized-capability-principles)
+  [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent)
 
-### 12. Applicability of RFC8795 YANG data model to SIMAP
-
-* Presenter: Italo Busi
+### 4. Standardizing the northbound Task Interface (NTI) of the NMA  (5 mins)
+* Presenter: Bo Wu
 * Reading Material:
-  [draft-busi-nmop-simap-rfc8795-applicability](https://datatracker.ietf.org/doc/draft-busi-nmop-simap-rfc8795-applicability)
+  [draft-wu-nmop-nma-nti-problem-statement](https://datatracker.ietf.org/doc/draft-wu-nmop-nma-nti-problem-statement/)
+
+### 5. Framework and YANG Data Model for the NMA A2U Interface (5 mins)
+* Presenter: Xing Zhao
+* Reading Material:
+  [draft-zhao-nmop-nma-a2u-yang](https://datatracker.ietf.org/doc/draft-zhao-nmop-nma-a2u-yang/)
+
+### 6. A Framework for AI-Assisted Network Protocol Testing from Specifications (5 mins)
+* Presenter: Yunze Wei 
+* Reading Material:
+  [draft-cui-nmop-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test/)
+
+### 7. A Gateway for Network Knowledge Graph Management (5 mins)
+* Presenter: Mingzhe Xing
+* Reading Material:
+  [draft-nmop-cui-nkg-gateway](https://datatracker.ietf.org/doc/draft-nmop-cui-nkg-gateway/)
+
+### 8. Operational Requirements for Network State Exchange in Agent-Assisted Network Operations (5 mins)
+* Presenter: Mingzhe Xing
+* Reading Material:
+  [draft-cui-nmop-agent-sketch-com](https://datatracker.ietf.org/doc/draft-cui-nmop-agent-sketch-com/)
+  
+### 9. NMRG and NMOP (10 mins)
+* Presenter: Jéferson Nobre
+
