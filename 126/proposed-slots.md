@@ -21,6 +21,7 @@ The cumulative requested slots can be seen below:
 |       8       |                                             draft-wu-nmop-nma-nti-problem-statement-00                                             |              Bo Wu              | 160              | Y          | N        | N          | Check AD reccomendations                    |
 |       8       |                                                  draft-zhao-nmop-nma-a2u-yang-00                                                  |            Xing Zhao            | 168              | Y          | N        | N          | Check AD reccomendations                    |
 |       10       |                                        draft-ali-opsawg-yang-protobuf-problem-statement-00                                        |            Zafar Ali            | 178              | Y          | N        | N          |                                             |
+|       5       |                                             draft-li-opsawg-attack-sample-metadata-00                                             |            Linzhe Li            | 183              | Y          | N        | N          |                                             |
 
 ## Requests from the chairs
 
