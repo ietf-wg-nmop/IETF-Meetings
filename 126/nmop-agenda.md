@@ -14,15 +14,15 @@
 
 | Slot        | Project | Topic                                                                 | Presenters       |
 | ----------- | ------- | --------------------------------------------------------------------- | ---------------- |
-| 09:00-09:05 |         | Agenda Bashing & Introduction                                         | Chairs           |
-| 09:05-09:20 | P1      | YANG-Push to Message Broker Integration                               | Thomas Graf      |
-| 09:20-09:30 | P1      | YANG Message Keys for Message Broker Integration                      | Ahmed Elhassany  |
-| 09:30-09:40 | P2      | YANG data model for Network Incident Management                       | Qin Wu           |
-| 09:40-09:50 | P2      | Network Anomaly Detection                                             | Thomas Graf      |
-| 09:50-10:05 | P3      | SIMAP YANG (based on RFC8345)                                         | Olga Havel       |
-| 10:05-10:20 | P3      | SIMAP YANG (based on RFC8795)                                         | Italo Busi       |
-| 10:20-10:30 | P3      | SIMAP YANG discussions                                                | Chairs/All       |
-| 10:30-10:40 |         | Model for distributed authorization policy sharing                    | Lucia Cabanillas |
+| 09:00-09:10 |         | Agenda Bashing & Introduction                                         | Chairs           |
+| 09:10-09:25 | P1      | YANG-Push to Message Broker Integration                               | Thomas Graf      |
+| 09:25-09:35 | P1      | YANG Message Keys for Message Broker Integration                      | Ahmed Elhassany  |
+| 09:35-09:45 | P2      | YANG data model for Network Incident Management                       | Qin Wu           |
+| 09:45-09:55 | P2      | Network Anomaly Detection                                             | Thomas Graf      |
+| 09:55-10:05 | P3      | SIMAP YANG (based on RFC8345)                                         | Olga Havel       |
+| 10:05-10:15 | P3      | SIMAP YANG (based on RFC8795)                                         | Italo Busi       |
+| 10:15-10:30 | P3      | SIMAP YANG discussions                                                | Chairs/All       |
+| 10:30-12:40 |         | NMRG and NMOP                                                         | Jeferson Nobre   |
 | 10:40-10:50 | P3      | BMP YANG Model for Network Telemetry Messages                         | Leonardo Rodoni  |
 | 10:50-11:00 |         | NMOP survey discussions                                               | Chairs/All       |
 
@@ -32,13 +32,13 @@
 | ----------- | ------- | --------------------------------------------------------------------- | ---------------- |
 | 11:30-11:35 |         | Agenda Bashing & Introduction                                         | Chairs           |
 | 11:35-11:50 | P2      | Swisscom BGP Routing Loop Network Incident                            | Thomas Graf      |
-| 11:50-11:55 |         | AI based Network Management Agent (NMA)                               | Xing Zhao        |
-| 11:55-12:00 |         | Standardizing the northbound Task Interface (NTI) of the NMA          | Bo Wu            |
-| 12:00-12:05 |         | Framework and YANG Data Model for the NMA A2U Interface               | Xing Zhao        |
-| 12:05-12:10 |         | Framework for AI-Assisted Network Protocol Testing from Specifications| Yunze Wei        |
-| 12:10-12:15 | P5      | A Gateway for Network Knowledge Graph Management                      | Mingzhe Xing     |
-| 12:15-12:20 |         | Requirements for Network State Exchange in Agent-Assisted Netops      | Mingzhe Xing     |
-| 12:20-12:30 |         | NMRG and NMOP                                                         | Jeferson Nobre   |
+| 11:50-12:00 |         | Model for distributed authorization policy sharing                    | Lucia Cabanillas |
+| 12:00-12:05 |         | AI based Network Management Agent (NMA)                               | Xing Zhao        |
+| 12:05-12:10 |         | Standardizing the northbound Task Interface (NTI) of the NMA          | Bo Wu            |
+| 12:10-12:15 |         | Framework and YANG Data Model for the NMA A2U Interface               | Xing Zhao        |
+| 12:15-12:20 |         | Framework for AI-Assisted Network Protocol Testing from Specifications| Yunze Wei        |
+| 12:20-12:25 | P5      | A Gateway for Network Knowledge Graph Management                      | Mingzhe Xing     |
+| 12:25-12:30 |         | Requirements for Network State Exchange in Agent-Assisted Netops      | Mingzhe Xing     |
 
 
 ## Detailed Agenda: Session 1
