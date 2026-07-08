@@ -22,7 +22,7 @@
 | 09:55-10:05 | P3      | SIMAP YANG (based on RFC8345)                                         | Olga Havel       |
 | 10:05-10:15 | P3      | SIMAP YANG (based on RFC8795)                                         | Italo Busi       |
 | 10:15-10:30 | P3      | SIMAP YANG discussions                                                | Chairs/All       |
-| 10:30-12:40 |         | NMRG and NMOP                                                         | Jeferson Nobre   |
+| 10:30-10:40 |         | NMRG and NMOP                                                         | Jeferson Nobre   |
 | 10:40-10:50 | P3      | BMP YANG Model for Network Telemetry Messages                         | Leonardo Rodoni  |
 | 10:50-11:00 |         | NMOP survey discussions                                               | Chairs/All       |
 
