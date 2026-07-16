@@ -32,7 +32,9 @@
 | ----------- | ------- | ---------------------------------------------------------------------- | ------------------- |
 | 11:30-11:35 |         | Agenda Bashing & Introduction                                          | Chairs              |
 | 11:35-11:50 | P2      | Swisscom BGP Routing Loop Network Incident                             | Thomas Graf         |
-| 11:50-12:00 |         | AIOPS Side Meeting - Scope and Charter Discussion                      | Mahesh Jethanandani |
+| 11:50-12:00 |         | Information on AI drafts:                                              | Mahesh Jethanandani |
+|             |         | a) AIOPS Side Meeting Logistics and Guidance on AI drafts              |                     |
+|             |         | b) Applying the wiki guidance on the AI drafts                         |                     |
 | 12:00-12:05 |         | AI based Network Management Agent (NMA)                                | Xing Zhao           |
 | 12:05-12:10 |         | Standardizing the northbound Task Interface (NTI) of the NMA           | Bo Wu               |
 | 12:10-12:15 |         | Framework and YANG Data Model for the NMA A2U Interface                | Xing Zhao           |
