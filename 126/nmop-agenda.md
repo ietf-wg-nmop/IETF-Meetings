@@ -33,13 +33,13 @@
 | 11:30-11:35 |         | Agenda Bashing & Introduction                                          | Chairs              |
 | 11:35-11:50 | P2      | Swisscom BGP Routing Loop Network Incident                             | Thomas Graf         |
 | 11:50-11:55 |         | AIOPS Side Meeting Logistics and Guidance on AI drafts                 | Mahesh Jethanandani |
-| 11:55-12:00 |         | Applying the wiki guidance on AI drafts                                | Mahesh Jethanandani |
-| 12:00-12:05 |         | AI based Network Management Agent (NMA)                                | Xing Zhao           |
-| 12:05-12:10 |         | Standardizing the northbound Task Interface (NTI) of the NMA           | Bo Wu               |
-| 12:10-12:15 |         | Framework and YANG Data Model for the NMA A2U Interface                | Xing Zhao           |
-| 12:15-12:20 |         | Framework for AI-Assisted Network Protocol Testing from Specifications | Yunze Wei           |
-| 12:20-12:25 | P5      | A Gateway for Network Knowledge Graph Management                       | Mingzhe Xing        |
-| 12:25-12:30 |         | Requirements for Network State Exchange in Agent-Assisted Netops       | Mingzhe Xing        |
+| 11:55-12:00 |         | AI based Network Management Agent (NMA)                                | Xing Zhao           |
+| 12:00-12:05 |         | Standardizing the northbound Task Interface (NTI) of the NMA           | Bo Wu               |
+| 12:05-12:10 |         | Framework and YANG Data Model for the NMA A2U Interface                | Xing Zhao           |
+| 12:10-12:15 |         | Framework for AI-Assisted Network Protocol Testing from Specifications | Yunze Wei           |
+| 12:15-12:20 | P5      | A Gateway for Network Knowledge Graph Management                       | Mingzhe Xing        |
+| 12:20-12:25 |         | Requirements for Network State Exchange in Agent-Assisted Netops       | Mingzhe Xing        |
+| 12:25-12:30 |         | Applying the wiki guidance on AI drafts                                | Mahesh Jethanandani |
 
 ## Detailed Agenda: Session 1
 
@@ -117,42 +117,43 @@
 * Reading Material:
   [AI-Driven Network Operations: Evaluation Guidelines](https://wiki.ietf.org/en/group/ops/aiops)
 
-### 4. Applying the wiki guidance on AI drafts (5 mins)
-
-* Presenter: Mahesh Jethanandani
-
-### 5. AI based Network Management Agent (5 mins)
+### 4. AI based Network Management Agent (5 mins)
 
 * Presenter: Xing Zhao
 * Reading Material:
   [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent)
 
-### 6. Standardizing the northbound Task Interface (NTI) of the NMA  (5 mins)
+### 5. Standardizing the northbound Task Interface (NTI) of the NMA  (5 mins)
 
 * Presenter: Bo Wu
 * Reading Material:
   [draft-wu-nmop-nma-nti-problem-statement](https://datatracker.ietf.org/doc/draft-wu-nmop-nma-nti-problem-statement/)
 
-### 7. Framework and YANG Data Model for the NMA A2U Interface (5 mins)
+### 6. Framework and YANG Data Model for the NMA A2U Interface (5 mins)
 
 * Presenter: Xing Zhao
 * Reading Material:
   [draft-zhao-nmop-nma-a2u-yang](https://datatracker.ietf.org/doc/draft-zhao-nmop-nma-a2u-yang/)
 
-### 8. A Framework for AI-Assisted Network Protocol Testing from Specifications (5 mins)
+### 7. A Framework for AI-Assisted Network Protocol Testing from Specifications (5 mins)
 
 * Presenter: Yunze Wei
 * Reading Material:
   [draft-cui-nmop-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test/)
 
-### 9. A Gateway for Network Knowledge Graph Management (5 mins)
+### 8. A Gateway for Network Knowledge Graph Management (5 mins)
 
 * Presenter: Mingzhe Xing
 * Reading Material:
   [draft-nmop-cui-nkg-gateway](https://datatracker.ietf.org/doc/draft-nmop-cui-nkg-gateway/)
 
-### 10. Operational Requirements for Network State Exchange in Agent-Assisted Network Operations (5 mins)
+### 9. Operational Requirements for Network State Exchange in Agent-Assisted Network Operations (5 mins)
 
 * Presenter: Mingzhe Xing
 * Reading Material:
   [draft-cui-nmop-agent-sketch-com](https://datatracker.ietf.org/doc/draft-cui-nmop-agent-sketch-com/)
+
+### 10. Applying the wiki guidance on AI drafts (5 mins)
+
+* Presenter: Mahesh Jethanandani
+
