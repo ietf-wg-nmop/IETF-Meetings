@@ -32,7 +32,7 @@
 | ----------- | ------- | ---------------------------------------------------------------------- | ------------------- |
 | 11:30-11:35 |         | Agenda Bashing & Introduction                                          | Chairs              |
 | 11:35-11:50 | P2      | Swisscom BGP Routing Loop Network Incident                             | Thomas Graf         |
-| 11:50-11:55 |         | AIOPS Side Meeting Logistics and Guidance on AI drafts                 | Mahesh Jethanandani |
+| 11:50-11:55 |         | AIOPS Side Meeting Logistics and Guidance on AI drafts (Focus on Network Management)                 | Mahesh Jethanandani |
 | 11:55-12:00 |         | Applying the wiki guidance on AI drafts                                | Mahesh Jethanandani |
 | 12:00-12:05 |         | AI based Network Management Agent (NMA)                                | Xing Zhao           |
 | 12:05-12:10 |         | Standardizing the northbound Task Interface (NTI) of the NMA           | Bo Wu               |
@@ -111,13 +111,13 @@
 * Presenter: Thomas Graf
 * Reading Material: [Swisscom BGP Routing Loop Network Incident](TBD)
 
-### 3. AIOPS Side Meeting Logistics and Guidance on AI drafts (5 mins)
+### 3. AIOPS Side Meeting Logistics and Guidance on AI drafts (Focus on Network Management) (5 mins)
 
 * Presenter: Mahesh Jethanandani
 * Reading Material:
   [AI-Driven Network Operations: Evaluation Guidelines](https://wiki.ietf.org/en/group/ops/aiops)
 
-### 4. Applying the wiki guidance on AI drafts (5 mins)
+### 4. Applying the wiki guidance on AI drafts (Focus on Network Management)  (5 mins)
 
 * Presenter: Mahesh Jethanandani
 
