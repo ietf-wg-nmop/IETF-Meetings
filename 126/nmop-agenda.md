@@ -32,9 +32,8 @@
 | ----------- | ------- | ---------------------------------------------------------------------- | ------------------- |
 | 11:30-11:35 |         | Agenda Bashing & Introduction                                          | Chairs              |
 | 11:35-11:50 | P2      | Swisscom BGP Routing Loop Network Incident                             | Thomas Graf         |
-| 11:50-12:00 |         | Information on AI drafts:                                              | Mahesh Jethanandani |
-|             |         | a) AIOPS Side Meeting Logistics and Guidance on AI drafts              |                     |
-|             |         | b) Applying the wiki guidance on the AI drafts                         |                     |
+| 11:50-11:55 |         | AIOPS Side Meeting Logistics and Guidance on AI drafts                 | Mahesh Jethanandani |
+| 11:55-12:00 |         | Applying the wiki guidance on AI drafts                                | Mahesh Jethanandani |
 | 12:00-12:05 |         | AI based Network Management Agent (NMA)                                | Xing Zhao           |
 | 12:05-12:10 |         | Standardizing the northbound Task Interface (NTI) of the NMA           | Bo Wu               |
 | 12:10-12:15 |         | Framework and YANG Data Model for the NMA A2U Interface                | Xing Zhao           |
@@ -112,43 +111,47 @@
 * Presenter: Thomas Graf
 * Reading Material: [Swisscom BGP Routing Loop Network Incident](TBD)
 
-### 3. AIOPS Side Meeting - Scope and Charter Discussion (10 mins)
+### 3. AIOPS Side Meeting Logistics and Guidance on AI drafts (5 mins)
 
 * Presenter: Mahesh Jethanandani
 * Reading Material:
   [AI-Driven Network Operations: Evaluation Guidelines](https://wiki.ietf.org/en/group/ops/aiops)
 
-### 4. AI based Network Management Agent (5 mins)
+### 4. Applying the wiki guidance on AI drafts (5 mins)
+
+* Presenter: Mahesh Jethanandani
+
+### 5. AI based Network Management Agent (5 mins)
 
 * Presenter: Xing Zhao
 * Reading Material:
   [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent)
 
-### 5. Standardizing the northbound Task Interface (NTI) of the NMA  (5 mins)
+### 6. Standardizing the northbound Task Interface (NTI) of the NMA  (5 mins)
 
 * Presenter: Bo Wu
 * Reading Material:
   [draft-wu-nmop-nma-nti-problem-statement](https://datatracker.ietf.org/doc/draft-wu-nmop-nma-nti-problem-statement/)
 
-### 6. Framework and YANG Data Model for the NMA A2U Interface (5 mins)
+### 7. Framework and YANG Data Model for the NMA A2U Interface (5 mins)
 
 * Presenter: Xing Zhao
 * Reading Material:
   [draft-zhao-nmop-nma-a2u-yang](https://datatracker.ietf.org/doc/draft-zhao-nmop-nma-a2u-yang/)
 
-### 7. A Framework for AI-Assisted Network Protocol Testing from Specifications (5 mins)
+### 8. A Framework for AI-Assisted Network Protocol Testing from Specifications (5 mins)
 
 * Presenter: Yunze Wei
 * Reading Material:
   [draft-cui-nmop-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test/)
 
-### 8. A Gateway for Network Knowledge Graph Management (5 mins)
+### 9. A Gateway for Network Knowledge Graph Management (5 mins)
 
 * Presenter: Mingzhe Xing
 * Reading Material:
   [draft-nmop-cui-nkg-gateway](https://datatracker.ietf.org/doc/draft-nmop-cui-nkg-gateway/)
 
-### 9. Operational Requirements for Network State Exchange in Agent-Assisted Network Operations (5 mins)
+### 10. Operational Requirements for Network State Exchange in Agent-Assisted Network Operations (5 mins)
 
 * Presenter: Mingzhe Xing
 * Reading Material:
