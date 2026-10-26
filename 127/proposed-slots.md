@@ -11,4 +11,5 @@ The cumulative requested slots can be seen below:
 
 ## Requests from the chairs
 
-- Sharing you incident (Joe)
+- Sharing you incident (Joe) - 
+- NMOP rechartering (Chairs) - 15min
