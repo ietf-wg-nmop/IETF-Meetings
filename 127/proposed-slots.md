@@ -11,6 +11,8 @@ The cumulative requested slots can be seen below:
 |       10       |                        draft-netana-nmop-message-broker-bmp-telemetry-msg-03                        |          Leonardo Rodoni          | 65               | Y          | N        | N          |                |
 |       10       |                             draft-fl-nmop-device-yang-vendor-mapping-00                             | Ian Farrer and/or Kris Lambrechts | 75               | Y          | N        | N          |                |
 |       10       |                             draft-sun-nmop-agent-lifecycle-management-00                             |          Yu Fu/Qiong Sun          | 85               | N          | N        | N          |                |
+|       10       |                draft-havel-nmop-simap-yang-04 draft-havel-nmop-simap-features-yang-01                |            Olga Havel            | 95               | N          | N        | Y          |                |
+|       5       |                        draft-davis-nmop-generalized-capability-principles-02                        |               Nigel               | 100              | N?         | N        | N          |                |
 
 ## Requests from the chairs
 
