@@ -13,7 +13,7 @@ The cumulative requested slots can be seen below:
 |       10       |                             draft-sun-nmop-agent-lifecycle-management-00                             |          Yu Fu/Qiong Sun          | 85               | N          | N        | N          |                |
 |       10       |                draft-havel-nmop-simap-yang-04 draft-havel-nmop-simap-features-yang-01                |            Olga Havel            | 95               | N          | N        | Y          |                |
 |       5       |                        draft-davis-nmop-generalized-capability-principles-02                        |               Nigel               | 100              | N          | N        | N          |                |
-|       5       |                            draft-busi-nmop-simap-rfc8795-applicability-03                            |            Italo Busi            | 105              | Y          | N        | N          |                |
+|       5       |                        draft-busi-nmop-simap-rfc8795-applicability-03                        |               Italo               | 105              | Y          | N        | Y          |                |
 
 ## Requests from the chairs
 
