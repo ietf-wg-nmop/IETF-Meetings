@@ -5,7 +5,7 @@ The cumulative requested slots can be seen below:
 | Requested Slot |                                                Topic                                                |             Presenter             | Cumulative Slots | In Person? | Adopted? | Discussed? | Granted Status |
 | :------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------: | :--------------- | :--------- | :------- | :--------- | :------------- |
 |       10       |                                            Chairs Slides                                            | Reshad Rahman and Benoît Claise | 10               | Y          | N/A      | N/A        | Y              |
-|       10       |                              draft-cabanillas-nmop-policy-sharing-model                              |   Lucía Cabanillas Rodríguez   | 20               | Y          | N        | N          |                |
+|       10       |                              draft-cabanillas-nmop-policy-sharing-model                              |   Lucía Cabanillas Rodríguez   | 20               | Y          | N        | Y          |                |
 |       10       |                            draft-anjum-nmop-anomaly-detection-evaluation                            |            Mateen Ali            | 30               | N          | N        | Y          |                |
 |       15       | draft-ietf-nmop-yang-message-broker-integration and draft-ietf-nmop-message-broker-telemetry-message |            Thomas Graf            | 45               | Y          | Y        | Y          |                |
 |       10       |                        draft-netana-nmop-message-broker-bmp-telemetry-msg-03                        |          Leonardo Rodoni          | 65               | Y          | N        | N          |                |
@@ -16,7 +16,8 @@ The cumulative requested slots can be seen below:
 |       5       |                            draft-busi-nmop-simap-rfc8795-applicability-03                            |               Italo               | 105              | Y          | N        | Y          |                |
 |       10       |             draft-zhao-nmop-network-management-agent-06, draft-zhao-nmop-nma-a2u-yang-01             |            Minxue Wang            | 125              | N          | N        | N          |                |
 |       10       |                               draft-ietf-nmop-network-incident-yang-20                               |             Henry Yu             | 135              | Y          | Y        | Y          |                |
-|       10       |             draft-dikshit-nmop-telemetry-identifier-scoping             |            Saumya Dikshit             | 145              | N          | N        | N          |                |
+|       10       |                           draft-dikshit-nmop-telemetry-identifier-scoping                           |          Saumya Dikshit          | 145              | N          | N        | N          |                |
+|       10       |                         draft-ali-netmod-yang-protobuf-problem-statement-00                         |             Zafar Ali             | 155              | Y          | N        | Y          |                |
 
 ## Requests from the chairs
 
