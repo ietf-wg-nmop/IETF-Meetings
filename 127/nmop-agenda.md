@@ -33,7 +33,7 @@
 | 17:35-17:45 |         | Evaluation Methodology for Network Anomaly Detection                             | Mateen Ali Anjum  |
 | 17:45-17:55 |         | Mapping IETF Device YANG models to vendors YANG models                           | Ian Farrer        |
 | 17:55-18:10 |         | NMOP chartering continued **(if needed)**                                        | Chairs            |
-| 18:10-18:20 |         | YANG any data validation **(if time permits)**                                   | Ahmed Elhassany   |
+| 18:10-18:20 |         | YANG anydata validation **(if time permits)**                                    | Ahmed Elhassany   |
 | 18:20-18:30 |         | Scoping and Comparability Requirements for Telemetry Ids **(if time permits)**   | Saumya Dikshit    |
 
 ## Detailed Agenda: Session 1
