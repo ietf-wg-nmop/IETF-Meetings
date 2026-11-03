@@ -5,11 +5,11 @@ The cumulative requested slots can be seen below:
 | Requested Slot |                                                Topic                                                |             Presenter             | Cumulative Slots | In Person? | Adopted? | Discussed? | Granted Status |
 | :------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------: | :--------------- | :--------- | :------- | :--------- | :------------- |
 |       10       |                                            Chairs Slides                                            | Reshad Rahman and Benoît Claise | 10               | Y          | N/A      | N/A        | Y              |
-|       10       |                              draft-cabanillas-nmop-policy-sharing-model                              |   Lucía Cabanillas Rodríguez   | 20               | Y          | N        | Y          |                |
-|       10       |                            draft-anjum-nmop-anomaly-detection-evaluation                            |            Mateen Ali            | 30               | N          | N        | Y          |                |
-|       15       | draft-ietf-nmop-yang-message-broker-integration and draft-ietf-nmop-message-broker-telemetry-message |            Thomas Graf            | 45               | Y          | Y        | Y          |                |
-|       10       |                        draft-netana-nmop-message-broker-bmp-telemetry-msg-03                        |          Leonardo Rodoni          | 65               | Y          | N        | N          |                |
-|       10       |                             draft-fl-nmop-device-yang-vendor-mapping-00                             | Ian Farrer and/or Kris Lambrechts | 75               | Y          | N        | N          |                |
+|       10       |                              draft-cabanillas-nmop-policy-sharing-model                              |   Lucía Cabanillas Rodríguez   | 20               | Y          | N        | Y          | Y              |
+|       10       |                            draft-anjum-nmop-anomaly-detection-evaluation                            |            Mateen Ali            | 30               | N          | N        | N          | ?              |
+|       15       | draft-ietf-nmop-yang-message-broker-integration and draft-ietf-nmop-message-broker-telemetry-message |            Thomas Graf            | 45               | Y          | Y        | Y          | Y              |
+|       10       |                        draft-netana-nmop-message-broker-bmp-telemetry-msg-03                        |          Leonardo Rodoni          | 65               | Y          | N        | Y          | Y              |
+|       10       |                             draft-fl-nmop-device-yang-vendor-mapping-00                             | Ian Farrer and/or Kris Lambrechts | 75               | Y          | N        | N          | ?              |
 |       10       |                             draft-sun-nmop-agent-lifecycle-management-00                             |          Yu Fu/Qiong Sun          | 85               | N          | N        | N          |                |
 |       10       |                draft-havel-nmop-simap-yang-04 draft-havel-nmop-simap-features-yang-01                |            Olga Havel            | 95               | N          | N        | Y          |                |
 |       5       |                        draft-davis-nmop-generalized-capability-principles-02                        |               Nigel               | 100              | N          | N        | N          |                |
@@ -19,7 +19,7 @@ The cumulative requested slots can be seen below:
 |       10       |                           draft-dikshit-nmop-telemetry-identifier-scoping                           |          Saumya Dikshit          | 145              | N          | N        | N          |                |
 |       10       |                         draft-ali-netmod-yang-protobuf-problem-statement-00                         |             Zafar Ali             | 155              | Y          | N        | Y          |                |
 |       15       |                             draft-netana-netmod-yang-anydata-validation                             |          Ahmed Elhassany          | 170              | Y          | N        | N          | N              |
-|       ?       |                             draft-janz-nmrg-adhoc-semantic-reconciliation-01                             |          Christopher Janz          | 170              | Y          | N        | N          | N              |
+|       ?       |                           draft-janz-nmrg-adhoc-semantic-reconciliation-01                           |         Christopher Janz         | 170              | Y          | N        | N          | N              |
 
 ## Requests from the chairs
 
