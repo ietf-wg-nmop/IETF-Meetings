@@ -15,6 +15,8 @@ The cumulative requested slots can be seen below:
 |       5       |                        draft-davis-nmop-generalized-capability-principles-02                        |               Nigel               | 100              | N          | N        | N          |                |
 |       5       |                            draft-busi-nmop-simap-rfc8795-applicability-03                            |               Italo               | 105              | Y          | N        | Y          |                |
 |       10       |             draft-zhao-nmop-network-management-agent-06, draft-zhao-nmop-nma-a2u-yang-01             |            Minxue Wang            | 125              | N          | N        | N          |                |
+|       10       |                               draft-ietf-nmop-network-incident-yang-20                               |             Henry Yu             | 135              | Y          | Y        | Y          |                |
+|       10       |             draft-dikshit-nmop-telemetry-identifier-scoping             |            Saumya Dikshit             | 145              | N          | N        | N          |                |
 
 ## Requests from the chairs
 
