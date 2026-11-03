@@ -18,21 +18,23 @@
 | 16:40-16:55 |         | Sharing you incident                                                           | Joe Clarke  |
 | 16:55-17:05 | P2      | Experiment on Incident Server Implementation Using Agentic AI                  | Henry Yu    |
 | 17:05-17:15 |         | AI based Network Management Agent(NMA) & YANG Data Model for NMA A2U Interface | Minxue Wang |
-| 17:15-17:35 |         | NMOP rechartering                                                              | Chairs      |
+| 17:15-17:30 |         | NMOP rechartering                                                              | Chairs      |
 
 ## Compact Agenda: Session 2
 
 | Slot        | Project | Topic                                                                            | Presenters        |
 | ----------- | ------- | -------------------------------------------------------------------------------- | ----------------- |
-| 16:30-16:40 |         | Agenda Bashing & Introduction                                                    | Chairs            |
-| 16:40-16:55 | P1      | Hackathon: Validate YANG-Push to Message Broker End-To-End Data Processing Chain | Thomas Graf       |
-| 16:55-17:05 | P3      | BMP YANG Model for Network Telemetry Messages                                    | Leonardo Rodoni   |
-| 17:05-17:10 |         | SIMAP recap                                                                      | Chairs            |
-| 17:10-17:20 | P3      | YANG Data Model for SIMAP Core Topology & Additional Features                   | Olga Havel        |
+| 16:30-16:45 |         | Agenda Bashing & Introduction                                                    | Chairs            |
+| 16:45-17:00 | P1      | Hackathon: Validate YANG-Push to Message Broker End-To-End Data Processing Chain | Thomas Graf       |
+| 17:00-17:10 | P3      | BMP YANG Model for Network Telemetry Messages                                    | Leonardo Rodoni   |
+| 17:10-17:20 | P3      | YANG Data Model for SIMAP Core Topology & Additional Features                    | Olga Havel        |
 | 17:20-17:25 | P3      | Applicability of RFC8795 YANG data model to SIMAP                                | Italo Busi        |
-| 17:25-17:35 |         | Model for distributed policy sharing                                             | Lucía Cabanillas |
-|             |         |                                                                                  |                   |
-|             |         |                                                                                  |                   |
+| 17:25-17:35 |         | Model for distributed policy sharing                                             | Lucía Cabanillas  |
+| 17:35-17:45 |         | Evaluation Methodology for Network Anomaly Detection                             | Mateen Ali Anjum  |
+| 17:45-17:55 |         | Mapping IETF Device YANG models to vendors YANG models                           | Ian Farrer        |
+| 17:55-18:10 |         | NMOP chartering continued **(if needed)**                                        | Chairs            |
+| 18:10-18:20 |         | YANG any data validation **(if time permits)**                                   | Ahmed Elhassany   |
+| 18:20-18:30 |         | Scoping and Comparability Requirements for Telemetry Ids **(if time permits)**   | Saumya Dikshit    |
 
 ## Detailed Agenda: Session 1
 
