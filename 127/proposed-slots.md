@@ -19,6 +19,7 @@ The cumulative requested slots can be seen below:
 |       10       |                           draft-dikshit-nmop-telemetry-identifier-scoping                           |          Saumya Dikshit          | 145              | N          | N        | N          |                |
 |       10       |                         draft-ali-netmod-yang-protobuf-problem-statement-00                         |             Zafar Ali             | 155              | Y          | N        | Y          |                |
 |       15       |                             draft-netana-netmod-yang-anydata-validation                             |          Ahmed Elhassany          | 170              | Y          | N        | N          | N              |
+|       ?       |                             draft-janz-nmrg-adhoc-semantic-reconciliation-01                             |          Christopher Janz          | 170              | Y          | N        | N          | N              |
 
 ## Requests from the chairs
 
