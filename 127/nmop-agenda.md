@@ -33,7 +33,7 @@
 | 17:35-17:45 |         | Evaluation Methodology for Network Anomaly Detection                             | Mateen Ali Anjum  |
 | 17:45-17:55 |         | Mapping IETF Device YANG models to vendors YANG models                           | Ian Farrer        |
 | 17:55-18:00 |         | Generalized Capability Principles                                                | Nigel Davis       |
-| 18:00-18:10 |         | NMOP chartering continued **(if needed)**                                        | Chairs            |
+| 18:00-18:10 |         | NMOP rechartering continued **(if needed)**                                      | Chairs            |
 | 18:10-18:20 |         | YANG anydata validation **(if time permits)**                                    | Ahmed Elhassany   |
 | 18:20-18:30 |         | Scoping and Comparability Requirements for Telemetry Ids **(if time permits)**   | Saumya Dikshit    |
 
@@ -98,3 +98,28 @@
 
 * Presenter: Mateen Ali Anjum
 * Reading Material: [draft-anjum-nmop-anomaly-detection-evaluation](https://datatracker.ietf.org/doc/draft-anjum-nmop-anomaly-detection-evaluation/)
+
+### 8. Mapping IETF Device YANG models to vendors YANG models (10 mins)
+
+* Presenter: Ian Farrer
+* Reading Material: [draft-fl-nmop-device-yang-vendor-mapping](https://datatracker.ietf.org/doc/draft-fl-nmop-device-yang-vendor-mapping/)
+
+### 9. Generalized Capability Principles (5 mins)
+
+* Presenter: Nigel Davis
+* Reading Material: [draft-davis-nmop-generalized-capability-principles](https://datatracker.ietf.org/doc/draft-davis-nmop-generalized-capability-principles/)
+
+### 10. NMOP rechartering continued (_if needed_) (10 mins)
+
+* Presenter: Chairs
+* Reading Material: [charter-ietf-nmop-01-01](https://datatracker.ietf.org/doc/charter-ietf-nmop/01-01/)
+
+### 11. YANG anydata validation (_if time permits_) (10 mins)
+
+* Presenter: Ahmed Elhassany
+* Reading Material: [draft-netana-netmod-yang-anydata-validation](https://datatracker.ietf.org/doc/draft-netana-netmod-yang-anydata-validation/)
+
+### 12. Scoping and Comparability Requirements for Telemetry Ids (_if time permits_) (10 mins)
+
+* Presenter: Saumya Dikshit
+* Reading Material: [draft-dikshit-nmop-telemetry-identifier-scoping](https://datatracker.ietf.org/doc/draft-dikshit-nmop-telemetry-identifier-scoping/)
