@@ -16,9 +16,9 @@
 | ----------- | ------- | ------------------------------------------------------------------------------ | ----------- |
 | 16:30-16:40 |         | Agenda Bashing & Introduction                                                  | Chairs      |
 | 16:40-16:55 |         | Sharing you incident                                                           | Joe Clarke  |
-| 16:55-17:05 | P2      | Experiment on Incident Server Implementation Using Agentic AI                  | Henry Yu    |
-| 17:05-17:15 |         | AI based Network Management Agent(NMA) & YANG Data Model for NMA A2U Interface | Minxue Wang |
-| 17:15-17:30 |         | NMOP rechartering                                                              | Chairs      |
+| 16:55-17:10 |         | NMOP rechartering                                                              | Chairs      |
+| 17:10-17:20 | P2      | Experiment on Incident Server Implementation Using Agentic AI                  | Henry Yu    |
+| 17:20-17:30 |         | AI based Network Management Agent(NMA) & YANG Data Model for NMA A2U Interface | Minxue Wang |
 
 ## Compact Agenda: Session 2
 
@@ -32,7 +32,8 @@
 | 17:25-17:35 |         | Model for distributed policy sharing                                             | Lucía Cabanillas  |
 | 17:35-17:45 |         | Evaluation Methodology for Network Anomaly Detection                             | Mateen Ali Anjum  |
 | 17:45-17:55 |         | Mapping IETF Device YANG models to vendors YANG models                           | Ian Farrer        |
-| 17:55-18:10 |         | NMOP chartering continued **(if needed)**                                        | Chairs            |
+| 17:55-18:00 |         | Generalized Capability Principles                                                | Nigel Davis       |
+| 18:00-18:10 |         | NMOP chartering continued **(if needed)**                                        | Chairs            |
 | 18:10-18:20 |         | YANG anydata validation **(if time permits)**                                    | Ahmed Elhassany   |
 | 18:20-18:30 |         | Scoping and Comparability Requirements for Telemetry Ids **(if time permits)**   | Saumya Dikshit    |
 
