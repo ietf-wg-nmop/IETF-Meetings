@@ -20,6 +20,7 @@ The cumulative requested slots can be seen below:
 |       10       |                         draft-ali-netmod-yang-protobuf-problem-statement-00                         |             Zafar Ali             | 145              | Y          | N        | Y          | N (out of scope) |
 |       15       |                             draft-netana-netmod-yang-anydata-validation                             |          Ahmed Elhassany          | 160              | Y          | N        | N          | **Y** (10 mins if time permits, needed for msg-broker docs)   |
 |       ?       |                           draft-janz-nmrg-adhoc-semantic-reconciliation-01                           |         Christopher Janz         | 170              | Y          | N        | N          |  N (NMRG)   |
+|       10       |                           draft-huang-ainetops-agent-schema-interfaces                           |         Scott Huang         | 170              | Y          | N        | N          |     |
 
 ## Requests from the chairs
 
