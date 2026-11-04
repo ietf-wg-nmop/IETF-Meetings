@@ -46,25 +46,26 @@
 * Presenter: Joe Clarke
 * Reading Material:
 
-### 3. Experiment on Incident Server Implementation Using Agentic AI (10 mins)
+### 3. NMOP rechartering (15 mins)
+
+* Presenter: Chairs
+* Reading Material: [charter-ietf-nmop-01-01](https://datatracker.ietf.org/doc/charter-ietf-nmop/01-01/)
+
+### 4. Experiment on Incident Server Implementation Using Agentic AI (10 mins)
 
 * Presenter: Henry Yu
 * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
 
-### 4. AI based Network Management Agent(NMA) & YANG Data Model for NMA A2U Interface (10 mins)
+### 5. AI based Network Management Agent(NMA) & YANG Data Model for NMA A2U Interface (10 mins)
 
 * Presenter: Minxue Wang
 * Reading Material:
   [draft-zhao-nmop-network-management-agent-06](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/06/)  and  [draft-zhao-nmop-nma-a2u-yang-01](https://datatracker.ietf.org/doc/draft-zhao-nmop-nma-a2u-yang/)
 
-### 5. NMOP rechartering (15 mins)
-
-* Presenter: Chairs
-* Reading Material: [charter-ietf-nmop-01-01](https://datatracker.ietf.org/doc/charter-ietf-nmop/01-01/)
 
 ## Detailed Agenda: Session 2
 
-### 1. Agenda Bashing & Introduction (Chairs) (10 min)
+### 1. Agenda Bashing & Introduction (Chairs) (15 min)
 
 ### 2. Hackathon: Validate YANG-Push to Message Broker End-To-End Data Processing Chain (15 mins)
 
@@ -76,24 +77,24 @@
 * Presenter: Leonardo Rodoni
 * Reading Material: [draft-netana-nmop-message-broker-bmp-telemetry-msg-05](https://datatracker.ietf.org/doc/draft-netana-nmop-message-broker-bmp-telemetry-msg/)
 
-### 4. SIMAP recap (5 mins)
-
-* Presenter: Chairs
-* Reading Material:
-
-### 5. YANG Data Model for SIMAP Core Topology & Additional Features  (10 mins)
+### 4. YANG Data Model for SIMAP Core Topology & Additional Features  (10 mins)
 
 * Presenter: Olga Havel
 * Reading Material:
-  d[raft-havel-nmop-simap-yang-04](https://datatracker.ietf.org/doc/html/draft-havel-nmop-simap-yang-04) and [draft-havel-nmop-simap-features-yang-01](https://datatracker.ietf.org/doc/draft-havel-nmop-simap-features-yang/01/)
+  [draft-havel-nmop-simap-yang-04](https://datatracker.ietf.org/doc/html/draft-havel-nmop-simap-yang-04) and [draft-havel-nmop-simap-features-yang-01](https://datatracker.ietf.org/doc/draft-havel-nmop-simap-features-yang/01/)
 
-### 6. Applicability of RFC8795 YANG data model to SIMAP (5 mins)
+### 5. Applicability of RFC8795 YANG data model to SIMAP (5 mins)
 
 * Presenter: Italo Busi
 * Reading Material:
   [draft-busi-nmop-simap-rfc8795-applicability-03](https://datatracker.ietf.org/doc/draft-busi-nmop-simap-rfc8795-applicability/)
 
-### 7. Model for distributed policy sharing (10 mins)
+### 6. Model for distributed policy sharing (10 mins)
 
-* Presenter: Lucía Cabanillas Rodríguez
+* Presenter: Lucia Cabanillas
 * Reading Material: [draft-cabanillas-nmop-policy-sharing-model](https://datatracker.ietf.org/doc/draft-cabanillas-nmop-policy-sharing-model/)
+
+### 7. Evaluation Methodology for Network Anomaly Detection (10 mins)
+
+* Presenter: Mateen Ali Anjum
+* Reading Material: [draft-anjum-nmop-anomaly-detection-evaluation](https://datatracker.ietf.org/doc/draft-anjum-nmop-anomaly-detection-evaluation/)
