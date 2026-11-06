@@ -49,7 +49,7 @@
 ### 3. NMOP rechartering (15 mins)
 
 * Presenter: Chairs
-* Reading Material: [charter-ietf-nmop-01-01](https://datatracker.ietf.org/doc/charter-ietf-nmop/01-01/)
+* Reading Material: [charter-ietf-nmop-01-02](https://datatracker.ietf.org/doc/charter-ietf-nmop/01-02/)
 
 ### 4. Experiment on Incident Server Implementation Using Agentic AI (10 mins)
 
@@ -112,7 +112,7 @@
 ### 10. NMOP rechartering continued (_if needed_) (10 mins)
 
 * Presenter: Chairs
-* Reading Material: [charter-ietf-nmop-01-01](https://datatracker.ietf.org/doc/charter-ietf-nmop/01-01/)
+* Reading Material: [charter-ietf-nmop-01-02](https://datatracker.ietf.org/doc/charter-ietf-nmop/01-02/)
 
 ### 11. YANG anydata validation (_if time permits_) (10 mins)
 
